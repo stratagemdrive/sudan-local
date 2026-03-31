@@ -1,6 +1,6 @@
 {
   "country": "Sudan",
-  "last_updated": "2026-03-31T00:04:29.545700+00:00",
+  "last_updated": "2026-03-31T14:50:11.458582+00:00",
   "story_count": 9,
   "stories": [
     {
@@ -23,6 +23,20 @@
       "url": "https://www.dabangasudan.org/en/all-news/article/rsf-and-splm-n-seize-parts-of-sudans-blue-nile-region-as-more-than-73000-flee",
       "published_date": "2026-03-24T17:53:57+00:00",
       "category": "Military"
+    },
+    {
+      "title": "Doctors Without Borders: ‘No safe place for women and girls in Darfur’ – at least 3,396 suvivors of GBV treated between January 2024 and November 2025",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/doctors-without-borders-no-safe-place-for-women-and-girls-in-darfur-at-least-3396-suvivors-of-gbv-treated-between-january-2024-and-november-2025",
+      "published_date": "2026-03-31T13:10:05+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "UN alarm at constraints on humanitarian access across Sudan amid ongoing attacks",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/un-alarm-at-constraints-on-humanitarian-access-across-sudan-amid-ongoing-attacks",
+      "published_date": "2026-03-31T08:10:00+00:00",
+      "category": "Local Events"
     },
     {
       "title": "European coalition: East Darfur hospital bombing ‘unacceptable and deplorable’",
@@ -50,20 +64,6 @@
       "source": "Dabanga",
       "url": "https://www.dabangasudan.org/en/all-news/article/sudans-patients-travel-500km-as-el-geziras-health-system-collapses",
       "published_date": "2026-03-27T17:44:40+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Child killed as blaze destroys 900+ homes in North Darfur camp",
-      "source": "Dabanga",
-      "url": "https://www.dabangasudan.org/en/all-news/article/child-killed-as-blaze-destroys-900-homes-in-north-darfur-camp",
-      "published_date": "2026-03-24T14:02:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sudan’s El Gedaref, Kassala face ‘historic’ drinking water crisis",
-      "source": "Dabanga",
-      "url": "https://www.dabangasudan.org/en/all-news/article/sudans-el-gedaref-kassala-face-historic-drinking-water-crisis",
-      "published_date": "2026-03-24T11:42:00+00:00",
       "category": "Local Events"
     }
   ]
