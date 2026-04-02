@@ -1,14 +1,28 @@
 {
   "country": "Sudan",
-  "last_updated": "2026-04-02T00:01:11.236774+00:00",
-  "story_count": 8,
+  "last_updated": "2026-04-02T14:42:14.349110+00:00",
+  "story_count": 10,
   "stories": [
+    {
+      "title": "'The scale of sexual violence is horrific': MSF head of mission Amande Bazerolle",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/perspective/20260402-the-scale-of-sexual-violence-is-horrific-msf-amande-bazerolle",
+      "published_date": "2026-04-02T13:39:24+00:00",
+      "category": "Military"
+    },
     {
       "title": "Sudan army claims gains in South Kordofan, ‘displacement rises in Blue Nile’",
       "source": "Dabanga",
       "url": "https://www.dabangasudan.org/en/all-news/article/sudan-army-claims-gains-in-south-kordofan-displacement-rises-in-blue-nile",
       "published_date": "2026-03-29T16:36:15+00:00",
       "category": "Military"
+    },
+    {
+      "title": "Sudan urged to lift constraints on aviation revenues as Khartoum airport reopens",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/sudan-urged-to-lift-fiscal-constraints-on-aviation-revenues-as-khartoum-airport-reopens",
+      "published_date": "2026-04-02T08:12:00+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Report finds there are no safe places for women in Darfur",
