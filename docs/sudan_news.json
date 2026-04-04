@@ -1,8 +1,22 @@
 {
   "country": "Sudan",
-  "last_updated": "2026-04-03T12:04:51.727917+00:00",
+  "last_updated": "2026-04-04T00:01:09.171102+00:00",
   "story_count": 11,
   "stories": [
+    {
+      "title": "Uganda in shock after 4 children killed in kindergarden",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/eye-on-africa/20260403-uganda-in-shock-after-4-children-killed-in-kindergarden",
+      "published_date": "2026-04-03T21:48:39+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Border town of Tiné caught in the crossfire as Sudan war spills into Chad",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/focus/20260403-tin%C3%A9-caught-in-the-crossfire-war-in-sudan-spilling-over-into-chad",
+      "published_date": "2026-04-03T13:56:57+00:00",
+      "category": "Military"
+    },
     {
       "title": "'The scale of sexual violence is horrific': MSF head of mission Amande Bazerolle",
       "source": "France 24",
@@ -64,20 +78,6 @@
       "source": "Dabanga",
       "url": "https://www.dabangasudan.org/en/all-news/article/crop-prices-surge-in-sudans-el-gezira-as-cultivated-land-shrinks",
       "published_date": "2026-03-29T10:33:02+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Six Sudanese have died in Egyptian custody in six weeks, says refugee group",
-      "source": "Dabanga",
-      "url": "https://www.dabangasudan.org/en/all-news/article/six-sudanese-have-died-in-egyptian-custody-in-six-weeks-says-refugee-group",
-      "published_date": "2026-03-27T18:09:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘Sudan’s patients travel 500km as El Gezira’s health system collapses’",
-      "source": "Dabanga",
-      "url": "https://www.dabangasudan.org/en/all-news/article/sudans-patients-travel-500km-as-el-geziras-health-system-collapses",
-      "published_date": "2026-03-27T17:44:40+00:00",
       "category": "Local Events"
     }
   ]
