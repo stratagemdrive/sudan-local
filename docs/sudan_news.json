@@ -1,8 +1,22 @@
 {
   "country": "Sudan",
-  "last_updated": "2026-04-05T11:56:52.208911+00:00",
-  "story_count": 10,
+  "last_updated": "2026-04-06T00:01:58.821759+00:00",
+  "story_count": 12,
   "stories": [
+    {
+      "title": "UN Coordinator: ‘Ongoing conflict has led to a sharp increase in explosive ordnance contamination across Sudan’",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/un-coordinator-ongoing-conflict-has-led-to-a-sharp-increase-in-explosive-ordnance-contamination-across-sudan",
+      "published_date": "2026-04-05T20:45:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Campaigner: ‘Sudan war has pushed women hundreds of years back’",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/campaigner-sudan-war-has-pushed-women-hundreds-of-years-back",
+      "published_date": "2026-04-05T08:03:00+00:00",
+      "category": "Military"
+    },
     {
       "title": "Uganda in shock after 4 children killed in kindergarden",
       "source": "France 24",
@@ -25,11 +39,11 @@
       "category": "Military"
     },
     {
-      "title": "Sudan army claims gains in South Kordofan, ‘displacement rises in Blue Nile’",
+      "title": "Trachoma cases in eastern and central Sudan, measles outbreak in Darfur",
       "source": "Dabanga",
-      "url": "https://www.dabangasudan.org/en/all-news/article/sudan-army-claims-gains-in-south-kordofan-displacement-rises-in-blue-nile",
-      "published_date": "2026-03-29T16:36:15+00:00",
-      "category": "Military"
+      "url": "https://www.dabangasudan.org/en/all-news/article/trachoma-cases-in-eastern-and-central-sudan-measles-outbreak-in-darfur",
+      "published_date": "2026-04-05T12:30:00+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Sudan displacement surges as Blue Nile clashes compounds suffering",
