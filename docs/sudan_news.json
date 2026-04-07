@@ -1,8 +1,15 @@
 {
   "country": "Sudan",
-  "last_updated": "2026-04-07T00:04:55.171070+00:00",
-  "story_count": 13,
+  "last_updated": "2026-04-07T14:58:42.405326+00:00",
+  "story_count": 12,
   "stories": [
+    {
+      "title": "Sudan timeline January-March 2026: Communities shattered by conflict amid explosive international events",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/sudan-timeline-january-march-2026-communities-shattered-by-conflict-amid-explosive-international-events",
+      "published_date": "2026-04-07T11:54:38+00:00",
+      "category": "Military"
+    },
     {
       "title": "Op-ed: The war on Iran – Regional power politics and domestic exclusion",
       "source": "Dabanga",
@@ -78,20 +85,6 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/report-finds-there-are-no-safe-place-for-women-in-darfur",
       "published_date": "2026-03-31T20:21:29+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Doctors Without Borders: ‘No safe place for women and girls in Darfur’ – at least 3,396 suvivors of GBV treated between January 2024 and November 2025",
-      "source": "Dabanga",
-      "url": "https://www.dabangasudan.org/en/all-news/article/doctors-without-borders-no-safe-place-for-women-and-girls-in-darfur-at-least-3396-suvivors-of-gbv-treated-between-january-2024-and-november-2025",
-      "published_date": "2026-03-31T13:10:05+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "UN alarm at constraints on humanitarian access across Sudan amid ongoing attacks",
-      "source": "Dabanga",
-      "url": "https://www.dabangasudan.org/en/all-news/article/un-alarm-at-constraints-on-humanitarian-access-across-sudan-amid-ongoing-attacks",
-      "published_date": "2026-03-31T08:10:00+00:00",
       "category": "Local Events"
     }
   ]
