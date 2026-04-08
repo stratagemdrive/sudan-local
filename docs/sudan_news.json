@@ -1,6 +1,6 @@
 {
   "country": "Sudan",
-  "last_updated": "2026-04-07T14:58:42.405326+00:00",
+  "last_updated": "2026-04-08T05:31:02.787380+00:00",
   "story_count": 12,
   "stories": [
     {
@@ -60,6 +60,13 @@
       "category": "Military"
     },
     {
+      "title": "STPT report: ‘UAE embargo squeezes Sudan economy, encourages smuggling’",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/stpt-report-uae-embargo-squeezes-sudan-economy-encourages-smuggling",
+      "published_date": "2026-04-07T15:46:47+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "Trachoma cases in eastern and central Sudan, measles outbreak in Darfur",
       "source": "Dabanga",
       "url": "https://www.dabangasudan.org/en/all-news/article/trachoma-cases-in-eastern-and-central-sudan-measles-outbreak-in-darfur",
@@ -78,13 +85,6 @@
       "source": "Dabanga",
       "url": "https://www.dabangasudan.org/en/all-news/article/sudan-urged-to-lift-fiscal-constraints-on-aviation-revenues-as-khartoum-airport-reopens",
       "published_date": "2026-04-02T08:12:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Report finds there are no safe places for women in Darfur",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/report-finds-there-are-no-safe-place-for-women-in-darfur",
-      "published_date": "2026-03-31T20:21:29+00:00",
       "category": "Local Events"
     }
   ]
