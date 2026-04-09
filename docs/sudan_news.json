@@ -1,8 +1,15 @@
 {
   "country": "Sudan",
-  "last_updated": "2026-04-09T00:03:24.141261+00:00",
-  "story_count": 13,
+  "last_updated": "2026-04-09T16:07:09.988606+00:00",
+  "story_count": 12,
   "stories": [
+    {
+      "title": "Rare images of Sudan war reap Africa laurels in 2026 World Press Photo Contest",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/rare-images-of-sudan-war-lauded-in-2026-world-press-photo-contest",
+      "published_date": "2026-04-09T09:00:00+00:00",
+      "category": "Military"
+    },
     {
       "title": "HRW: ‘Sudan army detains, tortures civilians in ethnic targeting campaign’",
       "source": "Dabanga",
@@ -60,13 +67,6 @@
       "category": "Military"
     },
     {
-      "title": "'The scale of sexual violence is horrific': MSF head of mission Amande Bazerolle",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/perspective/20260402-the-scale-of-sexual-violence-is-horrific-msf-amande-bazerolle",
-      "published_date": "2026-04-02T13:39:24+00:00",
-      "category": "Military"
-    },
-    {
       "title": "STPT report: ‘UAE embargo squeezes Sudan economy, encourages smuggling’",
       "source": "Dabanga",
       "url": "https://www.dabangasudan.org/en/all-news/article/stpt-report-uae-embargo-squeezes-sudan-economy-encourages-smuggling",
@@ -85,13 +85,6 @@
       "source": "Dabanga",
       "url": "https://www.dabangasudan.org/en/all-news/article/sudan-displacement-surges-as-blue-nile-clashes-compounds-suffering",
       "published_date": "2026-04-02T17:52:43+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sudan urged to lift constraints on aviation revenues as Khartoum airport reopens",
-      "source": "Dabanga",
-      "url": "https://www.dabangasudan.org/en/all-news/article/sudan-urged-to-lift-fiscal-constraints-on-aviation-revenues-as-khartoum-airport-reopens",
-      "published_date": "2026-04-02T08:12:00+00:00",
       "category": "Local Events"
     }
   ]
