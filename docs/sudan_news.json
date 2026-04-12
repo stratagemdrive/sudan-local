@@ -1,7 +1,7 @@
 {
   "country": "Sudan",
-  "last_updated": "2026-04-12T11:27:46.459736+00:00",
-  "story_count": 12,
+  "last_updated": "2026-04-12T23:26:11.343427+00:00",
+  "story_count": 10,
   "stories": [
     {
       "title": "Sudan govt ‘might reconsider dealings with countries organising and sponsoring Berlin conference’",
@@ -60,13 +60,6 @@
       "category": "Military"
     },
     {
-      "title": "UN Coordinator: ‘Ongoing conflict has led to a sharp increase in explosive ordnance contamination across Sudan’",
-      "source": "Dabanga",
-      "url": "https://www.dabangasudan.org/en/all-news/article/un-coordinator-ongoing-conflict-has-led-to-a-sharp-increase-in-explosive-ordnance-contamination-across-sudan",
-      "published_date": "2026-04-05T20:45:00+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Call for business world to cease trading Sudan’s ‘conflict gold’",
       "source": "Dabanga",
       "url": "https://www.dabangasudan.org/en/all-news/article/call-for-business-world-to-cease-trading-sudanese-gold-that-is-funding-war",
@@ -79,13 +72,6 @@
       "url": "https://www.dabangasudan.org/en/all-news/article/stpt-report-uae-embargo-squeezes-sudan-economy-encourages-smuggling",
       "published_date": "2026-04-07T15:46:47+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "Trachoma cases in eastern and central Sudan, measles outbreak in Darfur",
-      "source": "Dabanga",
-      "url": "https://www.dabangasudan.org/en/all-news/article/trachoma-cases-in-eastern-and-central-sudan-measles-outbreak-in-darfur",
-      "published_date": "2026-04-05T12:30:00+00:00",
-      "category": "Local Events"
     }
   ]
 }
