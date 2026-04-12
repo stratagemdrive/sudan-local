@@ -1,8 +1,22 @@
 {
   "country": "Sudan",
-  "last_updated": "2026-04-11T23:24:25.870603+00:00",
-  "story_count": 11,
+  "last_updated": "2026-04-12T11:27:46.459736+00:00",
+  "story_count": 12,
   "stories": [
+    {
+      "title": "Sudan govt ‘might reconsider dealings with countries organising and sponsoring Berlin conference’",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/sudan-govt-might-reconsider-dealings-with-countries-organising-and-sponsoring-berlin-conference",
+      "published_date": "2026-04-12T06:44:22+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Civilian death toll from North Darfur drone attack on wedding procession rises to 58",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/civilian-death-toll-from-north-darfur-drone-attack-on-wedding-procession-rises-to-58",
+      "published_date": "2026-04-12T05:58:16+00:00",
+      "category": "Military"
+    },
     {
       "title": "Sudan’s ERC committee: ‘Residual Islamic Movement funds abroad perpetuate war’",
       "source": "Dabanga",
@@ -50,13 +64,6 @@
       "source": "Dabanga",
       "url": "https://www.dabangasudan.org/en/all-news/article/un-coordinator-ongoing-conflict-has-led-to-a-sharp-increase-in-explosive-ordnance-contamination-across-sudan",
       "published_date": "2026-04-05T20:45:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Campaigner: ‘Sudan war has pushed women hundreds of years back’",
-      "source": "Dabanga",
-      "url": "https://www.dabangasudan.org/en/all-news/article/campaigner-sudan-war-has-pushed-women-hundreds-of-years-back",
-      "published_date": "2026-04-05T08:03:00+00:00",
       "category": "Military"
     },
     {
