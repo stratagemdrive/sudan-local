@@ -1,7 +1,7 @@
 {
   "country": "Sudan",
-  "last_updated": "2026-04-13T23:35:25.978923+00:00",
-  "story_count": 9,
+  "last_updated": "2026-04-14T11:52:50.933351+00:00",
+  "story_count": 10,
   "stories": [
     {
       "title": "Sudan govt ‘might reconsider dealings with countries organising and sponsoring Berlin conference’",
@@ -9,6 +9,13 @@
       "url": "https://www.dabangasudan.org/en/all-news/article/sudan-govt-might-reconsider-dealings-with-countries-organising-and-sponsoring-berlin-conference",
       "published_date": "2026-04-12T06:44:22+00:00",
       "category": "Diplomacy"
+    },
+    {
+      "title": "Sudan drone strikes kill nearly 700 in three months as civil war reaches grim milestone",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/africa/20260414-sudan-drone-strikes-kill-nearly-700-in-three-months-as-civil-war-reaches-grim-milestone",
+      "published_date": "2026-04-14T09:28:25+00:00",
+      "category": "Military"
     },
     {
       "title": "Sudan army air strikes intensify across Darfur — at least 24 dead and dozens injured",
