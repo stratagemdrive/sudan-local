@@ -1,14 +1,35 @@
 {
   "country": "Sudan",
-  "last_updated": "2026-04-14T11:52:50.933351+00:00",
-  "story_count": 10,
+  "last_updated": "2026-04-14T23:35:46.101310+00:00",
+  "story_count": 13,
   "stories": [
+    {
+      "title": "Sudan Quintet: ‘Berlin conference opportunity to reinforce international engagement, call for de-escalation, and elevate Sudanese civilian perspectives…’",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/sudan-quintet-berlin-conference-an-opportunity-to-reinforce-international-engagement-call-for-de-escalation-and-elevate-sudanese-civilian-perspectives",
+      "published_date": "2026-04-14T22:30:23+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Sudan govt ‘might reconsider dealings with countries organising and sponsoring Berlin conference’",
       "source": "Dabanga",
       "url": "https://www.dabangasudan.org/en/all-news/article/sudan-govt-might-reconsider-dealings-with-countries-organising-and-sponsoring-berlin-conference",
       "published_date": "2026-04-12T06:44:22+00:00",
       "category": "Diplomacy"
+    },
+    {
+      "title": "WFP Director: ‘Do not let Sudan become a forgotten emergency’",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/wfp-director-do-not-let-sudan-become-a-forgotten-emergency",
+      "published_date": "2026-04-14T23:03:07+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Sudan to mark third anniversary of civil war",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/eye-on-africa/20260414-sudan-to-mark-third-anniversary-of-civil-war",
+      "published_date": "2026-04-14T21:08:53+00:00",
+      "category": "Military"
     },
     {
       "title": "Sudan drone strikes kill nearly 700 in three months as civil war reaches grim milestone",
@@ -53,13 +74,6 @@
       "category": "Military"
     },
     {
-      "title": "Sudan timeline January-March 2026: Communities shattered by conflict amid explosive international events",
-      "source": "Dabanga",
-      "url": "https://www.dabangasudan.org/en/all-news/article/sudan-timeline-january-march-2026-communities-shattered-by-conflict-amid-explosive-international-events",
-      "published_date": "2026-04-07T11:54:38+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Call for business world to cease trading Sudan’s ‘conflict gold’",
       "source": "Dabanga",
       "url": "https://www.dabangasudan.org/en/all-news/article/call-for-business-world-to-cease-trading-sudanese-gold-that-is-funding-war",
@@ -67,11 +81,18 @@
       "category": "Economy"
     },
     {
-      "title": "STPT report: ‘UAE embargo squeezes Sudan economy, encourages smuggling’",
+      "title": "‘Full civilian participation essential for peace in Sudan’, civil society leaders tell Berlin Conference delegates",
       "source": "Dabanga",
-      "url": "https://www.dabangasudan.org/en/all-news/article/stpt-report-uae-embargo-squeezes-sudan-economy-encourages-smuggling",
-      "published_date": "2026-04-07T15:46:47+00:00",
-      "category": "Economy"
+      "url": "https://www.dabangasudan.org/en/all-news/article/full-civilian-participation-essential-for-peace-in-sudan-civil-society-leaders-tell-berlin-conference-delegates",
+      "published_date": "2026-04-14T17:32:51+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Sudanese communities are rebuilding under fire. Will Berlin back them?",
+      "source": "The New Humanitarian",
+      "url": "https://www.thenewhumanitarian.org/opinion/2026/04/14/sudanese-communities-are-rebuilding-under-fire-will-berlin-back-them",
+      "published_date": "2026-04-14T12:43:59+00:00",
+      "category": "Local Events"
     }
   ]
 }
