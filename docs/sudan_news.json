@@ -1,7 +1,7 @@
 {
   "country": "Sudan",
-  "last_updated": "2026-04-14T23:35:46.101310+00:00",
-  "story_count": 13,
+  "last_updated": "2026-04-15T11:50:47.537421+00:00",
+  "story_count": 16,
   "stories": [
     {
       "title": "Sudan Quintet: ‘Berlin conference opportunity to reinforce international engagement, call for de-escalation, and elevate Sudanese civilian perspectives…’",
@@ -16,6 +16,27 @@
       "url": "https://www.dabangasudan.org/en/all-news/article/sudan-govt-might-reconsider-dealings-with-countries-organising-and-sponsoring-berlin-conference",
       "published_date": "2026-04-12T06:44:22+00:00",
       "category": "Diplomacy"
+    },
+    {
+      "title": "Three years on: Sudan war enters fourth year as calls grow for civilian-led peace",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/three-years-on-sudan-war-enters-fourth-year-as-calls-grow-for-civilian-led-peace",
+      "published_date": "2026-04-15T10:10:10+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "After three years of war, exiled Sudanese find their place in Kenya",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/focus/20260415-after-three-years-of-war-exiled-sudanese-find-their-place-in-kenya",
+      "published_date": "2026-04-15T09:39:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Sudan slams Berlin donor conference as ‘unacceptable’ as devastating war enters fourth year",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/africa/20260415-sudan-slams-berlin-donors-conference-as-unacceptable-as-devastating-war-enters-fourth-year",
+      "published_date": "2026-04-15T07:03:20+00:00",
+      "category": "Military"
     },
     {
       "title": "WFP Director: ‘Do not let Sudan become a forgotten emergency’",
