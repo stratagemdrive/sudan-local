@@ -1,8 +1,15 @@
 {
   "country": "Sudan",
-  "last_updated": "2026-04-16T11:54:12.169711+00:00",
-  "story_count": 24,
+  "last_updated": "2026-04-16T23:33:04.510290+00:00",
+  "story_count": 26,
   "stories": [
+    {
+      "title": "Germany: €1.5bn aid pledged in Berlin, but no Sudan ceasefire deal",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/germany-e1-5bn-aid-pledged-in-berlin-but-no-sudan-ceasefire-deal",
+      "published_date": "2026-04-16T16:25:00+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Legitimacy dilemma and sovereignty concerns: an analysis of why both sides of the conflict rejected the Berlin conference",
       "source": "Dabanga",
@@ -30,6 +37,27 @@
       "url": "https://www.dabangasudan.org/en/all-news/article/sudan-govt-might-reconsider-dealings-with-countries-organising-and-sponsoring-berlin-conference",
       "published_date": "2026-04-12T06:44:22+00:00",
       "category": "Diplomacy"
+    },
+    {
+      "title": "Analysis: Sudan’s online propaganda battlefield",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/analysis-sudans-online-propaganda-battlefield",
+      "published_date": "2026-04-16T20:35:23+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Drone attacks kill at least 44 civilians in Darfur and Kordofan",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/drone-attacks-kill-at-least-44-civilians-in-darfur-and-kordofan",
+      "published_date": "2026-04-16T19:05:21+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Sovereignty Council advisor in Washington to discuss Sudan war",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/sovereignty-council-advisor-in-washington-to-discuss-sudan-war",
+      "published_date": "2026-04-16T11:41:00+00:00",
+      "category": "Military"
     },
     {
       "title": "Sudan civil war: Civilians caught in the deadly crossfire of a ruthless army-RSF power struggle",
@@ -130,24 +158,10 @@
       "category": "Military"
     },
     {
-      "title": "Sudan’s ERC committee: ‘Residual Islamic Movement funds abroad perpetuate war’",
-      "source": "Dabanga",
-      "url": "https://www.dabangasudan.org/en/all-news/article/sudans-erc-committee-residual-islamic-movement-funds-abroad-perpetuate-war",
-      "published_date": "2026-04-09T15:00:00+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Berlin Conference co-hosts pledge €1.5bn humanitarian aid: ‘Sudan will not become a forgotten crisis’",
       "source": "Dabanga",
       "url": "https://www.dabangasudan.org/en/all-news/article/berlin-conference-co-hosts-pledge-e1-5bn-humanitarian-aid-and-that-sudan-will-not-become-a-forgotten-crisis",
       "published_date": "2026-04-15T20:27:45+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Call for business world to cease trading Sudan’s ‘conflict gold’",
-      "source": "Dabanga",
-      "url": "https://www.dabangasudan.org/en/all-news/article/call-for-business-world-to-cease-trading-sudanese-gold-that-is-funding-war",
-      "published_date": "2026-04-09T17:20:00+00:00",
       "category": "Economy"
     },
     {
