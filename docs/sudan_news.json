@@ -1,6 +1,6 @@
 {
   "country": "Sudan",
-  "last_updated": "2026-04-15T23:34:46.743911+00:00",
+  "last_updated": "2026-04-16T11:54:12.169711+00:00",
   "story_count": 24,
   "stories": [
     {
@@ -30,6 +30,13 @@
       "url": "https://www.dabangasudan.org/en/all-news/article/sudan-govt-might-reconsider-dealings-with-countries-organising-and-sponsoring-berlin-conference",
       "published_date": "2026-04-12T06:44:22+00:00",
       "category": "Diplomacy"
+    },
+    {
+      "title": "Sudan civil war: Civilians caught in the deadly crossfire of a ruthless army-RSF power struggle",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/spotlight/20260416-sudan-civil-war-civilians-caught-in-the-deadly-crossfire-of-a-ruthless-army-rsf-power-struggle",
+      "published_date": "2026-04-16T11:28:39+00:00",
+      "category": "Military"
     },
     {
       "title": "Two billion dollars pledge for Sudan",
@@ -127,13 +134,6 @@
       "source": "Dabanga",
       "url": "https://www.dabangasudan.org/en/all-news/article/sudans-erc-committee-residual-islamic-movement-funds-abroad-perpetuate-war",
       "published_date": "2026-04-09T15:00:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Rare images of Sudan war reap Africa laurels in 2026 World Press Photo Contest",
-      "source": "Dabanga",
-      "url": "https://www.dabangasudan.org/en/all-news/article/rare-images-of-sudan-war-lauded-in-2026-world-press-photo-contest",
-      "published_date": "2026-04-09T09:00:00+00:00",
       "category": "Military"
     },
     {
