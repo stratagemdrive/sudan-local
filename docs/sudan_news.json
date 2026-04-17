@@ -1,8 +1,22 @@
 {
   "country": "Sudan",
-  "last_updated": "2026-04-17T11:43:31.572743+00:00",
-  "story_count": 26,
+  "last_updated": "2026-04-17T23:31:18.981382+00:00",
+  "story_count": 28,
   "stories": [
+    {
+      "title": "Three years of war in Sudan, Lebanon’s tenuous ceasefire, and is Cuba next? The Cheat Sheet",
+      "source": "The New Humanitarian",
+      "url": "https://www.thenewhumanitarian.org/news/2026/04/17/three-years-war-sudan-lebanon-ceasefire-cuba-cheat-sheet",
+      "published_date": "2026-04-17T15:39:49+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "IGAD envoy to Sudan: ‘Quintet to convene meeting for those absent from Berlin conf’",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/igad-envoy-to-sudan-quintet-to-convene-meeting-for-those-absent-from-berlin-conf",
+      "published_date": "2026-04-17T15:15:00+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Germany: €1.5bn aid pledged in Berlin, but no Sudan ceasefire deal",
       "source": "Dabanga",
