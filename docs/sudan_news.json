@@ -1,7 +1,7 @@
 {
   "country": "Sudan",
-  "last_updated": "2026-04-18T11:28:10.973485+00:00",
-  "story_count": 28,
+  "last_updated": "2026-04-18T23:26:37.636663+00:00",
+  "story_count": 30,
   "stories": [
     {
       "title": "Three years of war in Sudan, Lebanon’s tenuous ceasefire, and is Cuba next? The Cheat Sheet",
@@ -51,6 +51,20 @@
       "url": "https://www.dabangasudan.org/en/all-news/article/sudan-govt-might-reconsider-dealings-with-countries-organising-and-sponsoring-berlin-conference",
       "published_date": "2026-04-12T06:44:22+00:00",
       "category": "Diplomacy"
+    },
+    {
+      "title": "Sudan’s war leaves thousands of children alone and displaced",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/sudan-s-war-leaves-thousands-of-children-alone-and-displaced",
+      "published_date": "2026-04-18T12:39:57+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Sudan war enters fourth year as the humanitarian crisis deepens",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/sudan-war-enters-fourth-year-as-the-humanitarian-crisis-deepens",
+      "published_date": "2026-04-18T11:39:40+00:00",
+      "category": "Military"
     },
     {
       "title": "Analysis: Sudan’s online propaganda battlefield",
