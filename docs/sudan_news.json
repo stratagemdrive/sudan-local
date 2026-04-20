@@ -1,6 +1,6 @@
 {
   "country": "Sudan",
-  "last_updated": "2026-04-20T11:59:34.126468+00:00",
+  "last_updated": "2026-04-20T23:35:14.844563+00:00",
   "story_count": 28,
   "stories": [
     {
@@ -44,6 +44,13 @@
       "url": "https://www.dabangasudan.org/en/all-news/article/sudan-quintet-berlin-conference-an-opportunity-to-reinforce-international-engagement-call-for-de-escalation-and-elevate-sudanese-civilian-perspectives",
       "published_date": "2026-04-14T22:30:23+00:00",
       "category": "Diplomacy"
+    },
+    {
+      "title": "Rising civilian toll in South Kordofan as fighting intensifies, drone strike kills three at West Darfur hospital",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/rising-civilian-toll-in-south-kordofan-as-fighting-intensifies-drone-strike-kills-three-at-west-darfur-hospital",
+      "published_date": "2026-04-20T18:24:25+00:00",
+      "category": "Military"
     },
     {
       "title": "Sudan’s war leaves thousands of children alone and displaced",
@@ -162,13 +169,6 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/africa/20260414-sudan-drone-strikes-kill-nearly-700-in-three-months-as-civil-war-reaches-grim-milestone",
       "published_date": "2026-04-14T09:28:25+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Sudan army air strikes intensify across Darfur — at least 24 dead and dozens injured",
-      "source": "Dabanga",
-      "url": "https://www.dabangasudan.org/en/all-news/article/sudan-army-air-strikes-intensify-across-darfur-at-least-24-dead-and-dozens-injured",
-      "published_date": "2026-04-13T15:32:00+00:00",
       "category": "Military"
     },
     {
