@@ -1,7 +1,7 @@
 {
   "country": "Sudan",
-  "last_updated": "2026-04-21T11:55:18.923034+00:00",
-  "story_count": 27,
+  "last_updated": "2026-04-21T23:28:27.755852+00:00",
+  "story_count": 23,
   "stories": [
     {
       "title": "Three years of war in Sudan, Lebanon’s tenuous ceasefire, and is Cuba next? The Cheat Sheet",
@@ -36,13 +36,6 @@
       "source": "Dabanga",
       "url": "https://www.dabangasudan.org/en/all-news/article/sudan-govt-reiterates-rejection-of-the-berlin-conference-pro-army-voices-call-out-selectivity",
       "published_date": "2026-04-15T14:26:53+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Sudan Quintet: ‘Berlin conference opportunity to reinforce international engagement, call for de-escalation, and elevate Sudanese civilian perspectives…’",
-      "source": "Dabanga",
-      "url": "https://www.dabangasudan.org/en/all-news/article/sudan-quintet-berlin-conference-an-opportunity-to-reinforce-international-engagement-call-for-de-escalation-and-elevate-sudanese-civilian-perspectives",
-      "published_date": "2026-04-14T22:30:23+00:00",
       "category": "Diplomacy"
     },
     {
@@ -151,20 +144,6 @@
       "category": "Military"
     },
     {
-      "title": "WFP Director: ‘Do not let Sudan become a forgotten emergency’",
-      "source": "Dabanga",
-      "url": "https://www.dabangasudan.org/en/all-news/article/wfp-director-do-not-let-sudan-become-a-forgotten-emergency",
-      "published_date": "2026-04-14T23:03:07+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Sudan to mark third anniversary of civil war",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/eye-on-africa/20260414-sudan-to-mark-third-anniversary-of-civil-war",
-      "published_date": "2026-04-14T21:08:53+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Berlin Conference co-hosts pledge €1.5bn humanitarian aid: ‘Sudan will not become a forgotten crisis’",
       "source": "Dabanga",
       "url": "https://www.dabangasudan.org/en/all-news/article/berlin-conference-co-hosts-pledge-e1-5bn-humanitarian-aid-and-that-sudan-will-not-become-a-forgotten-crisis",
@@ -172,24 +151,17 @@
       "category": "Economy"
     },
     {
+      "title": "Measles surge across Darfur and Kordofan triggers urgent vaccination response",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/measles-surge-across-darfur-and-kordofan-triggers-urgent-vaccination-response",
+      "published_date": "2026-04-21T17:00:39+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "‘Presence vs absence’ at Berlin Conference, disputes over civilian representation, and exclusion of warring parties",
       "source": "Dabanga",
       "url": "https://www.dabangasudan.org/en/all-news/article/presence-vs-absence-at-berlin-conference-disputes-over-civilian-representation-and-exclusion-of-warring-parties",
       "published_date": "2026-04-15T08:04:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘Full civilian participation essential for peace in Sudan’, civil society leaders tell Berlin Conference delegates",
-      "source": "Dabanga",
-      "url": "https://www.dabangasudan.org/en/all-news/article/full-civilian-participation-essential-for-peace-in-sudan-civil-society-leaders-tell-berlin-conference-delegates",
-      "published_date": "2026-04-14T17:32:51+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sudanese communities are rebuilding under fire. Will Berlin back them?",
-      "source": "The New Humanitarian",
-      "url": "https://www.thenewhumanitarian.org/opinion/2026/04/14/sudanese-communities-are-rebuilding-under-fire-will-berlin-back-them",
-      "published_date": "2026-04-14T12:43:59+00:00",
       "category": "Local Events"
     }
   ]
