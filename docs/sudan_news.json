@@ -1,7 +1,7 @@
 {
   "country": "Sudan",
-  "last_updated": "2026-04-23T11:55:08.487777+00:00",
-  "story_count": 13,
+  "last_updated": "2026-04-23T23:37:03.537528+00:00",
+  "story_count": 10,
   "stories": [
     {
       "title": "EU: Sudan war ‘destroying lives’ as bloc urges ceasefire and end to violations",
@@ -22,13 +22,6 @@
       "source": "Dabanga",
       "url": "https://www.dabangasudan.org/en/all-news/article/igad-envoy-to-sudan-quintet-to-convene-meeting-for-those-absent-from-berlin-conf",
       "published_date": "2026-04-17T15:15:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Germany: €1.5bn aid pledged in Berlin, but no Sudan ceasefire deal",
-      "source": "Dabanga",
-      "url": "https://www.dabangasudan.org/en/all-news/article/germany-e1-5bn-aid-pledged-in-berlin-but-no-sudan-ceasefire-deal",
-      "published_date": "2026-04-16T16:25:00+00:00",
       "category": "Diplomacy"
     },
     {
@@ -64,20 +57,6 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/sudan-war-enters-fourth-year-as-the-humanitarian-crisis-deepens",
       "published_date": "2026-04-18T11:39:40+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Analysis: Sudan’s online propaganda battlefield",
-      "source": "Dabanga",
-      "url": "https://www.dabangasudan.org/en/all-news/article/analysis-sudans-online-propaganda-battlefield",
-      "published_date": "2026-04-16T20:35:23+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Drone attacks kill at least 44 civilians in Darfur and Kordofan",
-      "source": "Dabanga",
-      "url": "https://www.dabangasudan.org/en/all-news/article/drone-attacks-kill-at-least-44-civilians-in-darfur-and-kordofan",
-      "published_date": "2026-04-16T19:05:21+00:00",
       "category": "Military"
     },
     {
