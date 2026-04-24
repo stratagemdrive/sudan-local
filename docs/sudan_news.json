@@ -1,7 +1,7 @@
 {
   "country": "Sudan",
-  "last_updated": "2026-04-23T23:37:03.537528+00:00",
-  "story_count": 10,
+  "last_updated": "2026-04-24T11:53:08.658975+00:00",
+  "story_count": 11,
   "stories": [
     {
       "title": "EU: Sudan war ‘destroying lives’ as bloc urges ceasefire and end to violations",
@@ -23,6 +23,13 @@
       "url": "https://www.dabangasudan.org/en/all-news/article/igad-envoy-to-sudan-quintet-to-convene-meeting-for-those-absent-from-berlin-conf",
       "published_date": "2026-04-17T15:15:00+00:00",
       "category": "Diplomacy"
+    },
+    {
+      "title": "Fleeing war in Sudan, refugees flock to Libya's Kufra province",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/focus/20260424-fleeing-war-in-sudan-refugees-flock-to-libya-s-kufra-province",
+      "published_date": "2026-04-24T11:50:13+00:00",
+      "category": "Military"
     },
     {
       "title": "Sudan rights group: ‘9 detainees executed, 246 held in South Kordofan’",
