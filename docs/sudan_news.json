@@ -1,7 +1,7 @@
 {
   "country": "Sudan",
-  "last_updated": "2026-04-24T11:53:08.658975+00:00",
-  "story_count": 11,
+  "last_updated": "2026-04-24T23:32:43.919462+00:00",
+  "story_count": 10,
   "stories": [
     {
       "title": "EU: Sudan war ‘destroying lives’ as bloc urges ceasefire and end to violations",
@@ -11,18 +11,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Three years of war in Sudan, Lebanon’s tenuous ceasefire, and is Cuba next? The Cheat Sheet",
-      "source": "The New Humanitarian",
-      "url": "https://www.thenewhumanitarian.org/news/2026/04/17/three-years-war-sudan-lebanon-ceasefire-cuba-cheat-sheet",
-      "published_date": "2026-04-17T15:39:49+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "IGAD envoy to Sudan: ‘Quintet to convene meeting for those absent from Berlin conf’",
+      "title": "Sudan army claims precision strikes ‘inflicted heavy losses on RSF’",
       "source": "Dabanga",
-      "url": "https://www.dabangasudan.org/en/all-news/article/igad-envoy-to-sudan-quintet-to-convene-meeting-for-those-absent-from-berlin-conf",
-      "published_date": "2026-04-17T15:15:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dabangasudan.org/en/all-news/article/sudan-army-claims-precision-strikes-inflicted-heavy-losses-on-rsf",
+      "published_date": "2026-04-24T16:10:58+00:00",
+      "category": "Military"
     },
     {
       "title": "Fleeing war in Sudan, refugees flock to Libya's Kufra province",
