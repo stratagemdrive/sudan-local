@@ -1,7 +1,7 @@
 {
   "country": "Sudan",
-  "last_updated": "2026-04-26T23:30:49.842111+00:00",
-  "story_count": 8,
+  "last_updated": "2026-04-27T12:17:03.300820+00:00",
+  "story_count": 11,
   "stories": [
     {
       "title": "EU: Sudan war ‘destroying lives’ as bloc urges ceasefire and end to violations",
@@ -9,6 +9,13 @@
       "url": "https://www.dabangasudan.org/en/all-news/article/eu-sudan-war-destroying-lives-as-bloc-urges-ceasefire-and-end-to-violations",
       "published_date": "2026-04-22T16:47:53+00:00",
       "category": "Diplomacy"
+    },
+    {
+      "title": "9k+ measles cases in South Darfur — vaccinations intensify",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/9k-measles-cases-in-south-darfur-vaccinations-intensify",
+      "published_date": "2026-04-27T12:15:33+00:00",
+      "category": "Military"
     },
     {
       "title": "Sudan army claims precision strikes ‘inflicted heavy losses on RSF’",
@@ -51,6 +58,20 @@
       "url": "https://www.france24.com/en/tv-shows/t%C3%AAte-%C3%A0-t%C3%AAte/20260423-humanitarian-worker-mike-penrose-on-the-food-from-ukraine-programme",
       "published_date": "2026-04-23T11:47:18+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "At least 7 dead, UNHCR aid vehicle destroyed in Kordofan and North Darfur drone strikes",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/unhcr-aid-vehicle-destroyed-in-north-darfur-drone-strike",
+      "published_date": "2026-04-27T09:30:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Statute of Sudan’s Democratic Bloc signed in Port Sudan",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/statute-of-sudans-democratic-bloc-signed-in-port-sudan",
+      "published_date": "2026-04-27T08:10:00+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Measles surge across Darfur and Kordofan triggers urgent vaccination response",
