@@ -1,7 +1,7 @@
 {
   "country": "Sudan",
-  "last_updated": "2026-04-28T23:45:01.067193+00:00",
-  "story_count": 13,
+  "last_updated": "2026-04-29T12:11:47.731159+00:00",
+  "story_count": 15,
   "stories": [
     {
       "title": "EU: Sudan war ‘destroying lives’ as bloc urges ceasefire and end to violations",
@@ -51,6 +51,20 @@
       "url": "https://www.thenewhumanitarian.org/analysis/2026/04/22/civil-war-reignites-south-sudan-so-too-does-battle-over-aid",
       "published_date": "2026-04-22T15:06:20+00:00",
       "category": "Military"
+    },
+    {
+      "title": "World Food Programme: Funding shortfall means aid to Sudan could be cut in weeks as famine deepens",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/world-food-programme-funding-shortfall-means-aid-to-sudan-could-be-cut-in-weeks-as-famine-deepens",
+      "published_date": "2026-04-29T12:02:37+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "‘Sudan govt scramble to shore-up Sudanese Pound could backfire’",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/sudan-govt-scramble-to-shore-up-sudanese-pound-could-backfire",
+      "published_date": "2026-04-29T08:15:00+00:00",
+      "category": "Economy"
     },
     {
       "title": "Sudan bans ‘luxurious and unnecessary imports as currency weakens",
