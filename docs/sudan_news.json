@@ -1,15 +1,8 @@
 {
   "country": "Sudan",
-  "last_updated": "2026-04-29T12:11:47.731159+00:00",
-  "story_count": 15,
+  "last_updated": "2026-04-29T23:44:36.078462+00:00",
+  "story_count": 13,
   "stories": [
-    {
-      "title": "EU: Sudan war ‘destroying lives’ as bloc urges ceasefire and end to violations",
-      "source": "Dabanga",
-      "url": "https://www.dabangasudan.org/en/all-news/article/eu-sudan-war-destroying-lives-as-bloc-urges-ceasefire-and-end-to-violations",
-      "published_date": "2026-04-22T16:47:53+00:00",
-      "category": "Diplomacy"
-    },
     {
       "title": "New report alleges ‘RSF-linked network tied to $24 million UAE property portfolio’",
       "source": "Dabanga",
@@ -39,20 +32,6 @@
       "category": "Military"
     },
     {
-      "title": "Sudan rights group: ‘9 detainees executed, 246 held in South Kordofan’",
-      "source": "Dabanga",
-      "url": "https://www.dabangasudan.org/en/all-news/article/sudan-rights-group-9-detainees-executed-246-held-in-south-kordofan",
-      "published_date": "2026-04-22T16:36:59+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "As civil war reignites in South Sudan, so too does a battle over aid",
-      "source": "The New Humanitarian",
-      "url": "https://www.thenewhumanitarian.org/analysis/2026/04/22/civil-war-reignites-south-sudan-so-too-does-battle-over-aid",
-      "published_date": "2026-04-22T15:06:20+00:00",
-      "category": "Military"
-    },
-    {
       "title": "World Food Programme: Funding shortfall means aid to Sudan could be cut in weeks as famine deepens",
       "source": "Dabanga",
       "url": "https://www.dabangasudan.org/en/all-news/article/world-food-programme-funding-shortfall-means-aid-to-sudan-could-be-cut-in-weeks-as-famine-deepens",
@@ -79,6 +58,13 @@
       "url": "https://www.france24.com/en/tv-shows/t%C3%AAte-%C3%A0-t%C3%AAte/20260423-humanitarian-worker-mike-penrose-on-the-food-from-ukraine-programme",
       "published_date": "2026-04-23T11:47:18+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "How Sudan’s El Obeid survives drone strikes and siege warfare",
+      "source": "The New Humanitarian",
+      "url": "https://www.thenewhumanitarian.org/analysis/2026/04/29/how-sudan-el-obeid-survives-drone-strikes-siege-warfare",
+      "published_date": "2026-04-29T12:46:46+00:00",
+      "category": "Local Events"
     },
     {
       "title": "UNICEF warns of catastrophe facing Darfur’s children 20 years after crisis first shocked world",
