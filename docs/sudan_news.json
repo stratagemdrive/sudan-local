@@ -1,8 +1,22 @@
 {
   "country": "Sudan",
-  "last_updated": "2026-04-30T12:09:36.083747+00:00",
-  "story_count": 12,
+  "last_updated": "2026-04-30T23:42:57.427824+00:00",
+  "story_count": 16,
   "stories": [
+    {
+      "title": "Berlin Conference on Sudan — co-hosts reaffirm ‘guiding principles for durable resolution to conflict’",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/berlin-conference-on-sudan-co-hosts-reaffirm-guiding-principles-for-durable-resolution-to-conflict",
+      "published_date": "2026-04-30T18:10:42+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Sudanese refugees injured in sixth armed attack on camp in Ethiopia",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/sudanese-refugees-injured-in-sixth-armed-attack-on-camp-in-ethiopia",
+      "published_date": "2026-04-30T17:20:37+00:00",
+      "category": "Military"
+    },
     {
       "title": "New report alleges ‘RSF-linked network tied to $24 million UAE property portfolio’",
       "source": "Dabanga",
@@ -51,6 +65,20 @@
       "url": "https://www.dabangasudan.org/en/all-news/article/sudan-bans-luxurious-and-unnecessary-imports-as-currency-weakens",
       "published_date": "2026-04-28T07:30:00+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "17 Sudanese refugees drown off Tobruk, Libya",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/17-sudanese-refugees-drown-off-tobruk-libya",
+      "published_date": "2026-04-30T16:56:03+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Media under fire: Sudan slides to 161/180 in 2026 World Press Freedom Index",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/media-under-fire-sudan-slides-to-161-180-in-2026-world-press-freedom-index",
+      "published_date": "2026-04-30T10:05:00+00:00",
+      "category": "Local Events"
     },
     {
       "title": "How Sudan’s El Obeid survives drone strikes and siege warfare",
