@@ -1,8 +1,15 @@
 {
   "country": "Sudan",
-  "last_updated": "2026-05-02T11:38:01.110655+00:00",
-  "story_count": 14,
+  "last_updated": "2026-05-02T23:34:32.208602+00:00",
+  "story_count": 15,
   "stories": [
+    {
+      "title": "Sudan's medicine crisis worsens",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/sudan-s-medicine-crisis-worsens",
+      "published_date": "2026-05-02T12:22:55+00:00",
+      "category": "Military"
+    },
     {
       "title": "Berlin Conference on Sudan — co-hosts reaffirm ‘guiding principles for durable resolution to conflict’",
       "source": "Dabanga",
