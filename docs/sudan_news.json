@@ -1,8 +1,15 @@
 {
   "country": "Sudan",
-  "last_updated": "2026-05-03T11:36:00.691493+00:00",
-  "story_count": 15,
+  "last_updated": "2026-05-03T23:35:39.923235+00:00",
+  "story_count": 16,
   "stories": [
+    {
+      "title": "Sudan Doctors Network: ‘RSF shelling devastates health services in South Kordofan’",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/sudan-doctors-network-rsf-shelling-devastates-health-services-in-south-kordofan",
+      "published_date": "2026-05-03T17:56:04+00:00",
+      "category": "Military"
+    },
     {
       "title": "Sudan's medicine crisis worsens",
       "source": "France 24",
