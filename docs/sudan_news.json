@@ -1,7 +1,7 @@
 {
   "country": "Sudan",
-  "last_updated": "2026-05-03T23:35:39.923235+00:00",
-  "story_count": 16,
+  "last_updated": "2026-05-04T12:18:06.489847+00:00",
+  "story_count": 13,
   "stories": [
     {
       "title": "Sudan Doctors Network: ‘RSF shelling devastates health services in South Kordofan’",
@@ -36,13 +36,6 @@
       "source": "Dabanga",
       "url": "https://www.dabangasudan.org/en/all-news/article/new-report-alleges-rsf-linked-network-tied-to-24-million-uae-property-portfolio",
       "published_date": "2026-04-28T16:22:07+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "9k+ measles cases in South Darfur — vaccinations intensify",
-      "source": "Dabanga",
-      "url": "https://www.dabangasudan.org/en/all-news/article/9k-measles-cases-in-south-darfur-vaccinations-intensify",
-      "published_date": "2026-04-27T12:15:33+00:00",
       "category": "Military"
     },
     {
@@ -99,20 +92,6 @@
       "source": "Dabanga",
       "url": "https://www.dabangasudan.org/en/all-news/article/four-killed-in-jebel-marra-camp-market-raised-as-blazes-sweep-darfur",
       "published_date": "2026-04-28T14:36:26+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "At least 7 dead, UNHCR aid vehicle destroyed in Kordofan and North Darfur drone strikes",
-      "source": "Dabanga",
-      "url": "https://www.dabangasudan.org/en/all-news/article/unhcr-aid-vehicle-destroyed-in-north-darfur-drone-strike",
-      "published_date": "2026-04-27T09:30:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Statute of Sudan’s Democratic Bloc signed in Port Sudan",
-      "source": "Dabanga",
-      "url": "https://www.dabangasudan.org/en/all-news/article/statute-of-sudans-democratic-bloc-signed-in-port-sudan",
-      "published_date": "2026-04-27T08:10:00+00:00",
       "category": "Local Events"
     }
   ]
