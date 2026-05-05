@@ -1,8 +1,36 @@
 {
   "country": "Sudan",
-  "last_updated": "2026-05-05T11:54:55.883076+00:00",
-  "story_count": 13,
+  "last_updated": "2026-05-05T23:40:13.732693+00:00",
+  "story_count": 14,
   "stories": [
+    {
+      "title": "Ethiopia: ‘Sudanese accusations made at the instigation of external parties’",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/ethiopia-sudanese-accusations-made-at-the-instigation-of-external-parties",
+      "published_date": "2026-05-05T14:48:04+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "The drone war and the future of Sudan-Ethiopia relations: between military escalation and forced diplomacy.",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/the-drone-war-and-the-future-of-sudan-ethiopia-relations-between-military-escalation-and-forced-diplomacy",
+      "published_date": "2026-05-05T11:21:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Sudanese Armed Forces: ‘Drones that targeted Khartoum were Emirati, launched from Bahir Dar, Ethiopia’",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/sudanese-armed-forces-drones-that-targeted-khartoum-were-emirati-launched-from-bahir-dar-ethiopia",
+      "published_date": "2026-05-05T10:47:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Drone strike on Khartoum airport ‘first in 7 months’ —aid ops not affected",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/drone-strike-on-khartoum-airport-first-in-7-months-aid-ops-not-affected",
+      "published_date": "2026-05-05T08:28:00+00:00",
+      "category": "Military"
+    },
     {
       "title": "Dozens killed or displaced as drone strikes, fighting escalate across Sudan’s war zones",
       "source": "Dabanga",
@@ -39,13 +67,6 @@
       "category": "Military"
     },
     {
-      "title": "New report alleges ‘RSF-linked network tied to $24 million UAE property portfolio’",
-      "source": "Dabanga",
-      "url": "https://www.dabangasudan.org/en/all-news/article/new-report-alleges-rsf-linked-network-tied-to-24-million-uae-property-portfolio",
-      "published_date": "2026-04-28T16:22:07+00:00",
-      "category": "Military"
-    },
-    {
       "title": "World Food Programme: Funding shortfall means aid to Sudan could be cut in weeks as famine deepens",
       "source": "Dabanga",
       "url": "https://www.dabangasudan.org/en/all-news/article/world-food-programme-funding-shortfall-means-aid-to-sudan-could-be-cut-in-weeks-as-famine-deepens",
@@ -78,20 +99,6 @@
       "source": "The New Humanitarian",
       "url": "https://www.thenewhumanitarian.org/analysis/2026/04/29/how-sudan-el-obeid-survives-drone-strikes-siege-warfare",
       "published_date": "2026-04-29T12:46:46+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "UNICEF warns of catastrophe facing Darfur’s children 20 years after crisis first shocked world",
-      "source": "Dabanga",
-      "url": "https://www.dabangasudan.org/en/all-news/article/unicef-warns-of-catastrophe-facing-darfurs-children-20-years-after-crisis-first-shocked-world",
-      "published_date": "2026-04-28T15:02:21+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Four killed in Jebel Marra camp, market raised as blazes sweep Darfur",
-      "source": "Dabanga",
-      "url": "https://www.dabangasudan.org/en/all-news/article/four-killed-in-jebel-marra-camp-market-raised-as-blazes-sweep-darfur",
-      "published_date": "2026-04-28T14:36:26+00:00",
       "category": "Local Events"
     }
   ]
