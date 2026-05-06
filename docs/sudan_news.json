@@ -1,8 +1,15 @@
 {
   "country": "Sudan",
-  "last_updated": "2026-05-05T23:40:13.732693+00:00",
-  "story_count": 14,
+  "last_updated": "2026-05-06T12:23:31.545313+00:00",
+  "story_count": 13,
   "stories": [
+    {
+      "title": "Global condemnation of drone attack on Khartoum airport",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/global-condemnation-of-drone-attack-on-khartoum-airport",
+      "published_date": "2026-05-06T11:00:00+00:00",
+      "category": "Military"
+    },
     {
       "title": "Ethiopia: ‘Sudanese accusations made at the instigation of external parties’",
       "source": "Dabanga",
@@ -65,20 +72,6 @@
       "url": "https://www.dabangasudan.org/en/all-news/article/sudanese-refugees-injured-in-sixth-armed-attack-on-camp-in-ethiopia",
       "published_date": "2026-04-30T17:20:37+00:00",
       "category": "Military"
-    },
-    {
-      "title": "World Food Programme: Funding shortfall means aid to Sudan could be cut in weeks as famine deepens",
-      "source": "Dabanga",
-      "url": "https://www.dabangasudan.org/en/all-news/article/world-food-programme-funding-shortfall-means-aid-to-sudan-could-be-cut-in-weeks-as-famine-deepens",
-      "published_date": "2026-04-29T12:02:37+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "‘Sudan govt scramble to shore-up Sudanese Pound could backfire’",
-      "source": "Dabanga",
-      "url": "https://www.dabangasudan.org/en/all-news/article/sudan-govt-scramble-to-shore-up-sudanese-pound-could-backfire",
-      "published_date": "2026-04-29T08:15:00+00:00",
-      "category": "Economy"
     },
     {
       "title": "17 Sudanese refugees drown off Tobruk, Libya",
