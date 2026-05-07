@@ -1,7 +1,7 @@
 {
   "country": "Sudan",
-  "last_updated": "2026-05-07T12:25:13.444780+00:00",
-  "story_count": 13,
+  "last_updated": "2026-05-07T23:44:24.203898+00:00",
+  "story_count": 10,
   "stories": [
     {
       "title": "UN: ‘Flights from Khartoum airport suspended for the third day following drone attack’, Sudan PM visits site",
@@ -67,32 +67,11 @@
       "category": "Military"
     },
     {
-      "title": "Berlin Conference on Sudan — co-hosts reaffirm ‘guiding principles for durable resolution to conflict’",
-      "source": "Dabanga",
-      "url": "https://www.dabangasudan.org/en/all-news/article/berlin-conference-on-sudan-co-hosts-reaffirm-guiding-principles-for-durable-resolution-to-conflict",
-      "published_date": "2026-04-30T18:10:42+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Sudanese refugees injured in sixth armed attack on camp in Ethiopia",
-      "source": "Dabanga",
-      "url": "https://www.dabangasudan.org/en/all-news/article/sudanese-refugees-injured-in-sixth-armed-attack-on-camp-in-ethiopia",
-      "published_date": "2026-04-30T17:20:37+00:00",
-      "category": "Military"
-    },
-    {
       "title": "WFP: Sudan aid ops not impacted by Khartoum airport drone strike",
       "source": "Dabanga",
       "url": "https://www.dabangasudan.org/en/all-news/article/wfp-sudan-aid-ops-not-impacted-by-khartoum-airport-drone-strike",
       "published_date": "2026-05-06T12:52:24+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "17 Sudanese refugees drown off Tobruk, Libya",
-      "source": "Dabanga",
-      "url": "https://www.dabangasudan.org/en/all-news/article/17-sudanese-refugees-drown-off-tobruk-libya",
-      "published_date": "2026-04-30T16:56:03+00:00",
-      "category": "Local Events"
     }
   ]
 }
