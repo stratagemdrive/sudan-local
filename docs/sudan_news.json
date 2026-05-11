@@ -1,7 +1,7 @@
 {
   "country": "Sudan",
-  "last_updated": "2026-05-11T13:39:04.489994+00:00",
-  "story_count": 9,
+  "last_updated": "2026-05-11T23:48:29.893305+00:00",
+  "story_count": 12,
   "stories": [
     {
       "title": "UN: ‘Flights from Khartoum airport suspended for the third day following drone attack’, Sudan PM visits site",
@@ -9,6 +9,20 @@
       "url": "https://www.dabangasudan.org/en/all-news/article/un-flights-from-khartoum-airport-suspended-for-the-third-day-following-drone-attack-sudan-pm-visits-site",
       "published_date": "2026-05-06T12:24:07+00:00",
       "category": "Diplomacy"
+    },
+    {
+      "title": "RSF commander ‘El Safana’ announces defection ‘to the Sudanese people’",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/rsf-commander-el-safana-announces-defection-to-the-sudanese-people",
+      "published_date": "2026-05-11T15:01:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Senior RSF leaders survive drone attack in Nyala, South Darfur",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/senior-rsf-leaders-survive-drone-attack-in-nyala-south-darfur",
+      "published_date": "2026-05-11T14:30:00+00:00",
+      "category": "Military"
     },
     {
       "title": "African human rights commission urges further probe into ‘chemical weapons use in Sudan’",
@@ -65,6 +79,13 @@
       "url": "https://www.dabangasudan.org/en/all-news/article/wfp-sudan-aid-ops-not-impacted-by-khartoum-airport-drone-strike",
       "published_date": "2026-05-06T12:52:24+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "UNICEF Sudan rep: ‘New drone attacks exponential threat to children’",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/unicef-sudan-rep-new-drone-attacks-exponential-threat-to-children",
+      "published_date": "2026-05-11T18:51:16+00:00",
+      "category": "Local Events"
     }
   ]
 }
