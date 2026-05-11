@@ -1,6 +1,6 @@
 {
   "country": "Sudan",
-  "last_updated": "2026-05-10T23:41:58.441002+00:00",
+  "last_updated": "2026-05-11T13:39:04.489994+00:00",
   "story_count": 9,
   "stories": [
     {
@@ -9,6 +9,13 @@
       "url": "https://www.dabangasudan.org/en/all-news/article/un-flights-from-khartoum-airport-suspended-for-the-third-day-following-drone-attack-sudan-pm-visits-site",
       "published_date": "2026-05-06T12:24:07+00:00",
       "category": "Diplomacy"
+    },
+    {
+      "title": "African human rights commission urges further probe into ‘chemical weapons use in Sudan’",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/african-human-rights-commission-urges-further-probe-into-chemical-weapons-use-in-sudan",
+      "published_date": "2026-05-11T12:25:28+00:00",
+      "category": "Military"
     },
     {
       "title": "Global condemnation of drone attack on Khartoum airport",
@@ -43,13 +50,6 @@
       "source": "Dabanga",
       "url": "https://www.dabangasudan.org/en/all-news/article/drone-strike-on-khartoum-airport-first-in-7-months-aid-ops-not-affected",
       "published_date": "2026-05-05T08:28:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Dozens killed or displaced as drone strikes, fighting escalate across Sudan’s war zones",
-      "source": "Dabanga",
-      "url": "https://www.dabangasudan.org/en/all-news/article/dozens-killed-or-displaced-as-drone-strikes-fighting-escalates-across-sudans-war-zones",
-      "published_date": "2026-05-04T10:46:00+00:00",
       "category": "Military"
     },
     {
