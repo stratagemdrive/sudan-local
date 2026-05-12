@@ -1,8 +1,22 @@
 {
   "country": "Sudan",
-  "last_updated": "2026-05-12T13:01:01.401966+00:00",
-  "story_count": 9,
+  "last_updated": "2026-05-12T23:51:38.185557+00:00",
+  "story_count": 10,
   "stories": [
+    {
+      "title": "Mali, immigration and DR Congo: Five key takeaways from Macron's interview with FRANCE 24",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/africa/20260512-mali-immigration-and-dr-congo-five-key-takeaways-from-macron-s-interview-with-france-24",
+      "published_date": "2026-05-12T19:39:55+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "UN warns Sudan war entering ‘deadlier phase’ as drone strikes kill hundreds, attacks spread across multiple regions",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/un-warns-sudan-war-entering-deadlier-phase-as-drone-strikes-kill-hundreds-attacks-spread-across-multiple-regions",
+      "published_date": "2026-05-12T17:58:37+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "UN: ‘Flights from Khartoum airport suspended for the third day following drone attack’, Sudan PM visits site",
       "source": "Dabanga",
@@ -36,13 +50,6 @@
       "source": "Dabanga",
       "url": "https://www.dabangasudan.org/en/all-news/article/global-condemnation-of-drone-attack-on-khartoum-airport",
       "published_date": "2026-05-06T11:00:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ethiopia: ‘Sudanese accusations made at the instigation of external parties’",
-      "source": "Dabanga",
-      "url": "https://www.dabangasudan.org/en/all-news/article/ethiopia-sudanese-accusations-made-at-the-instigation-of-external-parties",
-      "published_date": "2026-05-05T14:48:04+00:00",
       "category": "Military"
     },
     {
