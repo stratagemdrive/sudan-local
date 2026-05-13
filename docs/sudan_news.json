@@ -1,7 +1,7 @@
 {
   "country": "Sudan",
-  "last_updated": "2026-05-12T23:51:38.185557+00:00",
-  "story_count": 10,
+  "last_updated": "2026-05-13T13:06:51.022408+00:00",
+  "story_count": 7,
   "stories": [
     {
       "title": "Mali, immigration and DR Congo: Five key takeaways from Macron's interview with FRANCE 24",
@@ -15,13 +15,6 @@
       "source": "Dabanga",
       "url": "https://www.dabangasudan.org/en/all-news/article/un-warns-sudan-war-entering-deadlier-phase-as-drone-strikes-kill-hundreds-attacks-spread-across-multiple-regions",
       "published_date": "2026-05-12T17:58:37+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "UN: ‘Flights from Khartoum airport suspended for the third day following drone attack’, Sudan PM visits site",
-      "source": "Dabanga",
-      "url": "https://www.dabangasudan.org/en/all-news/article/un-flights-from-khartoum-airport-suspended-for-the-third-day-following-drone-attack-sudan-pm-visits-site",
-      "published_date": "2026-05-06T12:24:07+00:00",
       "category": "Diplomacy"
     },
     {
@@ -46,24 +39,10 @@
       "category": "Military"
     },
     {
-      "title": "Global condemnation of drone attack on Khartoum airport",
-      "source": "Dabanga",
-      "url": "https://www.dabangasudan.org/en/all-news/article/global-condemnation-of-drone-attack-on-khartoum-airport",
-      "published_date": "2026-05-06T11:00:00+00:00",
-      "category": "Military"
-    },
-    {
       "title": "‘Toxic gold mining waste kills camels in Sudan’s Red Sea state’",
       "source": "Dabanga",
       "url": "https://www.dabangasudan.org/en/all-news/article/toxic-gold-mining-waste-kills-camels-in-sudans-red-sea-state",
       "published_date": "2026-05-08T15:40:29+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "WFP: Sudan aid ops not impacted by Khartoum airport drone strike",
-      "source": "Dabanga",
-      "url": "https://www.dabangasudan.org/en/all-news/article/wfp-sudan-aid-ops-not-impacted-by-khartoum-airport-drone-strike",
-      "published_date": "2026-05-06T12:52:24+00:00",
       "category": "Economy"
     },
     {
