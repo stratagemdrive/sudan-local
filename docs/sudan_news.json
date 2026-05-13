@@ -1,8 +1,22 @@
 {
   "country": "Sudan",
-  "last_updated": "2026-05-13T13:06:51.022408+00:00",
-  "story_count": 7,
+  "last_updated": "2026-05-13T23:49:44.548201+00:00",
+  "story_count": 12,
   "stories": [
+    {
+      "title": "Experts: Priority is protecting Sudan’s civilians as Tasees forms police force ‘to challenge legitimacy, not pursue secession’",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/experts-priority-is-protecting-sudans-civilians-as-tasees-forms-police-force-to-challenge-legitimacy-not-pursue-secession",
+      "published_date": "2026-05-13T19:11:01+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "AU and UN missions warn Sudan faces deepening atrocities — call for ceasefire, justice, civilian rule",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/au-and-un-missions-warn-sudan-faces-deepening-atrocities-call-for-ceasefire-justice-civilian-rule",
+      "published_date": "2026-05-13T08:50:00+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Mali, immigration and DR Congo: Five key takeaways from Macron's interview with FRANCE 24",
       "source": "France 24",
@@ -16,6 +30,20 @@
       "url": "https://www.dabangasudan.org/en/all-news/article/un-warns-sudan-war-entering-deadlier-phase-as-drone-strikes-kill-hundreds-attacks-spread-across-multiple-regions",
       "published_date": "2026-05-12T17:58:37+00:00",
       "category": "Diplomacy"
+    },
+    {
+      "title": "In Sudan, both sides 'have taken the country to the dogs': Kenya's Ruto",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/t%C3%AAte-%C3%A0-t%C3%AAte/20260513-in-sudan-both-sides-have-taken-the-country-to-the-dogs-kenya-s-ruto",
+      "published_date": "2026-05-13T14:12:31+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "French President Emmanuel Macron: ‘War in Sudan fuelled by external forces’",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/french-president-emmanuel-macron-war-in-sudan-fuelled-by-external-forces",
+      "published_date": "2026-05-13T12:25:00+00:00",
+      "category": "Military"
     },
     {
       "title": "RSF commander ‘El Safana’ announces defection ‘to the Sudanese people’",
@@ -44,6 +72,13 @@
       "url": "https://www.dabangasudan.org/en/all-news/article/toxic-gold-mining-waste-kills-camels-in-sudans-red-sea-state",
       "published_date": "2026-05-08T15:40:29+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "MSF warns of surge in drone attacks on civilian areas across Sudan",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/msf-warns-of-surge-in-drone-attacks-on-civilian-areas-across-sudan",
+      "published_date": "2026-05-13T11:44:00+00:00",
+      "category": "Local Events"
     },
     {
       "title": "UNICEF Sudan rep: ‘New drone attacks exponential threat to children’",
