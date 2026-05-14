@@ -1,7 +1,7 @@
 {
   "country": "Sudan",
-  "last_updated": "2026-05-14T12:22:18.000785+00:00",
-  "story_count": 12,
+  "last_updated": "2026-05-14T23:46:05.873622+00:00",
+  "story_count": 14,
   "stories": [
     {
       "title": "Experts: Priority is protecting Sudan’s civilians as Tasees forms police force ‘to challenge legitimacy, not pursue secession’",
@@ -30,6 +30,13 @@
       "url": "https://www.dabangasudan.org/en/all-news/article/un-warns-sudan-war-entering-deadlier-phase-as-drone-strikes-kill-hundreds-attacks-spread-across-multiple-regions",
       "published_date": "2026-05-12T17:58:37+00:00",
       "category": "Diplomacy"
+    },
+    {
+      "title": "RSF claims drone downed in South Darfur as attacks continue",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/rsf-claims-drone-downed-in-south-darfur-as-attacks-continue",
+      "published_date": "2026-05-14T16:45:02+00:00",
+      "category": "Military"
     },
     {
       "title": "In Sudan, both sides 'have taken the country to the dogs': Kenya's Ruto",
@@ -72,6 +79,13 @@
       "url": "https://www.dabangasudan.org/en/all-news/article/toxic-gold-mining-waste-kills-camels-in-sudans-red-sea-state",
       "published_date": "2026-05-08T15:40:29+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "How Sudanese children are going back to school in a refugee camp after years of war",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/how-sudanese-children-are-going-back-to-school-in-a-refugee-camp-after-years-of-war",
+      "published_date": "2026-05-14T12:32:44+00:00",
+      "category": "Local Events"
     },
     {
       "title": "MSF warns of surge in drone attacks on civilian areas across Sudan",
