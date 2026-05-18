@@ -1,7 +1,7 @@
 {
   "country": "Sudan",
-  "last_updated": "2026-05-18T14:25:42.251538+00:00",
-  "story_count": 12,
+  "last_updated": "2026-05-18T23:56:47.132722+00:00",
+  "story_count": 11,
   "stories": [
     {
       "title": "Experts: Priority is protecting Sudan’s civilians as Tasees forms police force ‘to challenge legitimacy, not pursue secession’",
@@ -32,6 +32,13 @@
       "category": "Diplomacy"
     },
     {
+      "title": "Deadly attacks deepen insecurity in South Darfur and Kassala leaving at least eight dead",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/deadly-attacks-deepen-insecurity-in-south-darfur-and-kassala-leaving-at-least-eight-dead",
+      "published_date": "2026-05-18T16:03:24+00:00",
+      "category": "Military"
+    },
+    {
       "title": "RSF claims drone downed in South Darfur as attacks continue",
       "source": "Dabanga",
       "url": "https://www.dabangasudan.org/en/all-news/article/rsf-claims-drone-downed-in-south-darfur-as-attacks-continue",
@@ -53,18 +60,11 @@
       "category": "Military"
     },
     {
-      "title": "RSF commander ‘El Safana’ announces defection ‘to the Sudanese people’",
+      "title": "Sudan inflation surges to 45.84% as currency weakens further",
       "source": "Dabanga",
-      "url": "https://www.dabangasudan.org/en/all-news/article/rsf-commander-el-safana-announces-defection-to-the-sudanese-people",
-      "published_date": "2026-05-11T15:01:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Senior RSF leaders survive drone attack in Nyala, South Darfur",
-      "source": "Dabanga",
-      "url": "https://www.dabangasudan.org/en/all-news/article/senior-rsf-leaders-survive-drone-attack-in-nyala-south-darfur",
-      "published_date": "2026-05-11T14:30:00+00:00",
-      "category": "Military"
+      "url": "https://www.dabangasudan.org/en/all-news/article/sudan-inflation-surges-to-45-84-as-currency-weakens-further",
+      "published_date": "2026-05-18T17:11:15+00:00",
+      "category": "Economy"
     },
     {
       "title": "How Sudanese children are going back to school in a refugee camp after years of war",
@@ -78,13 +78,6 @@
       "source": "Dabanga",
       "url": "https://www.dabangasudan.org/en/all-news/article/msf-warns-of-surge-in-drone-attacks-on-civilian-areas-across-sudan",
       "published_date": "2026-05-13T11:44:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "UNICEF Sudan rep: ‘New drone attacks exponential threat to children’",
-      "source": "Dabanga",
-      "url": "https://www.dabangasudan.org/en/all-news/article/unicef-sudan-rep-new-drone-attacks-exponential-threat-to-children",
-      "published_date": "2026-05-11T18:51:16+00:00",
       "category": "Local Events"
     }
   ]
