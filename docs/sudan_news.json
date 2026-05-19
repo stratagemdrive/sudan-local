@@ -1,7 +1,7 @@
 {
   "country": "Sudan",
-  "last_updated": "2026-05-19T13:51:28.917910+00:00",
-  "story_count": 11,
+  "last_updated": "2026-05-19T23:55:21.316760+00:00",
+  "story_count": 10,
   "stories": [
     {
       "title": "Experts: Priority is protecting Sudan’s civilians as Tasees forms police force ‘to challenge legitimacy, not pursue secession’",
@@ -15,20 +15,6 @@
       "source": "Dabanga",
       "url": "https://www.dabangasudan.org/en/all-news/article/au-and-un-missions-warn-sudan-faces-deepening-atrocities-call-for-ceasefire-justice-civilian-rule",
       "published_date": "2026-05-13T08:50:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Mali, immigration and DR Congo: Five key takeaways from Macron's interview with FRANCE 24",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/africa/20260512-mali-immigration-and-dr-congo-five-key-takeaways-from-macron-s-interview-with-france-24",
-      "published_date": "2026-05-12T19:39:55+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "UN warns Sudan war entering ‘deadlier phase’ as drone strikes kill hundreds, attacks spread across multiple regions",
-      "source": "Dabanga",
-      "url": "https://www.dabangasudan.org/en/all-news/article/un-warns-sudan-war-entering-deadlier-phase-as-drone-strikes-kill-hundreds-attacks-spread-across-multiple-regions",
-      "published_date": "2026-05-12T17:58:37+00:00",
       "category": "Diplomacy"
     },
     {
@@ -58,6 +44,13 @@
       "url": "https://www.dabangasudan.org/en/all-news/article/french-president-emmanuel-macron-war-in-sudan-fuelled-by-external-forces",
       "published_date": "2026-05-13T12:25:00+00:00",
       "category": "Military"
+    },
+    {
+      "title": "Former Sudan energy minister calls for ‘national energy charter to rebuild state and prevent fragmentation’",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/former-sudan-energy-minister-calls-for-national-energy-charter-to-rebuild-state-and-prevent-fragmentation",
+      "published_date": "2026-05-19T16:42:02+00:00",
+      "category": "Energy"
     },
     {
       "title": "Sudan inflation surges to 45.84% as currency weakens further",
