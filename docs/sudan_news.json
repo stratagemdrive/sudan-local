@@ -1,20 +1,13 @@
 {
   "country": "Sudan",
-  "last_updated": "2026-05-19T23:55:21.316760+00:00",
-  "story_count": 10,
+  "last_updated": "2026-05-20T13:32:08.259887+00:00",
+  "story_count": 7,
   "stories": [
     {
       "title": "Experts: Priority is protecting Sudan’s civilians as Tasees forms police force ‘to challenge legitimacy, not pursue secession’",
       "source": "Dabanga",
       "url": "https://www.dabangasudan.org/en/all-news/article/experts-priority-is-protecting-sudans-civilians-as-tasees-forms-police-force-to-challenge-legitimacy-not-pursue-secession",
       "published_date": "2026-05-13T19:11:01+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "AU and UN missions warn Sudan faces deepening atrocities — call for ceasefire, justice, civilian rule",
-      "source": "Dabanga",
-      "url": "https://www.dabangasudan.org/en/all-news/article/au-and-un-missions-warn-sudan-faces-deepening-atrocities-call-for-ceasefire-justice-civilian-rule",
-      "published_date": "2026-05-13T08:50:00+00:00",
       "category": "Diplomacy"
     },
     {
@@ -39,13 +32,6 @@
       "category": "Military"
     },
     {
-      "title": "French President Emmanuel Macron: ‘War in Sudan fuelled by external forces’",
-      "source": "Dabanga",
-      "url": "https://www.dabangasudan.org/en/all-news/article/french-president-emmanuel-macron-war-in-sudan-fuelled-by-external-forces",
-      "published_date": "2026-05-13T12:25:00+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Former Sudan energy minister calls for ‘national energy charter to rebuild state and prevent fragmentation’",
       "source": "Dabanga",
       "url": "https://www.dabangasudan.org/en/all-news/article/former-sudan-energy-minister-calls-for-national-energy-charter-to-rebuild-state-and-prevent-fragmentation",
@@ -64,13 +50,6 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/how-sudanese-children-are-going-back-to-school-in-a-refugee-camp-after-years-of-war",
       "published_date": "2026-05-14T12:32:44+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "MSF warns of surge in drone attacks on civilian areas across Sudan",
-      "source": "Dabanga",
-      "url": "https://www.dabangasudan.org/en/all-news/article/msf-warns-of-surge-in-drone-attacks-on-civilian-areas-across-sudan",
-      "published_date": "2026-05-13T11:44:00+00:00",
       "category": "Local Events"
     }
   ]
