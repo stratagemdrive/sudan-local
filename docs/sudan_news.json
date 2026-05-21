@@ -1,8 +1,15 @@
 {
   "country": "Sudan",
-  "last_updated": "2026-05-21T00:00:53.139642+00:00",
-  "story_count": 5,
+  "last_updated": "2026-05-21T13:56:31.729296+00:00",
+  "story_count": 7,
   "stories": [
+    {
+      "title": "RSF ’to cut flow of oil unless Sudan army drone strikes cease’",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/rsf-threat-to-cut-flow-of-oil-unless-sudan-army-drone-strikes-cease",
+      "published_date": "2026-05-21T12:38:07+00:00",
+      "category": "Military"
+    },
     {
       "title": "Deadly attacks deepen insecurity in South Darfur and Kassala leaving at least eight dead",
       "source": "Dabanga",
@@ -25,6 +32,13 @@
       "category": "Energy"
     },
     {
+      "title": "Rethinking Humanitarianism | Diaspora aid: the lifeline we don’t talk about enough",
+      "source": "The New Humanitarian",
+      "url": "https://www.thenewhumanitarian.org/podcasts/2026/05/21/rethinking-humanitarianism-diaspora-aid-lifeline-we-dont-talk-about-enough",
+      "published_date": "2026-05-21T10:23:27+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "Sudan inflation surges to 45.84% as currency weakens further",
       "source": "Dabanga",
       "url": "https://www.dabangasudan.org/en/all-news/article/sudan-inflation-surges-to-45-84-as-currency-weakens-further",
@@ -32,10 +46,10 @@
       "category": "Economy"
     },
     {
-      "title": "How Sudanese children are going back to school in a refugee camp after years of war",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/how-sudanese-children-are-going-back-to-school-in-a-refugee-camp-after-years-of-war",
-      "published_date": "2026-05-14T12:32:44+00:00",
+      "title": "Sudan: Youth leader detained for refuting ‘false and misleading’ narrative on deadly Kassala blast",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/sudan-youth-leader-detained-for-refuting-false-and-misleading-narrative-on-deadly-kassala-blast",
+      "published_date": "2026-05-21T11:11:08+00:00",
       "category": "Local Events"
     }
   ]
