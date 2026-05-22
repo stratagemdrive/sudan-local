@@ -1,7 +1,7 @@
 {
   "country": "Sudan",
-  "last_updated": "2026-05-22T13:24:35.353361+00:00",
-  "story_count": 7,
+  "last_updated": "2026-05-22T23:58:04.839683+00:00",
+  "story_count": 8,
   "stories": [
     {
       "title": "Ebola: Sudanese embassy in Kampala issues warning as Uganda on high alert",
@@ -44,6 +44,13 @@
       "url": "https://www.dabangasudan.org/en/all-news/article/sudan-inflation-surges-to-45-84-as-currency-weakens-further",
       "published_date": "2026-05-18T17:11:15+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "Key South Kordofan aid route reopens, UN warns over rising civilian deaths",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/key-south-kordofan-aid-route-reopens-un-warns-over-rising-civilian-deaths",
+      "published_date": "2026-05-22T15:24:42+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Sudan: Youth leader detained for refuting ‘false and misleading’ narrative on deadly Kassala blast",
