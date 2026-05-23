@@ -1,8 +1,15 @@
 {
   "country": "Sudan",
-  "last_updated": "2026-05-22T23:58:04.839683+00:00",
-  "story_count": 8,
+  "last_updated": "2026-05-23T11:54:52.473116+00:00",
+  "story_count": 9,
   "stories": [
+    {
+      "title": "Fistula in Sudan, a wound the world refuses to look at",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/fistula-in-sudan-a-wound-the-world-refuses-to-look-at",
+      "published_date": "2026-05-23T10:26:33+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Ebola: Sudanese embassy in Kampala issues warning as Uganda on high alert",
       "source": "Dabanga",
