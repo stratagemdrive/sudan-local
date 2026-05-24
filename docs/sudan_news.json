@@ -1,7 +1,7 @@
 {
   "country": "Sudan",
-  "last_updated": "2026-05-23T23:49:24.899552+00:00",
-  "story_count": 9,
+  "last_updated": "2026-05-24T11:57:55.704443+00:00",
+  "story_count": 12,
   "stories": [
     {
       "title": "Fistula in Sudan, a wound the world refuses to look at",
@@ -16,6 +16,20 @@
       "url": "https://www.dabangasudan.org/en/all-news/article/ebola-sudanese-embassy-in-kampala-issues-warning-as-uganda-on-high-alert",
       "published_date": "2026-05-21T14:48:42+00:00",
       "category": "Diplomacy"
+    },
+    {
+      "title": "Eid sheep prices expose warped economics of Sudan war",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/eid-sheep-prices-expose-warped-economics-of-sudan-war",
+      "published_date": "2026-05-24T11:31:52+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "STPT: ‘Sudan’s monetary system is fractured by war’",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/stpt-sudans-monetary-system-is-fractured-by-war",
+      "published_date": "2026-05-24T08:39:00+00:00",
+      "category": "Military"
     },
     {
       "title": "RSF ’to cut flow of oil unless Sudan army drone strikes cease’",
@@ -51,6 +65,13 @@
       "url": "https://www.dabangasudan.org/en/all-news/article/sudan-inflation-surges-to-45-84-as-currency-weakens-further",
       "published_date": "2026-05-18T17:11:15+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "New campaign against racism, hate speech launched in Sudan",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/new-campaign-against-racism-hate-speech-launched-in-sudan",
+      "published_date": "2026-05-24T09:06:00+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Key South Kordofan aid route reopens, UN warns over rising civilian deaths",
