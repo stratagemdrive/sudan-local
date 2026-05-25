@@ -1,8 +1,15 @@
 {
   "country": "Sudan",
-  "last_updated": "2026-05-25T13:55:12.389451+00:00",
+  "last_updated": "2026-05-25T23:56:34.370452+00:00",
   "story_count": 13,
   "stories": [
+    {
+      "title": "UNDP study: ‘$3 billion in damage to electrical grid since Sudan war broke out’",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/undp-study-3-billion-in-damage-to-electrical-grid-since-sudan-war-broke-out",
+      "published_date": "2026-05-25T17:12:24+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "UN seeks ‘strong civilian front’ to end complex Sudan crisis",
       "source": "Dabanga",
@@ -23,6 +30,13 @@
       "url": "https://www.dabangasudan.org/en/all-news/article/ebola-sudanese-embassy-in-kampala-issues-warning-as-uganda-on-high-alert",
       "published_date": "2026-05-21T14:48:42+00:00",
       "category": "Diplomacy"
+    },
+    {
+      "title": "Death, distrust, and desperation: The unending saga of Sudanese refugees trapped in northern Niger",
+      "source": "The New Humanitarian",
+      "url": "https://www.thenewhumanitarian.org/investigations/2026/05/25/unending-saga-sudanese-refugees-trapped-niger-agadez",
+      "published_date": "2026-05-25T14:20:05+00:00",
+      "category": "Military"
     },
     {
       "title": "Eid sheep prices expose warped economics of Sudan war",
@@ -46,13 +60,6 @@
       "category": "Military"
     },
     {
-      "title": "Deadly attacks deepen insecurity in South Darfur and Kassala leaving at least eight dead",
-      "source": "Dabanga",
-      "url": "https://www.dabangasudan.org/en/all-news/article/deadly-attacks-deepen-insecurity-in-south-darfur-and-kassala-leaving-at-least-eight-dead",
-      "published_date": "2026-05-18T16:03:24+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Former Sudan energy minister calls for ‘national energy charter to rebuild state and prevent fragmentation’",
       "source": "Dabanga",
       "url": "https://www.dabangasudan.org/en/all-news/article/former-sudan-energy-minister-calls-for-national-energy-charter-to-rebuild-state-and-prevent-fragmentation",
@@ -64,13 +71,6 @@
       "source": "The New Humanitarian",
       "url": "https://www.thenewhumanitarian.org/podcasts/2026/05/21/rethinking-humanitarianism-diaspora-aid-lifeline-we-dont-talk-about-enough",
       "published_date": "2026-05-21T10:23:27+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Sudan inflation surges to 45.84% as currency weakens further",
-      "source": "Dabanga",
-      "url": "https://www.dabangasudan.org/en/all-news/article/sudan-inflation-surges-to-45-84-as-currency-weakens-further",
-      "published_date": "2026-05-18T17:11:15+00:00",
       "category": "Economy"
     },
     {
