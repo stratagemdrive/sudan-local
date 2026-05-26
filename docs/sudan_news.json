@@ -1,7 +1,7 @@
 {
   "country": "Sudan",
-  "last_updated": "2026-05-26T13:49:02.097126+00:00",
-  "story_count": 14,
+  "last_updated": "2026-05-26T23:57:27.182922+00:00",
+  "story_count": 15,
   "stories": [
     {
       "title": "UNDP study: ‘$3 billion in damage to electrical grid since Sudan war broke out’",
@@ -32,6 +32,13 @@
       "category": "Diplomacy"
     },
     {
+      "title": "Iran war threatens Sudan's already fragile agricultural sector",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/iran-war-threatens-sudan-s-already-fragile-agricultural-sector",
+      "published_date": "2026-05-26T16:03:14+00:00",
+      "category": "Military"
+    },
+    {
       "title": "Death, distrust, and desperation: The unending saga of Sudanese refugees trapped in northern Niger",
       "source": "The New Humanitarian",
       "url": "https://www.thenewhumanitarian.org/investigations/2026/05/25/unending-saga-sudanese-refugees-trapped-niger-agadez",
@@ -60,13 +67,6 @@
       "category": "Military"
     },
     {
-      "title": "Former Sudan energy minister calls for ‘national energy charter to rebuild state and prevent fragmentation’",
-      "source": "Dabanga",
-      "url": "https://www.dabangasudan.org/en/all-news/article/former-sudan-energy-minister-calls-for-national-energy-charter-to-rebuild-state-and-prevent-fragmentation",
-      "published_date": "2026-05-19T16:42:02+00:00",
-      "category": "Energy"
-    },
-    {
       "title": "WFP: ‘Humanitarian aid to Sudan imminent’",
       "source": "Dabanga",
       "url": "https://www.dabangasudan.org/en/all-news/article/wfp-humanitarian-aid-to-sudan-imminent",
@@ -79,6 +79,13 @@
       "url": "https://www.thenewhumanitarian.org/podcasts/2026/05/21/rethinking-humanitarianism-diaspora-aid-lifeline-we-dont-talk-about-enough",
       "published_date": "2026-05-21T10:23:27+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "Cholera kills 40 in West Kordofan as measles spreads in East Darfur",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/cholera-kills-40-in-west-kordofan-as-measles-spreads-in-east-darfur",
+      "published_date": "2026-05-26T16:54:16+00:00",
+      "category": "Local Events"
     },
     {
       "title": "New campaign against racism, hate speech launched in Sudan",
