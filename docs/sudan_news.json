@@ -1,7 +1,7 @@
 {
   "country": "Sudan",
-  "last_updated": "2026-05-27T23:54:11.195558+00:00",
-  "story_count": 15,
+  "last_updated": "2026-05-28T14:30:01.600450+00:00",
+  "story_count": 13,
   "stories": [
     {
       "title": "UNDP study: ‘$3 billion in damage to electrical grid since Sudan war broke out’",
@@ -60,13 +60,6 @@
       "category": "Military"
     },
     {
-      "title": "RSF ’to cut flow of oil unless Sudan army drone strikes cease’",
-      "source": "Dabanga",
-      "url": "https://www.dabangasudan.org/en/all-news/article/rsf-threat-to-cut-flow-of-oil-unless-sudan-army-drone-strikes-cease",
-      "published_date": "2026-05-21T12:38:07+00:00",
-      "category": "Military"
-    },
-    {
       "title": "WFP: ‘Humanitarian aid to Sudan imminent’",
       "source": "Dabanga",
       "url": "https://www.dabangasudan.org/en/all-news/article/wfp-humanitarian-aid-to-sudan-imminent",
@@ -74,11 +67,11 @@
       "category": "Economy"
     },
     {
-      "title": "Rethinking Humanitarianism | Diaspora aid: the lifeline we don’t talk about enough",
-      "source": "The New Humanitarian",
-      "url": "https://www.thenewhumanitarian.org/podcasts/2026/05/21/rethinking-humanitarianism-diaspora-aid-lifeline-we-dont-talk-about-enough",
-      "published_date": "2026-05-21T10:23:27+00:00",
-      "category": "Economy"
+      "title": "New Sudanese Declaration of Principles Forces charter ‘Towards Building a New Nation’",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/new-sudanese-declaration-of-principles-forces-charter-towards-building-a-new-nation",
+      "published_date": "2026-05-28T11:30:00+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Cholera kills 40 in West Kordofan as measles spreads in East Darfur",
@@ -99,13 +92,6 @@
       "source": "Dabanga",
       "url": "https://www.dabangasudan.org/en/all-news/article/key-south-kordofan-aid-route-reopens-un-warns-over-rising-civilian-deaths",
       "published_date": "2026-05-22T15:24:42+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sudan: Youth leader detained for refuting ‘false and misleading’ narrative on deadly Kassala blast",
-      "source": "Dabanga",
-      "url": "https://www.dabangasudan.org/en/all-news/article/sudan-youth-leader-detained-for-refuting-false-and-misleading-narrative-on-deadly-kassala-blast",
-      "published_date": "2026-05-21T11:11:08+00:00",
       "category": "Local Events"
     }
   ]
