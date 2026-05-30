@@ -1,6 +1,6 @@
 {
   "country": "Sudan",
-  "last_updated": "2026-05-29T13:53:38.298909+00:00",
+  "last_updated": "2026-05-30T00:02:20.524200+00:00",
   "story_count": 12,
   "stories": [
     {
@@ -23,6 +23,13 @@
       "url": "https://www.dabangasudan.org/en/all-news/article/fistula-in-sudan-a-wound-the-world-refuses-to-look-at",
       "published_date": "2026-05-23T10:26:33+00:00",
       "category": "Diplomacy"
+    },
+    {
+      "title": "A tentative Iran deal, Israel’s escalation in Lebanon, and mercenaries in El Fasher: The Cheat Sheet",
+      "source": "The New Humanitarian",
+      "url": "https://www.thenewhumanitarian.org/news/2026/05/29/iran-deal-israel-escalation-lebanon-mercenaries-el-fasher-cheat-sheet",
+      "published_date": "2026-05-29T15:54:04+00:00",
+      "category": "Military"
     },
     {
       "title": "Iran war threatens Sudan's already fragile agricultural sector",
@@ -78,13 +85,6 @@
       "source": "Dabanga",
       "url": "https://www.dabangasudan.org/en/all-news/article/new-campaign-against-racism-hate-speech-launched-in-sudan",
       "published_date": "2026-05-24T09:06:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Key South Kordofan aid route reopens, UN warns over rising civilian deaths",
-      "source": "Dabanga",
-      "url": "https://www.dabangasudan.org/en/all-news/article/key-south-kordofan-aid-route-reopens-un-warns-over-rising-civilian-deaths",
-      "published_date": "2026-05-22T15:24:42+00:00",
       "category": "Local Events"
     }
   ]
