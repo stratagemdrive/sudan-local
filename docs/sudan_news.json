@@ -1,7 +1,7 @@
 {
   "country": "Sudan",
-  "last_updated": "2026-05-30T23:53:18.922123+00:00",
-  "story_count": 11,
+  "last_updated": "2026-05-31T12:05:54.144832+00:00",
+  "story_count": 8,
   "stories": [
     {
       "title": "UNDP study: ‘$3 billion in damage to electrical grid since Sudan war broke out’",
@@ -39,20 +39,6 @@
       "category": "Military"
     },
     {
-      "title": "Eid sheep prices expose warped economics of Sudan war",
-      "source": "Dabanga",
-      "url": "https://www.dabangasudan.org/en/all-news/article/eid-sheep-prices-expose-warped-economics-of-sudan-war",
-      "published_date": "2026-05-24T11:31:52+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "STPT: ‘Sudan’s monetary system is fractured by war’",
-      "source": "Dabanga",
-      "url": "https://www.dabangasudan.org/en/all-news/article/stpt-sudans-monetary-system-is-fractured-by-war",
-      "published_date": "2026-05-24T08:39:00+00:00",
-      "category": "Military"
-    },
-    {
       "title": "WFP: ‘Humanitarian aid to Sudan imminent’",
       "source": "Dabanga",
       "url": "https://www.dabangasudan.org/en/all-news/article/wfp-humanitarian-aid-to-sudan-imminent",
@@ -71,13 +57,6 @@
       "source": "Dabanga",
       "url": "https://www.dabangasudan.org/en/all-news/article/cholera-kills-40-in-west-kordofan-as-measles-spreads-in-east-darfur",
       "published_date": "2026-05-26T16:54:16+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "New campaign against racism, hate speech launched in Sudan",
-      "source": "Dabanga",
-      "url": "https://www.dabangasudan.org/en/all-news/article/new-campaign-against-racism-hate-speech-launched-in-sudan",
-      "published_date": "2026-05-24T09:06:00+00:00",
       "category": "Local Events"
     }
   ]
