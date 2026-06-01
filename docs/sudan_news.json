@@ -1,8 +1,15 @@
 {
   "country": "Sudan",
-  "last_updated": "2026-05-31T23:58:26.236160+00:00",
+  "last_updated": "2026-06-01T16:32:25.892917+00:00",
   "story_count": 8,
   "stories": [
+    {
+      "title": "Sudan: Hemedti decrees foundation of Security and Defence Council for Tasees govt",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/sudan-hemedti-decrees-foundation-of-security-and-defence-council-for-tasees-govt",
+      "published_date": "2026-06-01T11:12:00+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "UNDP study: ‘$3 billion in damage to electrical grid since Sudan war broke out’",
       "source": "Dabanga",
@@ -11,11 +18,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "UN seeks ‘strong civilian front’ to end complex Sudan crisis",
+      "title": "Sudan gov reports 58 dead in RSF attack on North Kordofan villages",
       "source": "Dabanga",
-      "url": "https://www.dabangasudan.org/en/all-news/article/un-seeks-strong-civilian-front-to-end-complex-sudan-crisis",
-      "published_date": "2026-05-25T08:05:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dabangasudan.org/en/all-news/article/sudan-gov-reports-58-dead-in-rsf-attack-on-north-kordofan-villages",
+      "published_date": "2026-06-01T15:48:40+00:00",
+      "category": "Military"
     },
     {
       "title": "A tentative Iran deal, Israel’s escalation in Lebanon, and mercenaries in El Fasher: The Cheat Sheet",
@@ -29,13 +36,6 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/iran-war-threatens-sudan-s-already-fragile-agricultural-sector",
       "published_date": "2026-05-26T16:03:14+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Death, distrust, and desperation: The unending saga of Sudanese refugees trapped in northern Niger",
-      "source": "The New Humanitarian",
-      "url": "https://www.thenewhumanitarian.org/investigations/2026/05/25/unending-saga-sudanese-refugees-trapped-niger-agadez",
-      "published_date": "2026-05-25T14:20:05+00:00",
       "category": "Military"
     },
     {
