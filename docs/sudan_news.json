@@ -1,7 +1,7 @@
 {
   "country": "Sudan",
-  "last_updated": "2026-06-02T14:44:02.581163+00:00",
-  "story_count": 6,
+  "last_updated": "2026-06-03T00:23:16.847169+00:00",
+  "story_count": 5,
   "stories": [
     {
       "title": "Sudan: Hemedti decrees foundation of Security and Defence Council for Tasees govt",
@@ -25,24 +25,17 @@
       "category": "Military"
     },
     {
-      "title": "Iran war threatens Sudan's already fragile agricultural sector",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/iran-war-threatens-sudan-s-already-fragile-agricultural-sector",
-      "published_date": "2026-05-26T16:03:14+00:00",
-      "category": "Military"
+      "title": "Scores dead in new drone attacks across Darfur, Kordofan",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/scores-dead-in-new-drone-attacks-across-darfur-kordofan",
+      "published_date": "2026-06-02T16:29:57+00:00",
+      "category": "Local Events"
     },
     {
       "title": "New Sudanese Declaration of Principles Forces charter ‘Towards Building a New Nation’",
       "source": "Dabanga",
       "url": "https://www.dabangasudan.org/en/all-news/article/new-sudanese-declaration-of-principles-forces-charter-towards-building-a-new-nation",
       "published_date": "2026-05-28T11:30:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Cholera kills 40 in West Kordofan as measles spreads in East Darfur",
-      "source": "Dabanga",
-      "url": "https://www.dabangasudan.org/en/all-news/article/cholera-kills-40-in-west-kordofan-as-measles-spreads-in-east-darfur",
-      "published_date": "2026-05-26T16:54:16+00:00",
       "category": "Local Events"
     }
   ]
