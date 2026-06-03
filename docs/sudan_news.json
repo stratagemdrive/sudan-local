@@ -1,7 +1,7 @@
 {
   "country": "Sudan",
-  "last_updated": "2026-06-03T00:23:16.847169+00:00",
-  "story_count": 5,
+  "last_updated": "2026-06-03T15:24:38.292178+00:00",
+  "story_count": 7,
   "stories": [
     {
       "title": "Sudan: Hemedti decrees foundation of Security and Defence Council for Tasees govt",
@@ -9,6 +9,13 @@
       "url": "https://www.dabangasudan.org/en/all-news/article/sudan-hemedti-decrees-foundation-of-security-and-defence-council-for-tasees-govt",
       "published_date": "2026-06-01T11:12:00+00:00",
       "category": "Diplomacy"
+    },
+    {
+      "title": "Sudanese Journalists Syndicate has supported more than 1,000 media workers since start of war",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/sudanese-journalists-syndicate-has-supported-more-than-1000-media-workers-since-start-of-war",
+      "published_date": "2026-06-03T12:44:00+00:00",
+      "category": "Military"
     },
     {
       "title": "Sudan gov reports 58 dead in RSF attack on North Kordofan villages",
@@ -23,6 +30,13 @@
       "url": "https://www.thenewhumanitarian.org/news/2026/05/29/iran-deal-israel-escalation-lebanon-mercenaries-el-fasher-cheat-sheet",
       "published_date": "2026-05-29T15:54:04+00:00",
       "category": "Military"
+    },
+    {
+      "title": "UNFPA: ‘Sudan’s capital Khartoum is a ghost town… Sudanese women ‘carry their homeland on their shoulders’",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/unfpa-sudans-capital-khartoum-is-a-ghost-town-sudanese-women-carry-their-homeland-on-their-shoulders",
+      "published_date": "2026-06-03T10:29:00+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Scores dead in new drone attacks across Darfur, Kordofan",
