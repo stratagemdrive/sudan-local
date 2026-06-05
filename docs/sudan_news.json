@@ -1,6 +1,6 @@
 {
   "country": "Sudan",
-  "last_updated": "2026-06-05T13:48:52.374525+00:00",
+  "last_updated": "2026-06-05T23:59:14.389415+00:00",
   "story_count": 6,
   "stories": [
     {
@@ -9,6 +9,13 @@
       "url": "https://www.dabangasudan.org/en/all-news/article/sudan-hemedti-decrees-foundation-of-security-and-defence-council-for-tasees-govt",
       "published_date": "2026-06-01T11:12:00+00:00",
       "category": "Diplomacy"
+    },
+    {
+      "title": "Nine killed in fresh drone strike on South Darfur, ‘sniper deployment’ amid rising intertribal Kassala tensions",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/nine-killed-in-fresh-drone-strike-on-south-darfur-sniper-deployment-amid-rising-intertribal-kassala-tensions",
+      "published_date": "2026-06-05T17:11:22+00:00",
+      "category": "Military"
     },
     {
       "title": "Sudanese Journalists Syndicate has supported more than 1,000 media workers since start of war",
@@ -22,13 +29,6 @@
       "source": "Dabanga",
       "url": "https://www.dabangasudan.org/en/all-news/article/sudan-gov-reports-58-dead-in-rsf-attack-on-north-kordofan-villages",
       "published_date": "2026-06-01T15:48:40+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "A tentative Iran deal, Israel’s escalation in Lebanon, and mercenaries in El Fasher: The Cheat Sheet",
-      "source": "The New Humanitarian",
-      "url": "https://www.thenewhumanitarian.org/news/2026/05/29/iran-deal-israel-escalation-lebanon-mercenaries-el-fasher-cheat-sheet",
-      "published_date": "2026-05-29T15:54:04+00:00",
       "category": "Military"
     },
     {
