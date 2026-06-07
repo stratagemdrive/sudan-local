@@ -1,7 +1,7 @@
 {
   "country": "Sudan",
-  "last_updated": "2026-06-07T12:16:11.114642+00:00",
-  "story_count": 6,
+  "last_updated": "2026-06-07T23:59:26.636339+00:00",
+  "story_count": 7,
   "stories": [
     {
       "title": "Sudan: Hemedti decrees foundation of Security and Defence Council for Tasees govt",
@@ -9,6 +9,13 @@
       "url": "https://www.dabangasudan.org/en/all-news/article/sudan-hemedti-decrees-foundation-of-security-and-defence-council-for-tasees-govt",
       "published_date": "2026-06-01T11:12:00+00:00",
       "category": "Diplomacy"
+    },
+    {
+      "title": "15 civilians killed in North Kordofan drone attacks",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/15-civilians-killed-in-north-kordofan-drone-attacks",
+      "published_date": "2026-06-07T12:47:25+00:00",
+      "category": "Military"
     },
     {
       "title": "Nine killed in fresh drone strike on South Darfur, ‘sniper deployment’ amid rising intertribal Kassala tensions",
