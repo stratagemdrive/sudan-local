@@ -1,8 +1,15 @@
 {
   "country": "Sudan",
-  "last_updated": "2026-06-08T14:41:47.051591+00:00",
+  "last_updated": "2026-06-08T23:57:33.340588+00:00",
   "story_count": 6,
   "stories": [
+    {
+      "title": "More than 13k displaced by renewed tribal clashes in South Darfur",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/more-than-13k-displaced-by-renewed-tribal-clashes-in-south-darfur",
+      "published_date": "2026-06-08T16:24:36+00:00",
+      "category": "Military"
+    },
     {
       "title": "15 civilians killed in North Kordofan drone attacks",
       "source": "Dabanga",
@@ -22,13 +29,6 @@
       "source": "Dabanga",
       "url": "https://www.dabangasudan.org/en/all-news/article/sudanese-journalists-syndicate-has-supported-more-than-1000-media-workers-since-start-of-war",
       "published_date": "2026-06-03T12:44:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Sudan gov reports 58 dead in RSF attack on North Kordofan villages",
-      "source": "Dabanga",
-      "url": "https://www.dabangasudan.org/en/all-news/article/sudan-gov-reports-58-dead-in-rsf-attack-on-north-kordofan-villages",
-      "published_date": "2026-06-01T15:48:40+00:00",
       "category": "Military"
     },
     {
