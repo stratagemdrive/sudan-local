@@ -1,8 +1,15 @@
 {
   "country": "Sudan",
-  "last_updated": "2026-06-09T13:38:26.747324+00:00",
-  "story_count": 6,
+  "last_updated": "2026-06-10T00:05:10.949379+00:00",
+  "story_count": 7,
   "stories": [
+    {
+      "title": "Darfur rights group records 470 deaths in air strikes and drone attacks",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/darfur-rights-group-records-470-deaths-in-air-strikes-and-drone-attacks",
+      "published_date": "2026-06-09T15:54:22+00:00",
+      "category": "Military"
+    },
     {
       "title": "More than 13k displaced by renewed tribal clashes in South Darfur",
       "source": "Dabanga",
@@ -32,17 +39,17 @@
       "category": "Military"
     },
     {
+      "title": "Int’l group backs civilian led Sudan dialogue within six months",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/intl-group-backs-civilian-led-sudan-dialogue-within-six-months",
+      "published_date": "2026-06-09T15:58:55+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "UNFPA: ‘Sudan’s capital Khartoum is a ghost town… Sudanese women ‘carry their homeland on their shoulders’",
       "source": "Dabanga",
       "url": "https://www.dabangasudan.org/en/all-news/article/unfpa-sudans-capital-khartoum-is-a-ghost-town-sudanese-women-carry-their-homeland-on-their-shoulders",
       "published_date": "2026-06-03T10:29:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Scores dead in new drone attacks across Darfur, Kordofan",
-      "source": "Dabanga",
-      "url": "https://www.dabangasudan.org/en/all-news/article/scores-dead-in-new-drone-attacks-across-darfur-kordofan",
-      "published_date": "2026-06-02T16:29:57+00:00",
       "category": "Local Events"
     }
   ]
