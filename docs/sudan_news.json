@@ -1,8 +1,15 @@
 {
   "country": "Sudan",
-  "last_updated": "2026-06-11T14:31:15.467710+00:00",
-  "story_count": 5,
+  "last_updated": "2026-06-12T00:14:48.916116+00:00",
+  "story_count": 7,
   "stories": [
+    {
+      "title": "Sudan embassy condemns Belfast stabbing as fears grow among migrants",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/sudan-embassy-condemns-belfast-stabbing-as-fears-grow-among-migrants",
+      "published_date": "2026-06-11T15:42:47+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Darfur rights group records 470 deaths in air strikes and drone attacks",
       "source": "Dabanga",
@@ -30,6 +37,13 @@
       "url": "https://www.dabangasudan.org/en/all-news/article/nine-killed-in-fresh-drone-strike-on-south-darfur-sniper-deployment-amid-rising-intertribal-kassala-tensions",
       "published_date": "2026-06-05T17:11:22+00:00",
       "category": "Military"
+    },
+    {
+      "title": "Dozens killed in drone attacks across Sudan as El Obeid toll reaches 23",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/dozens-killed-in-drone-attacks-across-sudan-as-el-obeid-toll-reaches-23",
+      "published_date": "2026-06-11T15:58:05+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Int’l group backs civilian led Sudan dialogue within six months",
