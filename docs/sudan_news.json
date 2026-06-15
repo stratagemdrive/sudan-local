@@ -1,7 +1,7 @@
 {
   "country": "Sudan",
-  "last_updated": "2026-06-15T00:02:10.639161+00:00",
-  "story_count": 5,
+  "last_updated": "2026-06-15T16:13:00.959748+00:00",
+  "story_count": 7,
   "stories": [
     {
       "title": "Sudan embassy condemns Belfast stabbing as fears grow among migrants",
@@ -9,6 +9,13 @@
       "url": "https://www.dabangasudan.org/en/all-news/article/sudan-embassy-condemns-belfast-stabbing-as-fears-grow-among-migrants",
       "published_date": "2026-06-11T15:42:47+00:00",
       "category": "Diplomacy"
+    },
+    {
+      "title": "'Sudanese people have been fighting for freedom for decades': Director Hind Meddeb",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/perspective/20260615-sudanese-people-have-been-fighting-for-freedom-for-decades-director-hind-meddeb",
+      "published_date": "2026-06-15T11:26:56+00:00",
+      "category": "Military"
     },
     {
       "title": "Darfur rights group records 470 deaths in air strikes and drone attacks",
@@ -23,6 +30,13 @@
       "url": "https://www.dabangasudan.org/en/all-news/article/more-than-13k-displaced-by-renewed-tribal-clashes-in-south-darfur",
       "published_date": "2026-06-08T16:24:36+00:00",
       "category": "Military"
+    },
+    {
+      "title": "Khartoum demolitions leave thousands homeless as ‘state-sponsored eviction campaign’ expands",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/khartoum-demolitions-leave-thousands-homeless-as-state-sponsored-eviction-campaign-expands",
+      "published_date": "2026-06-15T15:25:12+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Dozens killed in drone attacks across Sudan as El Obeid toll reaches 23",
