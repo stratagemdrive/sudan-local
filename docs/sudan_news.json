@@ -1,14 +1,28 @@
 {
   "country": "Sudan",
-  "last_updated": "2026-06-15T16:13:00.959748+00:00",
-  "story_count": 7,
+  "last_updated": "2026-06-16T00:23:34.015839+00:00",
+  "story_count": 9,
   "stories": [
+    {
+      "title": "UN Human Rights Council: ‘Drones and sexual violence worsening Sudan conflict’",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/un-human-rights-council-drones-and-sexual-violence-worsening-sudan-conflict",
+      "published_date": "2026-06-15T18:06:52+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Sudan embassy condemns Belfast stabbing as fears grow among migrants",
       "source": "Dabanga",
       "url": "https://www.dabangasudan.org/en/all-news/article/sudan-embassy-condemns-belfast-stabbing-as-fears-grow-among-migrants",
       "published_date": "2026-06-11T15:42:47+00:00",
       "category": "Diplomacy"
+    },
+    {
+      "title": "Sudan’s attorney general calls for support to end the conflict as nearly 150,000 legal cases and 30,000 deaths recorded since war began",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/sudans-attorney-general-calls-for-support-to-end-the-conflict-as-nearly-150000-legal-cases-and-30000-deaths-recorded-since-war-began",
+      "published_date": "2026-06-15T17:29:35+00:00",
+      "category": "Military"
     },
     {
       "title": "'Sudanese people have been fighting for freedom for decades': Director Hind Meddeb",
@@ -25,11 +39,11 @@
       "category": "Military"
     },
     {
-      "title": "More than 13k displaced by renewed tribal clashes in South Darfur",
+      "title": "IOM: 24k+ displaced by fires in Sudan in first five months of 2026",
       "source": "Dabanga",
-      "url": "https://www.dabangasudan.org/en/all-news/article/more-than-13k-displaced-by-renewed-tribal-clashes-in-south-darfur",
-      "published_date": "2026-06-08T16:24:36+00:00",
-      "category": "Military"
+      "url": "https://www.dabangasudan.org/en/all-news/article/iom-24k-displaced-by-fires-in-sudan-in-first-five-months-of-2026",
+      "published_date": "2026-06-15T17:11:38+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Khartoum demolitions leave thousands homeless as ‘state-sponsored eviction campaign’ expands",
