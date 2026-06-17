@@ -1,7 +1,7 @@
 {
   "country": "Sudan",
-  "last_updated": "2026-06-16T15:49:03.202459+00:00",
-  "story_count": 9,
+  "last_updated": "2026-06-17T00:09:41.237142+00:00",
+  "story_count": 7,
   "stories": [
     {
       "title": "UN Human Rights Council: ‘Drones and sexual violence worsening Sudan conflict’",
@@ -32,13 +32,6 @@
       "category": "Military"
     },
     {
-      "title": "Darfur rights group records 470 deaths in air strikes and drone attacks",
-      "source": "Dabanga",
-      "url": "https://www.dabangasudan.org/en/all-news/article/darfur-rights-group-records-470-deaths-in-air-strikes-and-drone-attacks",
-      "published_date": "2026-06-09T15:54:22+00:00",
-      "category": "Military"
-    },
-    {
       "title": "IOM: 24k+ displaced by fires in Sudan in first five months of 2026",
       "source": "Dabanga",
       "url": "https://www.dabangasudan.org/en/all-news/article/iom-24k-displaced-by-fires-in-sudan-in-first-five-months-of-2026",
@@ -57,13 +50,6 @@
       "source": "Dabanga",
       "url": "https://www.dabangasudan.org/en/all-news/article/dozens-killed-in-drone-attacks-across-sudan-as-el-obeid-toll-reaches-23",
       "published_date": "2026-06-11T15:58:05+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Int’l group backs civilian led Sudan dialogue within six months",
-      "source": "Dabanga",
-      "url": "https://www.dabangasudan.org/en/all-news/article/intl-group-backs-civilian-led-sudan-dialogue-within-six-months",
-      "published_date": "2026-06-09T15:58:55+00:00",
       "category": "Local Events"
     }
   ]
