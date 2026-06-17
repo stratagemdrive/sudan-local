@@ -1,7 +1,7 @@
 {
   "country": "Sudan",
-  "last_updated": "2026-06-17T00:09:41.237142+00:00",
-  "story_count": 7,
+  "last_updated": "2026-06-17T14:23:35.878985+00:00",
+  "story_count": 9,
   "stories": [
     {
       "title": "UN Human Rights Council: ‘Drones and sexual violence worsening Sudan conflict’",
@@ -16,6 +16,20 @@
       "url": "https://www.dabangasudan.org/en/all-news/article/sudan-embassy-condemns-belfast-stabbing-as-fears-grow-among-migrants",
       "published_date": "2026-06-11T15:42:47+00:00",
       "category": "Diplomacy"
+    },
+    {
+      "title": "‘Virtual Wali of Khartoum’ defects from Sudan’s RSF militia",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/virtual-wali-of-khartoum-defects-from-sudans-rsf-militia",
+      "published_date": "2026-06-17T07:55:25+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Sudan 4th among 186 countries most affected by climate change",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/sudan-4th-among-186-countries-most-affected-by-climate-change",
+      "published_date": "2026-06-17T06:42:56+00:00",
+      "category": "Military"
     },
     {
       "title": "Sudan’s attorney general calls for support to end the conflict as nearly 150,000 legal cases and 30,000 deaths recorded since war began",
