@@ -1,7 +1,7 @@
 {
   "country": "Sudan",
-  "last_updated": "2026-06-18T13:57:05.585805+00:00",
-  "story_count": 13,
+  "last_updated": "2026-06-19T00:20:14.422981+00:00",
+  "story_count": 11,
   "stories": [
     {
       "title": "African Centre for Democracy and Human Rights Studies calls on UN Human Rights Council to extend mandate of Sudan fact-finding mission",
@@ -15,13 +15,6 @@
       "source": "Dabanga",
       "url": "https://www.dabangasudan.org/en/all-news/article/un-human-rights-council-drones-and-sexual-violence-worsening-sudan-conflict",
       "published_date": "2026-06-15T18:06:52+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Sudan embassy condemns Belfast stabbing as fears grow among migrants",
-      "source": "Dabanga",
-      "url": "https://www.dabangasudan.org/en/all-news/article/sudan-embassy-condemns-belfast-stabbing-as-fears-grow-among-migrants",
-      "published_date": "2026-06-11T15:42:47+00:00",
       "category": "Diplomacy"
     },
     {
@@ -85,13 +78,6 @@
       "source": "Dabanga",
       "url": "https://www.dabangasudan.org/en/all-news/article/khartoum-demolitions-leave-thousands-homeless-as-state-sponsored-eviction-campaign-expands",
       "published_date": "2026-06-15T15:25:12+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Dozens killed in drone attacks across Sudan as El Obeid toll reaches 23",
-      "source": "Dabanga",
-      "url": "https://www.dabangasudan.org/en/all-news/article/dozens-killed-in-drone-attacks-across-sudan-as-el-obeid-toll-reaches-23",
-      "published_date": "2026-06-11T15:58:05+00:00",
       "category": "Local Events"
     }
   ]
