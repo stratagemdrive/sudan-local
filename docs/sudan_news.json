@@ -1,7 +1,7 @@
 {
   "country": "Sudan",
-  "last_updated": "2026-06-19T13:58:07.951273+00:00",
-  "story_count": 11,
+  "last_updated": "2026-06-20T00:01:04.253690+00:00",
+  "story_count": 13,
   "stories": [
     {
       "title": "African Centre for Democracy and Human Rights Studies calls on UN Human Rights Council to extend mandate of Sudan fact-finding mission",
@@ -16,6 +16,20 @@
       "url": "https://www.dabangasudan.org/en/all-news/article/un-human-rights-council-drones-and-sexual-violence-worsening-sudan-conflict",
       "published_date": "2026-06-15T18:06:52+00:00",
       "category": "Diplomacy"
+    },
+    {
+      "title": "Ebola: healthworkers worry for their life",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/ebola-healthworkers-worry-for-their-life",
+      "published_date": "2026-06-19T20:25:58+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "RSF-aligned gov suspends MSF operations over abuse allegations in Chad",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/rsf-aligned-gov-suspends-msf-operations-over-abuse-allegations-in-chad",
+      "published_date": "2026-06-19T16:33:35+00:00",
+      "category": "Military"
     },
     {
       "title": "‘Virtual Wali of Khartoum’ defects from Sudan’s RSF militia",
