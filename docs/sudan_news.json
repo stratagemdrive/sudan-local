@@ -1,7 +1,7 @@
 {
   "country": "Sudan",
-  "last_updated": "2026-06-22T00:03:29.270625+00:00",
-  "story_count": 15,
+  "last_updated": "2026-06-22T15:47:27.442100+00:00",
+  "story_count": 14,
   "stories": [
     {
       "title": "African Centre for Democracy and Human Rights Studies calls on UN Human Rights Council to extend mandate of Sudan fact-finding mission",
@@ -67,13 +67,6 @@
       "category": "Military"
     },
     {
-      "title": "'Sudanese people have been fighting for freedom for decades': Director Hind Meddeb",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/perspective/20260615-sudanese-people-have-been-fighting-for-freedom-for-decades-director-hind-meddeb",
-      "published_date": "2026-06-15T11:26:56+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Sudanese refugees abused and exploited by MSF staff in Chad, says report",
       "source": "France 24",
       "url": "https://www.france24.com/en/sudanese-refugees-abused-and-exploited-by-msf-staff-in-chad-says-report",
@@ -88,6 +81,13 @@
       "category": "Economy"
     },
     {
+      "title": "Sudan: Intnl bodies warn ‘El Obeid could become another El Fasher’",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/sudan-international-bodies-warn-el-obeid-could-become-another-el-fasher",
+      "published_date": "2026-06-22T08:16:00+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Syndicate calls for the swift resettlement of Sudanese journalists under threat in Libya",
       "source": "Dabanga",
       "url": "https://www.dabangasudan.org/en/all-news/article/syndicate-calls-for-the-swift-resettlement-of-sudanese-journalists-under-threat-in-libya",
@@ -99,13 +99,6 @@
       "source": "Dabanga",
       "url": "https://www.dabangasudan.org/en/all-news/article/iom-24k-displaced-by-fires-in-sudan-in-first-five-months-of-2026",
       "published_date": "2026-06-15T17:11:38+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Khartoum demolitions leave thousands homeless as ‘state-sponsored eviction campaign’ expands",
-      "source": "Dabanga",
-      "url": "https://www.dabangasudan.org/en/all-news/article/khartoum-demolitions-leave-thousands-homeless-as-state-sponsored-eviction-campaign-expands",
-      "published_date": "2026-06-15T15:25:12+00:00",
       "category": "Local Events"
     }
   ]
