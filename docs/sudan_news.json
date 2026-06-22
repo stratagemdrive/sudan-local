@@ -1,7 +1,7 @@
 {
   "country": "Sudan",
-  "last_updated": "2026-06-22T15:47:27.442100+00:00",
-  "story_count": 14,
+  "last_updated": "2026-06-22T23:59:54.289412+00:00",
+  "story_count": 12,
   "stories": [
     {
       "title": "African Centre for Democracy and Human Rights Studies calls on UN Human Rights Council to extend mandate of Sudan fact-finding mission",
@@ -11,11 +11,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "UN Human Rights Council: ‘Drones and sexual violence worsening Sudan conflict’",
+      "title": "El Burhan promises probe into ‘Egypt attack on Sudanese miners’",
       "source": "Dabanga",
-      "url": "https://www.dabangasudan.org/en/all-news/article/un-human-rights-council-drones-and-sexual-violence-worsening-sudan-conflict",
-      "published_date": "2026-06-15T18:06:52+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dabangasudan.org/en/all-news/article/el-burhan-promises-probe-into-egypt-attack-on-sudanese-miners",
+      "published_date": "2026-06-22T18:43:28+00:00",
+      "category": "Military"
     },
     {
       "title": "RSF claims gains in Blue Nile as drone strikes kill civilians in White Nile and North Kordofan",
@@ -60,13 +60,6 @@
       "category": "Military"
     },
     {
-      "title": "Sudan’s attorney general calls for support to end the conflict as nearly 150,000 legal cases and 30,000 deaths recorded since war began",
-      "source": "Dabanga",
-      "url": "https://www.dabangasudan.org/en/all-news/article/sudans-attorney-general-calls-for-support-to-end-the-conflict-as-nearly-150000-legal-cases-and-30000-deaths-recorded-since-war-began",
-      "published_date": "2026-06-15T17:29:35+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Sudanese refugees abused and exploited by MSF staff in Chad, says report",
       "source": "France 24",
       "url": "https://www.france24.com/en/sudanese-refugees-abused-and-exploited-by-msf-staff-in-chad-says-report",
@@ -92,13 +85,6 @@
       "source": "Dabanga",
       "url": "https://www.dabangasudan.org/en/all-news/article/syndicate-calls-for-the-swift-resettlement-of-sudanese-journalists-under-threat-in-libya",
       "published_date": "2026-06-18T09:29:45+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "IOM: 24k+ displaced by fires in Sudan in first five months of 2026",
-      "source": "Dabanga",
-      "url": "https://www.dabangasudan.org/en/all-news/article/iom-24k-displaced-by-fires-in-sudan-in-first-five-months-of-2026",
-      "published_date": "2026-06-15T17:11:38+00:00",
       "category": "Local Events"
     }
   ]
