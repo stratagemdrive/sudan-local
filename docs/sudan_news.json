@@ -1,7 +1,7 @@
 {
   "country": "Sudan",
-  "last_updated": "2026-06-24T13:11:47.627465+00:00",
-  "story_count": 11,
+  "last_updated": "2026-06-24T23:59:09.105256+00:00",
+  "story_count": 15,
   "stories": [
     {
       "title": "African Centre for Democracy and Human Rights Studies calls on UN Human Rights Council to extend mandate of Sudan fact-finding mission",
@@ -9,6 +9,20 @@
       "url": "https://www.dabangasudan.org/en/all-news/article/african-centre-for-democracy-and-human-rights-studies-calls-on-un-human-rights-council-to-extend-mandate-of-sudan-fact-finding-mission",
       "published_date": "2026-06-18T09:18:13+00:00",
       "category": "Diplomacy"
+    },
+    {
+      "title": "Sudanese Armed Forces claim gains in Blue Nile as RSF take Furuawiya in North Darfur",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/sudanese-armed-forces-claim-gains-in-blue-nile-as-rsf-take-furuawiya-in-north-darfur",
+      "published_date": "2026-06-24T16:54:31+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Sudan war: Int’l pressure grows as fears mount over escalation in El Obeid",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/sudan-war-intl-pressure-grows-as-fears-mount-over-escalation-in-el-obeid",
+      "published_date": "2026-06-24T13:14:00+00:00",
+      "category": "Military"
     },
     {
       "title": "HRW: Stronger int’l pressure needed to prevent atrocities in Sudan — no impunity for defecting militia commanders",
@@ -65,6 +79,20 @@
       "url": "https://www.dabangasudan.org/en/all-news/article/a-new-us-bill-prohibits-loans-or-aid-to-sudan",
       "published_date": "2026-06-18T09:45:23+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "New UN Human Rights report: ‘Brutal use of sexual violence in Sudan’",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/new-un-human-rights-report-brutal-use-of-sexual-violence-in-sudan",
+      "published_date": "2026-06-24T12:30:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Opposition grows to proposed Chinese copper mining in Sudan’s Red Sea state",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/opposition-grows-to-proposed-chinese-copper-mining-in-sudans-red-sea-state",
+      "published_date": "2026-06-24T11:17:00+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Sudan: Intnl bodies warn ‘El Obeid could become another El Fasher’",
