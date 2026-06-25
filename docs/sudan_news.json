@@ -1,15 +1,8 @@
 {
   "country": "Sudan",
-  "last_updated": "2026-06-24T23:59:09.105256+00:00",
-  "story_count": 15,
+  "last_updated": "2026-06-25T13:11:24.041243+00:00",
+  "story_count": 11,
   "stories": [
-    {
-      "title": "African Centre for Democracy and Human Rights Studies calls on UN Human Rights Council to extend mandate of Sudan fact-finding mission",
-      "source": "Dabanga",
-      "url": "https://www.dabangasudan.org/en/all-news/article/african-centre-for-democracy-and-human-rights-studies-calls-on-un-human-rights-council-to-extend-mandate-of-sudan-fact-finding-mission",
-      "published_date": "2026-06-18T09:18:13+00:00",
-      "category": "Diplomacy"
-    },
     {
       "title": "Sudanese Armed Forces claim gains in Blue Nile as RSF take Furuawiya in North Darfur",
       "source": "Dabanga",
@@ -67,20 +60,6 @@
       "category": "Military"
     },
     {
-      "title": "Sudanese refugees abused and exploited by MSF staff in Chad, says report",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/sudanese-refugees-abused-and-exploited-by-msf-staff-in-chad-says-report",
-      "published_date": "2026-06-18T11:28:48+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "A new US bill prohibits loans or aid to Sudan",
-      "source": "Dabanga",
-      "url": "https://www.dabangasudan.org/en/all-news/article/a-new-us-bill-prohibits-loans-or-aid-to-sudan",
-      "published_date": "2026-06-18T09:45:23+00:00",
-      "category": "Economy"
-    },
-    {
       "title": "New UN Human Rights report: ‘Brutal use of sexual violence in Sudan’",
       "source": "Dabanga",
       "url": "https://www.dabangasudan.org/en/all-news/article/new-un-human-rights-report-brutal-use-of-sexual-violence-in-sudan",
@@ -99,13 +78,6 @@
       "source": "Dabanga",
       "url": "https://www.dabangasudan.org/en/all-news/article/sudan-international-bodies-warn-el-obeid-could-become-another-el-fasher",
       "published_date": "2026-06-22T08:16:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Syndicate calls for the swift resettlement of Sudanese journalists under threat in Libya",
-      "source": "Dabanga",
-      "url": "https://www.dabangasudan.org/en/all-news/article/syndicate-calls-for-the-swift-resettlement-of-sudanese-journalists-under-threat-in-libya",
-      "published_date": "2026-06-18T09:29:45+00:00",
       "category": "Local Events"
     }
   ]
