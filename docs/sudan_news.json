@@ -1,8 +1,22 @@
 {
   "country": "Sudan",
-  "last_updated": "2026-06-28T12:12:23.086272+00:00",
-  "story_count": 8,
+  "last_updated": "2026-06-29T00:00:55.221388+00:00",
+  "story_count": 11,
   "stories": [
+    {
+      "title": "‘Latest US sanctions on Sudanese aviation could complicate finance, commerce’",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/latest-us-sanctions-on-sudanese-aviation-could-complicate-finance-commerce",
+      "published_date": "2026-06-28T17:27:49+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "New US sanctions bar Sudanese airlines and those ‘fuelling Sudan war’",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/new-us-sanctions-bar-sudanese-airlines-and-those-fuelling-sudan-war",
+      "published_date": "2026-06-28T16:07:00+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Sudanese Armed Forces claim gains in Blue Nile as RSF take Furuawiya in North Darfur",
       "source": "Dabanga",
@@ -32,11 +46,18 @@
       "category": "Military"
     },
     {
-      "title": "RSF claims gains in Blue Nile as drone strikes kill civilians in White Nile and North Kordofan",
+      "title": "Economist: ‘Monetary and admin measures will not halt Sudanese Pound decline’",
       "source": "Dabanga",
-      "url": "https://www.dabangasudan.org/en/all-news/article/rsf-claims-gains-in-blue-nile-as-drone-strikes-kill-civilians-in-white-nile-and-north-kordofan",
-      "published_date": "2026-06-21T14:25:17+00:00",
-      "category": "Military"
+      "url": "https://www.dabangasudan.org/en/all-news/article/economist-monetary-and-admin-measures-will-not-halt-sudanese-pound-decline",
+      "published_date": "2026-06-28T08:16:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Drone attacks deepen humanitarian crisis in El Obeid, Joint Forces claims gains in North Darfur",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/drone-attacks-deepen-humanitarian-crisis-in-el-obeid-joint-forces-claims-gains-in-north-darfur",
+      "published_date": "2026-06-28T14:58:37+00:00",
+      "category": "Local Events"
     },
     {
       "title": "New UN Human Rights report: ‘Brutal use of sexual violence in Sudan’",
