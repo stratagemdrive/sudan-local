@@ -1,6 +1,6 @@
 {
   "country": "Sudan",
-  "last_updated": "2026-06-29T23:54:29.181560+00:00",
+  "last_updated": "2026-06-30T13:04:22.952539+00:00",
   "story_count": 10,
   "stories": [
     {
@@ -18,6 +18,13 @@
       "category": "Diplomacy"
     },
     {
+      "title": "Sudan army and allied forces claim gains in Blue Nile and Darfur",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/sudan-army-and-allied-forces-claim-gains-in-blue-nile-and-darfur",
+      "published_date": "2026-06-30T10:26:32+00:00",
+      "category": "Military"
+    },
+    {
       "title": "Sudanese Armed Forces claim gains in Blue Nile as RSF take Furuawiya in North Darfur",
       "source": "Dabanga",
       "url": "https://www.dabangasudan.org/en/all-news/article/sudanese-armed-forces-claim-gains-in-blue-nile-as-rsf-take-furuawiya-in-north-darfur",
@@ -29,13 +36,6 @@
       "source": "Dabanga",
       "url": "https://www.dabangasudan.org/en/all-news/article/sudan-war-intl-pressure-grows-as-fears-mount-over-escalation-in-el-obeid",
       "published_date": "2026-06-24T13:14:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "HRW: Stronger int’l pressure needed to prevent atrocities in Sudan — no impunity for defecting militia commanders",
-      "source": "Dabanga",
-      "url": "https://www.dabangasudan.org/en/all-news/article/hrw-stronger-intl-pressure-needed-to-prevent-atrocities-in-sudan-no-impunity-for-defecting-militia-commanders",
-      "published_date": "2026-06-23T09:15:30+00:00",
       "category": "Military"
     },
     {
