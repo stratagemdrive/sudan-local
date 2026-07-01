@@ -1,7 +1,7 @@
 {
   "country": "Sudan",
-  "last_updated": "2026-06-30T23:58:25.699909+00:00",
-  "story_count": 10,
+  "last_updated": "2026-07-01T13:31:29.271757+00:00",
+  "story_count": 7,
   "stories": [
     {
       "title": "‘Latest US sanctions on Sudanese aviation could complicate finance, commerce’",
@@ -32,13 +32,6 @@
       "category": "Military"
     },
     {
-      "title": "Sudan war: Int’l pressure grows as fears mount over escalation in El Obeid",
-      "source": "Dabanga",
-      "url": "https://www.dabangasudan.org/en/all-news/article/sudan-war-intl-pressure-grows-as-fears-mount-over-escalation-in-el-obeid",
-      "published_date": "2026-06-24T13:14:00+00:00",
-      "category": "Military"
-    },
-    {
       "title": "China forgives $50m Sudan debt",
       "source": "Dabanga",
       "url": "https://www.dabangasudan.org/en/all-news/article/china-forgives-50m-sudan-debt",
@@ -57,20 +50,6 @@
       "source": "Dabanga",
       "url": "https://www.dabangasudan.org/en/all-news/article/drone-attacks-deepen-humanitarian-crisis-in-el-obeid-joint-forces-claims-gains-in-north-darfur",
       "published_date": "2026-06-28T14:58:37+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "New UN Human Rights report: ‘Brutal use of sexual violence in Sudan’",
-      "source": "Dabanga",
-      "url": "https://www.dabangasudan.org/en/all-news/article/new-un-human-rights-report-brutal-use-of-sexual-violence-in-sudan",
-      "published_date": "2026-06-24T12:30:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Opposition grows to proposed Chinese copper mining in Sudan’s Red Sea state",
-      "source": "Dabanga",
-      "url": "https://www.dabangasudan.org/en/all-news/article/opposition-grows-to-proposed-chinese-copper-mining-in-sudans-red-sea-state",
-      "published_date": "2026-06-24T11:17:00+00:00",
       "category": "Local Events"
     }
   ]
