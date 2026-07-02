@@ -1,8 +1,22 @@
 {
   "country": "Sudan",
-  "last_updated": "2026-07-01T13:31:29.271757+00:00",
-  "story_count": 7,
+  "last_updated": "2026-07-02T00:00:58.657161+00:00",
+  "story_count": 12,
   "stories": [
+    {
+      "title": "Washington warns of further US sanctions against Sudan’s Islamist movement",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/washington-warns-of-further-sanctions-against-sudans-islamist-movement",
+      "published_date": "2026-07-01T12:44:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Sudan: UN Human Rights Council convenes urgent debate on El Obeid",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/sudan-un-human-rights-council-convenes-urgent-debate-on-el-obeid",
+      "published_date": "2026-07-01T09:26:00+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "‘Latest US sanctions on Sudanese aviation could complicate finance, commerce’",
       "source": "Dabanga",
@@ -18,17 +32,31 @@
       "category": "Diplomacy"
     },
     {
+      "title": "Amnesty International: ‘RSF committing crimes against humanity, ethnic cleanising in North Darfur’",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/amnesty-international-rsf-committing-crimes-against-humanity-ethnic-cleanising-in-north-darfur",
+      "published_date": "2026-07-01T18:14:30+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Draft UN Human Rights Council resolution on El Obeid, Sudan condemns war crimes, starvation as weapon of war",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/draft-un-human-rights-council-resolution-on-el-obeid-sudan-condemns-war-crimes-starvation-as-weapon-of-war",
+      "published_date": "2026-07-01T17:49:19+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "500 families displaced to Karnoi as North Darfur fighting intensifies",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/500-families-displaced-to-karnoi-as-fighting-intensifies-in-north-darfur",
+      "published_date": "2026-07-01T09:30:00+00:00",
+      "category": "Military"
+    },
+    {
       "title": "Sudan army and allied forces claim gains in Blue Nile and Darfur",
       "source": "Dabanga",
       "url": "https://www.dabangasudan.org/en/all-news/article/sudan-army-and-allied-forces-claim-gains-in-blue-nile-and-darfur",
       "published_date": "2026-06-30T10:26:32+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Sudanese Armed Forces claim gains in Blue Nile as RSF take Furuawiya in North Darfur",
-      "source": "Dabanga",
-      "url": "https://www.dabangasudan.org/en/all-news/article/sudanese-armed-forces-claim-gains-in-blue-nile-as-rsf-take-furuawiya-in-north-darfur",
-      "published_date": "2026-06-24T16:54:31+00:00",
       "category": "Military"
     },
     {
@@ -44,6 +72,13 @@
       "url": "https://www.dabangasudan.org/en/all-news/article/economist-monetary-and-admin-measures-will-not-halt-sudanese-pound-decline",
       "published_date": "2026-06-28T08:16:00+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "Sudan analyst: ‘Int’l response does not reflect realities in El Obeid’",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/sudan-analyst-intl-response-does-not-reflect-realities-in-el-obeid",
+      "published_date": "2026-07-01T13:02:00+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Drone attacks deepen humanitarian crisis in El Obeid, Joint Forces claims gains in North Darfur",
