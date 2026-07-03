@@ -1,8 +1,15 @@
 {
   "country": "Sudan",
-  "last_updated": "2026-07-03T12:51:45.623543+00:00",
-  "story_count": 12,
+  "last_updated": "2026-07-03T23:57:13.930477+00:00",
+  "story_count": 19,
   "stories": [
+    {
+      "title": "Sudan timeline April-June 2026: Struggles toward ceasefire fail amid El Obeid violence",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/sudan-timeline-april-june-2026-struggles-toward-ceasefire-fail-amid-el-obeid-violence",
+      "published_date": "2026-07-03T16:28:36+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Washington warns of further US sanctions against Sudan’s Islamist movement",
       "source": "Dabanga",
@@ -30,6 +37,41 @@
       "url": "https://www.dabangasudan.org/en/all-news/article/new-us-sanctions-bar-sudanese-airlines-and-those-fuelling-sudan-war",
       "published_date": "2026-06-28T16:07:00+00:00",
       "category": "Diplomacy"
+    },
+    {
+      "title": "New report: RSF training camps, supply routes in Libya fuelling Sudan’s war — ‘What we’ve uncovered is really just the tip of the iceberg’",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/new-report-rsf-training-camps-supply-routes-in-libya-fuelling-sudans-war-what-weve-uncovered-is-really-just-the-tip-of-the-iceberg",
+      "published_date": "2026-07-03T23:32:49+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "'Not a proxy war': Sudan civil war 'would not go on like this' without role of international players",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/spotlight/20260703-not-a-proxy-war-sudan-civil-war-would-not-go-on-like-this-without-role-of-international-players",
+      "published_date": "2026-07-03T17:22:29+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Two children killed in South Kordofan drone strike amid mounting humanitarian calls",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/two-children-killed-in-south-kordofan-drone-strike-amid-mounting-humanitarian-calls",
+      "published_date": "2026-07-03T16:33:19+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "UN issues 'red alert' over human rights catastrophe in Sudan's El-Obeid",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/africa/20260703-un-issues-red-alert-over-human-rights-catastrophe-in-sudan-s-el-obeid",
+      "published_date": "2026-07-03T13:59:22+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "International Red Cross: 'Civilian suffering in Sudan is not inevitable'",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/international-red-cross-civilian-suffering-in-sudan-is-not-inevitable",
+      "published_date": "2026-07-03T13:26:02+00:00",
+      "category": "Military"
     },
     {
       "title": "Amnesty International: ‘RSF committing crimes against humanity, ethnic cleanising in North Darfur’",
@@ -72,6 +114,13 @@
       "url": "https://www.dabangasudan.org/en/all-news/article/economist-monetary-and-admin-measures-will-not-halt-sudanese-pound-decline",
       "published_date": "2026-06-28T08:16:00+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "Putin & The ‘Drowning Man Syndrome’ Sudan",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/the-world-this-week/20260703-putin-the-drowning-man-syndrome-sudan",
+      "published_date": "2026-07-03T18:18:01+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Sudan analyst: ‘Int’l response does not reflect realities in El Obeid’",
