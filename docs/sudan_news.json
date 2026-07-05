@@ -1,7 +1,7 @@
 {
   "country": "Sudan",
-  "last_updated": "2026-07-05T12:09:29.429896+00:00",
-  "story_count": 18,
+  "last_updated": "2026-07-05T23:57:43.665352+00:00",
+  "story_count": 15,
   "stories": [
     {
       "title": "Sudan timeline April-June 2026: Struggles toward ceasefire fail amid El Obeid violence",
@@ -22,20 +22,6 @@
       "source": "Dabanga",
       "url": "https://www.dabangasudan.org/en/all-news/article/sudan-un-human-rights-council-convenes-urgent-debate-on-el-obeid",
       "published_date": "2026-07-01T09:26:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "‘Latest US sanctions on Sudanese aviation could complicate finance, commerce’",
-      "source": "Dabanga",
-      "url": "https://www.dabangasudan.org/en/all-news/article/latest-us-sanctions-on-sudanese-aviation-could-complicate-finance-commerce",
-      "published_date": "2026-06-28T17:27:49+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "New US sanctions bar Sudanese airlines and those ‘fuelling Sudan war’",
-      "source": "Dabanga",
-      "url": "https://www.dabangasudan.org/en/all-news/article/new-us-sanctions-bar-sudanese-airlines-and-those-fuelling-sudan-war",
-      "published_date": "2026-06-28T16:07:00+00:00",
       "category": "Diplomacy"
     },
     {
@@ -120,13 +106,6 @@
       "source": "Dabanga",
       "url": "https://www.dabangasudan.org/en/all-news/article/sudan-analyst-intl-response-does-not-reflect-realities-in-el-obeid",
       "published_date": "2026-07-01T13:02:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Drone attacks deepen humanitarian crisis in El Obeid, Joint Forces claims gains in North Darfur",
-      "source": "Dabanga",
-      "url": "https://www.dabangasudan.org/en/all-news/article/drone-attacks-deepen-humanitarian-crisis-in-el-obeid-joint-forces-claims-gains-in-north-darfur",
-      "published_date": "2026-06-28T14:58:37+00:00",
       "category": "Local Events"
     }
   ]
