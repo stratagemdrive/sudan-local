@@ -1,6 +1,6 @@
 {
   "country": "Sudan",
-  "last_updated": "2026-07-06T23:58:42.369794+00:00",
+  "last_updated": "2026-07-07T13:12:04.033602+00:00",
   "story_count": 14,
   "stories": [
     {
@@ -23,6 +23,13 @@
       "url": "https://www.dabangasudan.org/en/all-news/article/sudan-un-human-rights-council-convenes-urgent-debate-on-el-obeid",
       "published_date": "2026-07-01T09:26:00+00:00",
       "category": "Diplomacy"
+    },
+    {
+      "title": "UN condemns RSF escalation around El Obeid as Tasees backs ceasefire",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/un-condemns-rsf-escalation-around-el-obeid-as-tasees-backs-ceasefire",
+      "published_date": "2026-07-07T11:50:13+00:00",
+      "category": "Military"
     },
     {
       "title": "New report: RSF training camps, supply routes in Libya fuelling Sudan’s war — ‘What we’ve uncovered is really just the tip of the iceberg’",
@@ -78,13 +85,6 @@
       "source": "Dabanga",
       "url": "https://www.dabangasudan.org/en/all-news/article/500-families-displaced-to-karnoi-as-fighting-intensifies-in-north-darfur",
       "published_date": "2026-07-01T09:30:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Sudan army and allied forces claim gains in Blue Nile and Darfur",
-      "source": "Dabanga",
-      "url": "https://www.dabangasudan.org/en/all-news/article/sudan-army-and-allied-forces-claim-gains-in-blue-nile-and-darfur",
-      "published_date": "2026-06-30T10:26:32+00:00",
       "category": "Military"
     },
     {
