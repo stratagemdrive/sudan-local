@@ -1,14 +1,28 @@
 {
   "country": "Sudan",
-  "last_updated": "2026-07-09T13:44:03.358839+00:00",
-  "story_count": 9,
+  "last_updated": "2026-07-09T23:58:00.844435+00:00",
+  "story_count": 11,
   "stories": [
+    {
+      "title": "Ethiopian PM says Sudan, Eritrea and TPLF pose no threat to Ethiopia",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/ethiopian-pm-says-sudan-eritrea-and-tplf-pose-no-threat-to-ethiopia",
+      "published_date": "2026-07-09T15:54:10+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Sudan timeline April-June 2026: Struggles toward ceasefire fail amid El Obeid violence",
       "source": "Dabanga",
       "url": "https://www.dabangasudan.org/en/all-news/article/sudan-timeline-april-june-2026-struggles-toward-ceasefire-fail-amid-el-obeid-violence",
       "published_date": "2026-07-03T16:28:36+00:00",
       "category": "Diplomacy"
+    },
+    {
+      "title": "UN 'deeply concerned' by ongoing drone attack in Sudan",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/un-deeply-concerned-by-ongoing-drone-attack-in-sudan",
+      "published_date": "2026-07-09T20:29:20+00:00",
+      "category": "Military"
     },
     {
       "title": "UN condemns RSF escalation around El Obeid as Tasees backs ceasefire",
