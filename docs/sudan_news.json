@@ -1,7 +1,7 @@
 {
   "country": "Sudan",
-  "last_updated": "2026-07-09T23:58:00.844435+00:00",
-  "story_count": 11,
+  "last_updated": "2026-07-10T13:04:35.578861+00:00",
+  "story_count": 12,
   "stories": [
     {
       "title": "Ethiopian PM says Sudan, Eritrea and TPLF pose no threat to Ethiopia",
@@ -16,6 +16,13 @@
       "url": "https://www.dabangasudan.org/en/all-news/article/sudan-timeline-april-june-2026-struggles-toward-ceasefire-fail-amid-el-obeid-violence",
       "published_date": "2026-07-03T16:28:36+00:00",
       "category": "Diplomacy"
+    },
+    {
+      "title": "Sudan: El-Obeid civilians trapped under RSF siege",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/sudan-el-obeid-civilians-trapped-under-rsf-siege",
+      "published_date": "2026-07-10T12:47:20+00:00",
+      "category": "Military"
     },
     {
       "title": "UN 'deeply concerned' by ongoing drone attack in Sudan",
