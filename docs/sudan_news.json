@@ -1,7 +1,7 @@
 {
   "country": "Sudan",
-  "last_updated": "2026-07-10T23:49:26.570219+00:00",
-  "story_count": 7,
+  "last_updated": "2026-07-11T11:45:00.427790+00:00",
+  "story_count": 8,
   "stories": [
     {
       "title": "UN finds genocide in Sudan, Iran-US ceasefire suspension, and AI for what? The Cheat Sheet",
@@ -16,6 +16,13 @@
       "url": "https://www.dabangasudan.org/en/all-news/article/ethiopian-pm-says-sudan-eritrea-and-tplf-pose-no-threat-to-ethiopia",
       "published_date": "2026-07-09T15:54:10+00:00",
       "category": "Diplomacy"
+    },
+    {
+      "title": "Sudan: EU calls for terrorist listing of RSF",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260711-sudan-eu-calls-for-terrorist-listing-of-rsf",
+      "published_date": "2026-07-11T09:23:49+00:00",
+      "category": "Military"
     },
     {
       "title": "Sudan: El-Obeid civilians trapped under RSF siege",
