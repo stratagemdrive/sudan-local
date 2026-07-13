@@ -1,7 +1,7 @@
 {
   "country": "Sudan",
-  "last_updated": "2026-07-13T13:11:54.906987+00:00",
-  "story_count": 8,
+  "last_updated": "2026-07-13T23:43:08.153058+00:00",
+  "story_count": 9,
   "stories": [
     {
       "title": "UN finds genocide in Sudan, Iran-US ceasefire suspension, and AI for what? The Cheat Sheet",
@@ -16,6 +16,13 @@
       "url": "https://www.dabangasudan.org/en/all-news/article/ethiopian-pm-says-sudan-eritrea-and-tplf-pose-no-threat-to-ethiopia",
       "published_date": "2026-07-09T15:54:10+00:00",
       "category": "Diplomacy"
+    },
+    {
+      "title": "Ebola spreads to more provinces",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/ebola-spreads-to-more-provinces",
+      "published_date": "2026-07-13T20:35:58+00:00",
+      "category": "Military"
     },
     {
       "title": "Sudan: EU calls for terrorist listing of RSF",
