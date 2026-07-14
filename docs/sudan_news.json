@@ -1,8 +1,15 @@
 {
   "country": "Sudan",
-  "last_updated": "2026-07-14T12:05:41.497017+00:00",
-  "story_count": 9,
+  "last_updated": "2026-07-14T23:42:37.261941+00:00",
+  "story_count": 15,
   "stories": [
+    {
+      "title": "Sudanese army’s ‘provisional nod’ to US ceasefire proposal reshapes negotiation landscape",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/sudanese-armys-provisional-nod-to-us-ceasefire-proposal-reshapes-negotiation-landscape",
+      "published_date": "2026-07-14T14:45:00+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "UN finds genocide in Sudan, Iran-US ceasefire suspension, and AI for what? The Cheat Sheet",
       "source": "The New Humanitarian",
@@ -16,6 +23,13 @@
       "url": "https://www.dabangasudan.org/en/all-news/article/ethiopian-pm-says-sudan-eritrea-and-tplf-pose-no-threat-to-ethiopia",
       "published_date": "2026-07-09T15:54:10+00:00",
       "category": "Diplomacy"
+    },
+    {
+      "title": "ICC vs former Darfur JEM commander Abdallah Banda: Prosecutors ask for withdrawal of war crimes charges as ‘evidence deteriorated after 10+ years’",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/icc-vs-former-darfur-jem-commander-abdallah-banda-prosecutors-ask-for-withdrawal-of-war-crimes-charges-citing-evidence-deteriorated-after-more-than-10-years",
+      "published_date": "2026-07-14T20:26:31+00:00",
+      "category": "Military"
     },
     {
       "title": "Sudanese court sentences Hemedti to death in absentia",
@@ -53,11 +67,39 @@
       "category": "Military"
     },
     {
+      "title": "FEWS NET: ‘Famine risk in Sudan could worsen until January’",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/fews-net-famine-risk-in-sudan-could-worsen-until-january",
+      "published_date": "2026-07-14T15:32:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "EU bans Sudan gold to target war economy",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/eu-bans-sudan-gold-to-target-war-economy",
+      "published_date": "2026-07-14T08:40:00+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "Sudan’s aid crisis is also a crisis of accountability",
       "source": "The New Humanitarian",
       "url": "https://www.thenewhumanitarian.org/opinion/2026/07/08/sudan-aid-crisis-accountability",
       "published_date": "2026-07-08T10:21:38+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "Sudan court’s death sentences for RSF leaders: justice served or political leverage?",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/death-sentences-for-rsf-leaders-justice-served-or-political-leverage",
+      "published_date": "2026-07-14T18:59:06+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Waiting for life: Kidney dialysis in Darfur, Kordofan a journey through illness and poverty",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/waiting-for-life-kidney-dialysis-in-darfur-kordofan-a-journey-through-illness-and-poverty",
+      "published_date": "2026-07-14T10:30:00+00:00",
+      "category": "Local Events"
     },
     {
       "title": "European Parliament calls for terrorist listing of Rapid Support Forces in Sudan",
