@@ -1,6 +1,6 @@
 {
   "country": "Sudan",
-  "last_updated": "2026-07-13T23:43:08.153058+00:00",
+  "last_updated": "2026-07-14T12:05:41.497017+00:00",
   "story_count": 9,
   "stories": [
     {
@@ -16,6 +16,13 @@
       "url": "https://www.dabangasudan.org/en/all-news/article/ethiopian-pm-says-sudan-eritrea-and-tplf-pose-no-threat-to-ethiopia",
       "published_date": "2026-07-09T15:54:10+00:00",
       "category": "Diplomacy"
+    },
+    {
+      "title": "Sudanese court sentences Hemedti to death in absentia",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/sudanese-court-sentences-hemedti-to-death-in-absentia",
+      "published_date": "2026-07-14T08:57:24+00:00",
+      "category": "Military"
     },
     {
       "title": "Ebola spreads to more provinces",
@@ -43,13 +50,6 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/un-deeply-concerned-by-ongoing-drone-attack-in-sudan",
       "published_date": "2026-07-09T20:29:20+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "UN condemns RSF escalation around El Obeid as Tasees backs ceasefire",
-      "source": "Dabanga",
-      "url": "https://www.dabangasudan.org/en/all-news/article/un-condemns-rsf-escalation-around-el-obeid-as-tasees-backs-ceasefire",
-      "published_date": "2026-07-07T11:50:13+00:00",
       "category": "Military"
     },
     {
