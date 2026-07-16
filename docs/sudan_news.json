@@ -1,7 +1,7 @@
 {
   "country": "Sudan",
-  "last_updated": "2026-07-15T23:51:08.576366+00:00",
-  "story_count": 14,
+  "last_updated": "2026-07-16T12:14:15.152460+00:00",
+  "story_count": 18,
   "stories": [
     {
       "title": "Sudanese army’s ‘provisional nod’ to US ceasefire proposal reshapes negotiation landscape",
@@ -23,6 +23,13 @@
       "url": "https://www.dabangasudan.org/en/all-news/article/ethiopian-pm-says-sudan-eritrea-and-tplf-pose-no-threat-to-ethiopia",
       "published_date": "2026-07-09T15:54:10+00:00",
       "category": "Diplomacy"
+    },
+    {
+      "title": "UN human rights commissioner: ‘Sudan’s war economy fuelling conflict, tainting global supply chains’",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/un-human-rights-commissioner-sudans-war-economy-fuelling-conflict-tainting-global-supply-chains",
+      "published_date": "2026-07-16T10:14:00+00:00",
+      "category": "Military"
     },
     {
       "title": "ICC vs former Darfur JEM commander Abdallah Banda: Prosecutors ask for withdrawal of war crimes charges as ‘evidence deteriorated after 10+ years’",
@@ -67,6 +74,13 @@
       "category": "Military"
     },
     {
+      "title": "From abundance to retreat: what happened to Nile water levels in Sudan?",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/from-abundance-to-retreat-what-happened-to-nile-water-levels-in-sudan",
+      "published_date": "2026-07-16T09:47:00+00:00",
+      "category": "Energy"
+    },
+    {
       "title": "FEWS NET: ‘Famine risk in Sudan could worsen until January’",
       "source": "Dabanga",
       "url": "https://www.dabangasudan.org/en/all-news/article/fews-net-famine-risk-in-sudan-could-worsen-until-january",
@@ -79,6 +93,20 @@
       "url": "https://www.dabangasudan.org/en/all-news/article/eu-bans-sudan-gold-to-target-war-economy",
       "published_date": "2026-07-14T08:40:00+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "ICC Deputy Prosecutor: ‘Investigations into El Geneina and El Fasher in Darfur ‘have made progress’",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/icc-deputy-prosecutor-investigations-into-el-geneina-and-el-fasher-in-darfur-have-made-progress",
+      "published_date": "2026-07-16T12:13:20+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "OCHA: Cholera spreads in Darfur, Kordofan as new drone attacks endanger civilians, aid operations in Sudan",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/cholera-spreads-as-new-drone-attacks-endanger-civilians-aid-operations",
+      "published_date": "2026-07-16T08:20:00+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Sudan court’s death sentences for RSF leaders: justice served or political leverage?",
