@@ -1,7 +1,7 @@
 {
   "country": "Sudan",
-  "last_updated": "2026-07-16T12:14:15.152460+00:00",
-  "story_count": 18,
+  "last_updated": "2026-07-16T23:51:09.412145+00:00",
+  "story_count": 17,
   "stories": [
     {
       "title": "Sudanese army’s ‘provisional nod’ to US ceasefire proposal reshapes negotiation landscape",
@@ -15,13 +15,6 @@
       "source": "The New Humanitarian",
       "url": "https://www.thenewhumanitarian.org/news/2026/07/10/un-genocide-sudan-iran-us-ceasefire-suspension-ai-cheat-sheet",
       "published_date": "2026-07-10T14:02:58+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Ethiopian PM says Sudan, Eritrea and TPLF pose no threat to Ethiopia",
-      "source": "Dabanga",
-      "url": "https://www.dabangasudan.org/en/all-news/article/ethiopian-pm-says-sudan-eritrea-and-tplf-pose-no-threat-to-ethiopia",
-      "published_date": "2026-07-09T15:54:10+00:00",
       "category": "Diplomacy"
     },
     {
@@ -67,18 +60,18 @@
       "category": "Military"
     },
     {
-      "title": "UN 'deeply concerned' by ongoing drone attack in Sudan",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/un-deeply-concerned-by-ongoing-drone-attack-in-sudan",
-      "published_date": "2026-07-09T20:29:20+00:00",
-      "category": "Military"
-    },
-    {
       "title": "From abundance to retreat: what happened to Nile water levels in Sudan?",
       "source": "Dabanga",
       "url": "https://www.dabangasudan.org/en/all-news/article/from-abundance-to-retreat-what-happened-to-nile-water-levels-in-sudan",
       "published_date": "2026-07-16T09:47:00+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Expert says currency crisis requires comprehensive economic reforms as Central Bank of Sudan policies achieve only partial success",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/expert-says-currency-crisis-requires-comprehensive-economic-reforms-as-central-bank-of-sudan-policies-achieve-only-partial-success",
+      "published_date": "2026-07-16T12:32:11+00:00",
+      "category": "Economy"
     },
     {
       "title": "FEWS NET: ‘Famine risk in Sudan could worsen until January’",
