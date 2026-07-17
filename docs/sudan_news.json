@@ -1,20 +1,13 @@
 {
   "country": "Sudan",
-  "last_updated": "2026-07-17T12:02:19.640797+00:00",
-  "story_count": 17,
+  "last_updated": "2026-07-17T23:42:47.165510+00:00",
+  "story_count": 14,
   "stories": [
     {
       "title": "Sudanese army’s ‘provisional nod’ to US ceasefire proposal reshapes negotiation landscape",
       "source": "Dabanga",
       "url": "https://www.dabangasudan.org/en/all-news/article/sudanese-armys-provisional-nod-to-us-ceasefire-proposal-reshapes-negotiation-landscape",
       "published_date": "2026-07-14T14:45:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "UN finds genocide in Sudan, Iran-US ceasefire suspension, and AI for what? The Cheat Sheet",
-      "source": "The New Humanitarian",
-      "url": "https://www.thenewhumanitarian.org/news/2026/07/10/un-genocide-sudan-iran-us-ceasefire-suspension-ai-cheat-sheet",
-      "published_date": "2026-07-10T14:02:58+00:00",
       "category": "Diplomacy"
     },
     {
@@ -50,13 +43,6 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/video/20260711-sudan-eu-calls-for-terrorist-listing-of-rsf",
       "published_date": "2026-07-11T09:23:49+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Sudan: El-Obeid civilians trapped under RSF siege",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/sudan-el-obeid-civilians-trapped-under-rsf-siege",
-      "published_date": "2026-07-10T12:47:20+00:00",
       "category": "Military"
     },
     {
@@ -113,13 +99,6 @@
       "source": "Dabanga",
       "url": "https://www.dabangasudan.org/en/all-news/article/waiting-for-life-kidney-dialysis-in-darfur-kordofan-a-journey-through-illness-and-poverty",
       "published_date": "2026-07-14T10:30:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "European Parliament calls for terrorist listing of Rapid Support Forces in Sudan",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/eye-on-africa/20260710-european-parliament-calls-for-terrorist-listing-of-rapid-support-forces-in-sudan",
-      "published_date": "2026-07-10T20:16:31+00:00",
       "category": "Local Events"
     }
   ]
