@@ -1,7 +1,7 @@
 {
   "country": "Sudan",
-  "last_updated": "2026-07-20T23:47:37.572850+00:00",
-  "story_count": 12,
+  "last_updated": "2026-07-21T12:19:30.887114+00:00",
+  "story_count": 11,
   "stories": [
     {
       "title": "Sudanese army’s ‘provisional nod’ to US ceasefire proposal reshapes negotiation landscape",
@@ -9,6 +9,13 @@
       "url": "https://www.dabangasudan.org/en/all-news/article/sudanese-armys-provisional-nod-to-us-ceasefire-proposal-reshapes-negotiation-landscape",
       "published_date": "2026-07-14T14:45:00+00:00",
       "category": "Diplomacy"
+    },
+    {
+      "title": "Sudan Transparency and Policy Tracker: RSF-aligned ‘Future Bank’ an unlicensed money-transfer platform",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/sudan-transparency-and-policy-tracker-rsf-aligned-future-bank-an-unlicensed-money-transfer-platform",
+      "published_date": "2026-07-21T08:33:00+00:00",
+      "category": "Military"
     },
     {
       "title": "UN human rights commissioner: ‘Sudan’s war economy fuelling conflict, tainting global supply chains’",
@@ -25,18 +32,18 @@
       "category": "Military"
     },
     {
-      "title": "Sudanese court sentences Hemedti to death in absentia",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/sudanese-court-sentences-hemedti-to-death-in-absentia",
-      "published_date": "2026-07-14T08:57:24+00:00",
-      "category": "Military"
-    },
-    {
       "title": "From abundance to retreat: what happened to Nile water levels in Sudan?",
       "source": "Dabanga",
       "url": "https://www.dabangasudan.org/en/all-news/article/from-abundance-to-retreat-what-happened-to-nile-water-levels-in-sudan",
       "published_date": "2026-07-16T09:47:00+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "WFP: North Kordofan capital El Obeid new epicentre of Sudan’s hunger crisis",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/wfp-north-kordofan-capital-el-obeid-new-epicentre-of-sudans-hunger-crisis",
+      "published_date": "2026-07-20T15:51:00+00:00",
+      "category": "Economy"
     },
     {
       "title": "Expert says currency crisis requires comprehensive economic reforms as Central Bank of Sudan policies achieve only partial success",
@@ -50,13 +57,6 @@
       "source": "Dabanga",
       "url": "https://www.dabangasudan.org/en/all-news/article/fews-net-famine-risk-in-sudan-could-worsen-until-january",
       "published_date": "2026-07-14T15:32:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "EU bans Sudan gold to target war economy",
-      "source": "Dabanga",
-      "url": "https://www.dabangasudan.org/en/all-news/article/eu-bans-sudan-gold-to-target-war-economy",
-      "published_date": "2026-07-14T08:40:00+00:00",
       "category": "Economy"
     },
     {
@@ -78,13 +78,6 @@
       "source": "Dabanga",
       "url": "https://www.dabangasudan.org/en/all-news/article/death-sentences-for-rsf-leaders-justice-served-or-political-leverage",
       "published_date": "2026-07-14T18:59:06+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Waiting for life: Kidney dialysis in Darfur, Kordofan a journey through illness and poverty",
-      "source": "Dabanga",
-      "url": "https://www.dabangasudan.org/en/all-news/article/waiting-for-life-kidney-dialysis-in-darfur-kordofan-a-journey-through-illness-and-poverty",
-      "published_date": "2026-07-14T10:30:00+00:00",
       "category": "Local Events"
     }
   ]
