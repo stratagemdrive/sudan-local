@@ -1,8 +1,22 @@
 {
   "country": "Sudan",
-  "last_updated": "2026-07-21T23:48:17.255824+00:00",
-  "story_count": 11,
+  "last_updated": "2026-07-22T12:22:20.313981+00:00",
+  "story_count": 16,
   "stories": [
+    {
+      "title": "Expert: Gum arabic second only to gold in financing Sudan’s war",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/expert-gum-arabic-second-only-to-gold-in-financing-sudans-war",
+      "published_date": "2026-07-22T12:04:48+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Hunger, disease, dispair: Darfur’s displaced bear ever-mounting toll of Sudan war",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/hunger-disease-dispair-darfurs-displaced-bear-ever-mounting-toll-of-sudan-war",
+      "published_date": "2026-07-22T09:03:00+00:00",
+      "category": "Military"
+    },
     {
       "title": "RSF-aligned gov’t accuses Sudan army of ‘chemical weapons attack in North Kordofan’",
       "source": "Dabanga",
@@ -39,6 +53,13 @@
       "category": "Military"
     },
     {
+      "title": "Criticism mounts over Sudan-Türkiye Suakin gas terminal memo",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/criticism-mounts-over-sudan-turkiye-suakin-gas-terminal-memo",
+      "published_date": "2026-07-22T08:30:00+00:00",
+      "category": "Energy"
+    },
+    {
       "title": "From abundance to retreat: what happened to Nile water levels in Sudan?",
       "source": "Dabanga",
       "url": "https://www.dabangasudan.org/en/all-news/article/from-abundance-to-retreat-what-happened-to-nile-water-levels-in-sudan",
@@ -58,6 +79,20 @@
       "url": "https://www.dabangasudan.org/en/all-news/article/expert-says-currency-crisis-requires-comprehensive-economic-reforms-as-central-bank-of-sudan-policies-achieve-only-partial-success",
       "published_date": "2026-07-16T12:32:11+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "ICC drops Abdallah Banda prosecution for alleged 2007 Darfur crimes after evidence collapses",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/icc-drops-banda-prosecution-for-alleged-2007-darfur-crimes-after-evidence-collapses",
+      "published_date": "2026-07-22T11:52:32+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Call for public health emergency amid Dengue outbreak in Sudan’s Blue Nile state",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/call-for-public-health-emergency-amid-dengue-outbreak-in-sudans-blue-nile-state",
+      "published_date": "2026-07-22T09:46:27+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Sudan’s Health Minister: Cholera outbreak in North Kordofan ‘contained’",
