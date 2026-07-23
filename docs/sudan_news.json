@@ -1,7 +1,7 @@
 {
   "country": "Sudan",
-  "last_updated": "2026-07-22T23:54:51.049765+00:00",
-  "story_count": 16,
+  "last_updated": "2026-07-23T12:19:18.880976+00:00",
+  "story_count": 12,
   "stories": [
     {
       "title": "Expert: Gum arabic second only to gold in financing Sudan’s war",
@@ -46,24 +46,10 @@
       "category": "Military"
     },
     {
-      "title": "UN human rights commissioner: ‘Sudan’s war economy fuelling conflict, tainting global supply chains’",
-      "source": "Dabanga",
-      "url": "https://www.dabangasudan.org/en/all-news/article/un-human-rights-commissioner-sudans-war-economy-fuelling-conflict-tainting-global-supply-chains",
-      "published_date": "2026-07-16T10:14:00+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Criticism mounts over Sudan-Türkiye Suakin gas terminal memo",
       "source": "Dabanga",
       "url": "https://www.dabangasudan.org/en/all-news/article/criticism-mounts-over-sudan-turkiye-suakin-gas-terminal-memo",
       "published_date": "2026-07-22T08:30:00+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "From abundance to retreat: what happened to Nile water levels in Sudan?",
-      "source": "Dabanga",
-      "url": "https://www.dabangasudan.org/en/all-news/article/from-abundance-to-retreat-what-happened-to-nile-water-levels-in-sudan",
-      "published_date": "2026-07-16T09:47:00+00:00",
       "category": "Energy"
     },
     {
@@ -99,20 +85,6 @@
       "source": "Dabanga",
       "url": "https://www.dabangasudan.org/en/all-news/article/sudans-health-minister-cholera-outbreak-in-north-kordofan-contained",
       "published_date": "2026-07-21T13:16:35+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "ICC Deputy Prosecutor: ‘Investigations into El Geneina and El Fasher in Darfur ‘have made progress’",
-      "source": "Dabanga",
-      "url": "https://www.dabangasudan.org/en/all-news/article/icc-deputy-prosecutor-investigations-into-el-geneina-and-el-fasher-in-darfur-have-made-progress",
-      "published_date": "2026-07-16T12:13:20+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "OCHA: Cholera spreads in Darfur, Kordofan as new drone attacks endanger civilians, aid operations in Sudan",
-      "source": "Dabanga",
-      "url": "https://www.dabangasudan.org/en/all-news/article/cholera-spreads-as-new-drone-attacks-endanger-civilians-aid-operations",
-      "published_date": "2026-07-16T08:20:00+00:00",
       "category": "Local Events"
     }
   ]
