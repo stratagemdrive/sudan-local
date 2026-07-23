@@ -1,7 +1,7 @@
 {
   "country": "Sudan",
-  "last_updated": "2026-07-23T12:19:18.880976+00:00",
-  "story_count": 12,
+  "last_updated": "2026-07-23T23:52:21.183319+00:00",
+  "story_count": 13,
   "stories": [
     {
       "title": "Expert: Gum arabic second only to gold in financing Sudan’s war",
@@ -9,6 +9,13 @@
       "url": "https://www.dabangasudan.org/en/all-news/article/expert-gum-arabic-second-only-to-gold-in-financing-sudans-war",
       "published_date": "2026-07-22T12:04:48+00:00",
       "category": "Diplomacy"
+    },
+    {
+      "title": "ICC Trial Chamber terminates case for Sudan war crimes against former JEM commander Abdallah Banda ‘without prejudice’",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/icc-trial-chamber-terminates-proceedings-in-case-against-former-jem-commander-abdallah-banda-without-prejudice",
+      "published_date": "2026-07-23T14:31:30+00:00",
+      "category": "Military"
     },
     {
       "title": "Hunger, disease, dispair: Darfur’s displaced bear ever-mounting toll of Sudan war",
@@ -46,6 +53,13 @@
       "category": "Military"
     },
     {
+      "title": "Water expert urges binding GERD agreement after Nile levels fall in Sudan",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/water-expert-urges-binding-gerd-agreement-after-nile-levels-fall-in-sudan",
+      "published_date": "2026-07-23T17:27:30+00:00",
+      "category": "Energy"
+    },
+    {
       "title": "Criticism mounts over Sudan-Türkiye Suakin gas terminal memo",
       "source": "Dabanga",
       "url": "https://www.dabangasudan.org/en/all-news/article/criticism-mounts-over-sudan-turkiye-suakin-gas-terminal-memo",
@@ -57,13 +71,6 @@
       "source": "Dabanga",
       "url": "https://www.dabangasudan.org/en/all-news/article/wfp-north-kordofan-capital-el-obeid-new-epicentre-of-sudans-hunger-crisis",
       "published_date": "2026-07-20T15:51:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Expert says currency crisis requires comprehensive economic reforms as Central Bank of Sudan policies achieve only partial success",
-      "source": "Dabanga",
-      "url": "https://www.dabangasudan.org/en/all-news/article/expert-says-currency-crisis-requires-comprehensive-economic-reforms-as-central-bank-of-sudan-policies-achieve-only-partial-success",
-      "published_date": "2026-07-16T12:32:11+00:00",
       "category": "Economy"
     },
     {
