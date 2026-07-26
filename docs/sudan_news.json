@@ -1,7 +1,7 @@
 {
   "country": "Sudan",
-  "last_updated": "2026-07-26T11:56:43.861981+00:00",
-  "story_count": 14,
+  "last_updated": "2026-07-26T23:52:15.110085+00:00",
+  "story_count": 18,
   "stories": [
     {
       "title": "Expert: Gum arabic second only to gold in financing Sudan’s war",
@@ -9,6 +9,20 @@
       "url": "https://www.dabangasudan.org/en/all-news/article/expert-gum-arabic-second-only-to-gold-in-financing-sudans-war",
       "published_date": "2026-07-22T12:04:48+00:00",
       "category": "Diplomacy"
+    },
+    {
+      "title": "Khartoum (2025): Sudanese filmmakers turn war into intimate portraits",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/khartoum-2025-sudanese-filmmakers-turn-war-into-intimate-portraits",
+      "published_date": "2026-07-26T15:31:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Sudanese army claim capture of strategic North Kordofan towns",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/sudanese-army-claim-capture-of-strategic-north-kordofan-towns",
+      "published_date": "2026-07-26T11:06:00+00:00",
+      "category": "Military"
     },
     {
       "title": "ICC Trial Chamber terminates case for Sudan war crimes against former JEM commander Abdallah Banda ‘without prejudice’",
@@ -67,6 +81,13 @@
       "category": "Energy"
     },
     {
+      "title": "Economist: ‘Sudan should channel half its cash supply into sovereign fund’",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/economist-sudan-should-channel-half-its-cash-supply-into-sovereign-fund",
+      "published_date": "2026-07-26T08:30:00+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "حكومة شمال كردفان: (105) آلاف نازح في (8) مخيمات بالولاية",
       "source": "Sudan Tribune",
       "url": "https://sudantribune.net/article/316559",
@@ -79,6 +100,13 @@
       "url": "https://www.dabangasudan.org/en/all-news/article/wfp-north-kordofan-capital-el-obeid-new-epicentre-of-sudans-hunger-crisis",
       "published_date": "2026-07-20T15:51:00+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "ICC chief prosecutor Karim Khan dismissed for sexual misconduct",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/icc-chief-prosecutor-karim-khan-dismissed-for-sexual-misconduct",
+      "published_date": "2026-07-25T21:53:00+00:00",
+      "category": "Local Events"
     },
     {
       "title": "ICC drops Abdallah Banda prosecution for alleged 2007 Darfur crimes after evidence collapses",
