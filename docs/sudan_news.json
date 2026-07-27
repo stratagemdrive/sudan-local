@@ -1,7 +1,7 @@
 {
   "country": "Sudan",
-  "last_updated": "2026-07-27T13:32:31.622475+00:00",
-  "story_count": 18,
+  "last_updated": "2026-07-27T23:55:51.219749+00:00",
+  "story_count": 19,
   "stories": [
     {
       "title": "Expert: Gum arabic second only to gold in financing Sudan’s war",
@@ -9,6 +9,20 @@
       "url": "https://www.dabangasudan.org/en/all-news/article/expert-gum-arabic-second-only-to-gold-in-financing-sudans-war",
       "published_date": "2026-07-22T12:04:48+00:00",
       "category": "Diplomacy"
+    },
+    {
+      "title": "2026 Women's Africa Cup of Nations is underway",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/2026-women-s-africa-cup-of-nations-is-underway",
+      "published_date": "2026-07-27T20:12:09+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "SAF claims gains on Omdurman–El Obeid road as fighting continues in North Kordofan",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/saf-claims-gains-on-omdurman-el-obeid-road-as-fighting-continues-in-north-kordofan",
+      "published_date": "2026-07-27T19:14:34+00:00",
+      "category": "Military"
     },
     {
       "title": "Khartoum (2025): Sudanese filmmakers turn war into intimate portraits",
@@ -92,13 +106,6 @@
       "source": "Sudan Tribune",
       "url": "https://sudantribune.net/article/316559",
       "published_date": "2026-07-24T18:28:38+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "WFP: North Kordofan capital El Obeid new epicentre of Sudan’s hunger crisis",
-      "source": "Dabanga",
-      "url": "https://www.dabangasudan.org/en/all-news/article/wfp-north-kordofan-capital-el-obeid-new-epicentre-of-sudans-hunger-crisis",
-      "published_date": "2026-07-20T15:51:00+00:00",
       "category": "Economy"
     },
     {
