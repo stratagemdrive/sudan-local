@@ -1,7 +1,7 @@
 {
   "country": "Sudan",
-  "last_updated": "2026-07-27T23:55:51.219749+00:00",
-  "story_count": 19,
+  "last_updated": "2026-07-28T12:48:27.328350+00:00",
+  "story_count": 18,
   "stories": [
     {
       "title": "Expert: Gum arabic second only to gold in financing Sudan’s war",
@@ -9,6 +9,13 @@
       "url": "https://www.dabangasudan.org/en/all-news/article/expert-gum-arabic-second-only-to-gold-in-financing-sudans-war",
       "published_date": "2026-07-22T12:04:48+00:00",
       "category": "Diplomacy"
+    },
+    {
+      "title": "Drone strikes and abuse rock Sudan's El-Obeid as conflict intensifies over city",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/drone-strikes-and-abuse-rock-sudan-s-el-obeid-as-conflict-intensifies-over-city",
+      "published_date": "2026-07-28T10:16:49+00:00",
+      "category": "Military"
     },
     {
       "title": "2026 Women's Africa Cup of Nations is underway",
@@ -64,20 +71,6 @@
       "source": "The New Humanitarian",
       "url": "https://www.thenewhumanitarian.org/news-feature/2026/07/21/uks-contradictory-sudan-policy-leaves-refugees-locked-out",
       "published_date": "2026-07-21T14:37:45+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Sudan inflation accelerates as food and transport costs drive fresh price surge",
-      "source": "Dabanga",
-      "url": "https://www.dabangasudan.org/en/all-news/article/sudan-inflation-accelerates-as-food-and-transport-costs-drive-fresh-price-surge",
-      "published_date": "2026-07-21T10:50:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Sudan Transparency and Policy Tracker: RSF-aligned ‘Future Bank’ an unlicensed money-transfer platform",
-      "source": "Dabanga",
-      "url": "https://www.dabangasudan.org/en/all-news/article/sudan-transparency-and-policy-tracker-rsf-aligned-future-bank-an-unlicensed-money-transfer-platform",
-      "published_date": "2026-07-21T08:33:00+00:00",
       "category": "Military"
     },
     {
