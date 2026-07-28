@@ -1,7 +1,7 @@
 {
   "country": "Sudan",
-  "last_updated": "2026-07-28T12:48:27.328350+00:00",
-  "story_count": 18,
+  "last_updated": "2026-07-28T23:51:38.360847+00:00",
+  "story_count": 17,
   "stories": [
     {
       "title": "Expert: Gum arabic second only to gold in financing Sudan’s war",
@@ -9,6 +9,13 @@
       "url": "https://www.dabangasudan.org/en/all-news/article/expert-gum-arabic-second-only-to-gold-in-financing-sudans-war",
       "published_date": "2026-07-22T12:04:48+00:00",
       "category": "Diplomacy"
+    },
+    {
+      "title": "El Burhan visits newly captured North Kordofan towns",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/el-burhan-visits-newly-captured-north-kordofan-towns",
+      "published_date": "2026-07-28T16:21:38+00:00",
+      "category": "Military"
     },
     {
       "title": "Drone strikes and abuse rock Sudan's El-Obeid as conflict intensifies over city",
@@ -60,20 +67,6 @@
       "category": "Military"
     },
     {
-      "title": "RSF-aligned gov’t accuses Sudan army of ‘chemical weapons attack in North Kordofan’",
-      "source": "Dabanga",
-      "url": "https://www.dabangasudan.org/en/all-news/article/rsf-aligned-govt-accuses-sudan-army-of-chemical-weapons-attack-in-north-kordofan",
-      "published_date": "2026-07-21T15:48:41+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "The UK’s contradictory Sudan policy leaves refugees locked out",
-      "source": "The New Humanitarian",
-      "url": "https://www.thenewhumanitarian.org/news-feature/2026/07/21/uks-contradictory-sudan-policy-leaves-refugees-locked-out",
-      "published_date": "2026-07-21T14:37:45+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Water expert urges binding GERD agreement after Nile levels fall in Sudan",
       "source": "Dabanga",
       "url": "https://www.dabangasudan.org/en/all-news/article/water-expert-urges-binding-gerd-agreement-after-nile-levels-fall-in-sudan",
@@ -102,6 +95,13 @@
       "category": "Economy"
     },
     {
+      "title": "UN warns conflict, displacement and cholera are deepening Sudan’s humanitarian crisis",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/un-warns-conflict-displacement-and-cholera-are-deepening-sudans-humanitarian-crisis",
+      "published_date": "2026-07-28T16:24:55+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "ICC chief prosecutor Karim Khan dismissed for sexual misconduct",
       "source": "Dabanga",
       "url": "https://www.dabangasudan.org/en/all-news/article/icc-chief-prosecutor-karim-khan-dismissed-for-sexual-misconduct",
@@ -120,13 +120,6 @@
       "source": "Dabanga",
       "url": "https://www.dabangasudan.org/en/all-news/article/call-for-public-health-emergency-amid-dengue-outbreak-in-sudans-blue-nile-state",
       "published_date": "2026-07-22T09:46:27+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sudan’s Health Minister: Cholera outbreak in North Kordofan ‘contained’",
-      "source": "Dabanga",
-      "url": "https://www.dabangasudan.org/en/all-news/article/sudans-health-minister-cholera-outbreak-in-north-kordofan-contained",
-      "published_date": "2026-07-21T13:16:35+00:00",
       "category": "Local Events"
     }
   ]
