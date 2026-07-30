@@ -1,8 +1,15 @@
 {
   "country": "Sudan",
-  "last_updated": "2026-07-30T12:23:38.138262+00:00",
-  "story_count": 13,
+  "last_updated": "2026-07-30T23:53:33.705420+00:00",
+  "story_count": 12,
   "stories": [
+    {
+      "title": "Air strike kills at least 24 civilians in North Kordofan, RSF attack leaves nine dead",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/air-strike-kills-at-least-24-civilians-in-north-kordofan-rsf-attack-leaves-nine-dead",
+      "published_date": "2026-07-30T18:33:40+00:00",
+      "category": "Military"
+    },
     {
       "title": "How home gardening became a lifeline in Sudan’s besieged towns.",
       "source": "The New Humanitarian",
@@ -51,20 +58,6 @@
       "url": "https://www.dabangasudan.org/en/all-news/article/sudanese-army-claim-capture-of-strategic-north-kordofan-towns",
       "published_date": "2026-07-26T11:06:00+00:00",
       "category": "Military"
-    },
-    {
-      "title": "ICC Trial Chamber terminates case for Sudan war crimes against former JEM commander Abdallah Banda ‘without prejudice’",
-      "source": "Dabanga",
-      "url": "https://www.dabangasudan.org/en/all-news/article/icc-trial-chamber-terminates-proceedings-in-case-against-former-jem-commander-abdallah-banda-without-prejudice",
-      "published_date": "2026-07-23T14:31:30+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Water expert urges binding GERD agreement after Nile levels fall in Sudan",
-      "source": "Dabanga",
-      "url": "https://www.dabangasudan.org/en/all-news/article/water-expert-urges-binding-gerd-agreement-after-nile-levels-fall-in-sudan",
-      "published_date": "2026-07-23T17:27:30+00:00",
-      "category": "Energy"
     },
     {
       "title": "Economist: ‘Sudan should channel half its cash supply into sovereign fund’",
