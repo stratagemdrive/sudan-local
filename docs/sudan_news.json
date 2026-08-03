@@ -1,7 +1,7 @@
 {
   "country": "Sudan",
-  "last_updated": "2026-08-02T23:50:24.792421+00:00",
-  "story_count": 9,
+  "last_updated": "2026-08-03T13:32:47.045735+00:00",
+  "story_count": 10,
   "stories": [
     {
       "title": "US Congress weighs landmark Sudan bills to tighten sanctions and accountability",
@@ -9,6 +9,13 @@
       "url": "https://www.dabangasudan.org/en/all-news/article/us-congress-weighs-landmark-sudan-bills-to-tighten-sanctions-and-accountability",
       "published_date": "2026-07-31T14:19:15+00:00",
       "category": "Diplomacy"
+    },
+    {
+      "title": "Sudan army drone strike kills 35 at Darfur court, rights group says",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/africa/20260803-sudan-darfur-drone-army-kill",
+      "published_date": "2026-08-03T01:30:16+00:00",
+      "category": "Military"
     },
     {
       "title": "Air strike kills at least 24 civilians in North Kordofan, RSF attack leaves nine dead",
