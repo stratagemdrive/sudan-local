@@ -1,7 +1,7 @@
 {
   "country": "Sudan",
-  "last_updated": "2026-08-03T13:32:47.045735+00:00",
-  "story_count": 10,
+  "last_updated": "2026-08-03T23:59:51.238062+00:00",
+  "story_count": 9,
   "stories": [
     {
       "title": "US Congress weighs landmark Sudan bills to tighten sanctions and accountability",
@@ -46,18 +46,11 @@
       "category": "Military"
     },
     {
-      "title": "2026 Women's Africa Cup of Nations is underway",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/2026-women-s-africa-cup-of-nations-is-underway",
-      "published_date": "2026-07-27T20:12:09+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "SAF claims gains on Omdurman–El Obeid road as fighting continues in North Kordofan",
+      "title": "Six Sudanese police officers sentenced to death over detainee’s torture death",
       "source": "Dabanga",
-      "url": "https://www.dabangasudan.org/en/all-news/article/saf-claims-gains-on-omdurman-el-obeid-road-as-fighting-continues-in-north-kordofan",
-      "published_date": "2026-07-27T19:14:34+00:00",
-      "category": "Military"
+      "url": "https://www.dabangasudan.org/en/all-news/article/six-sudanese-police-officers-sentenced-to-death-over-detainees-torture-death",
+      "published_date": "2026-08-03T17:24:57+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Darfur faces famine threat as drought and soaring food prices deepen crisis",
