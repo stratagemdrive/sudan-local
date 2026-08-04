@@ -1,6 +1,6 @@
 {
   "country": "Sudan",
-  "last_updated": "2026-08-03T23:59:51.238062+00:00",
+  "last_updated": "2026-08-04T12:53:11.554401+00:00",
   "story_count": 9,
   "stories": [
     {
@@ -9,6 +9,13 @@
       "url": "https://www.dabangasudan.org/en/all-news/article/us-congress-weighs-landmark-sudan-bills-to-tighten-sanctions-and-accountability",
       "published_date": "2026-07-31T14:19:15+00:00",
       "category": "Diplomacy"
+    },
+    {
+      "title": "Ethiopians flee to neighbouring Sudan after renewed conflict in Tigray",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260804-ethiopians-flee-to-neighbouring-sudan-after-renewed-conflict-in-tigray",
+      "published_date": "2026-08-04T09:54:20+00:00",
+      "category": "Military"
     },
     {
       "title": "Sudan army drone strike kills 35 at Darfur court, rights group says",
@@ -36,13 +43,6 @@
       "source": "Dabanga",
       "url": "https://www.dabangasudan.org/en/all-news/article/el-burhan-visits-newly-captured-north-kordofan-towns",
       "published_date": "2026-07-28T16:21:38+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Drone strikes and abuse rock Sudan's El-Obeid as conflict intensifies over city",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/drone-strikes-and-abuse-rock-sudan-s-el-obeid-as-conflict-intensifies-over-city",
-      "published_date": "2026-07-28T10:16:49+00:00",
       "category": "Military"
     },
     {
