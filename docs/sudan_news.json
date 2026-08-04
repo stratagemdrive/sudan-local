@@ -1,6 +1,6 @@
 {
   "country": "Sudan",
-  "last_updated": "2026-08-04T12:53:11.554401+00:00",
+  "last_updated": "2026-08-04T23:55:24.853037+00:00",
   "story_count": 9,
   "stories": [
     {
@@ -9,6 +9,13 @@
       "url": "https://www.dabangasudan.org/en/all-news/article/us-congress-weighs-landmark-sudan-bills-to-tighten-sanctions-and-accountability",
       "published_date": "2026-07-31T14:19:15+00:00",
       "category": "Diplomacy"
+    },
+    {
+      "title": "'World's largest humanitarian crisis Thirty five million Sudanese need humanitarian assistance'",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/world-s-largest-humanitarian-crisis-thirty-five-million-sudanese-need-humanitarian-assistance",
+      "published_date": "2026-08-04T16:14:16+00:00",
+      "category": "Military"
     },
     {
       "title": "Ethiopians flee to neighbouring Sudan after renewed conflict in Tigray",
@@ -39,11 +46,11 @@
       "category": "Military"
     },
     {
-      "title": "El Burhan visits newly captured North Kordofan towns",
+      "title": "White Nile traders strike over rising fees as Port Sudan faces water and power crisis",
       "source": "Dabanga",
-      "url": "https://www.dabangasudan.org/en/all-news/article/el-burhan-visits-newly-captured-north-kordofan-towns",
-      "published_date": "2026-07-28T16:21:38+00:00",
-      "category": "Military"
+      "url": "https://www.dabangasudan.org/en/all-news/article/white-nile-traders-strike-over-rising-fees-as-port-sudan-faces-water-and-power-crisis",
+      "published_date": "2026-08-04T17:56:41+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Six Sudanese police officers sentenced to death over detainee’s torture death",
@@ -57,13 +64,6 @@
       "source": "Dabanga",
       "url": "https://www.dabangasudan.org/en/all-news/article/darfur-faces-famine-threat-as-drought-and-soaring-food-prices-deepen-crisis",
       "published_date": "2026-08-02T16:06:45+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "UN warns conflict, displacement and cholera are deepening Sudan’s humanitarian crisis",
-      "source": "Dabanga",
-      "url": "https://www.dabangasudan.org/en/all-news/article/un-warns-conflict-displacement-and-cholera-are-deepening-sudans-humanitarian-crisis",
-      "published_date": "2026-07-28T16:24:55+00:00",
       "category": "Local Events"
     }
   ]
