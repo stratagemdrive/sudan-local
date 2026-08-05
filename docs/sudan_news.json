@@ -1,7 +1,7 @@
 {
   "country": "Sudan",
-  "last_updated": "2026-08-05T12:47:53.738660+00:00",
-  "story_count": 8,
+  "last_updated": "2026-08-05T23:49:53.107985+00:00",
+  "story_count": 9,
   "stories": [
     {
       "title": "US Congress weighs landmark Sudan bills to tighten sanctions and accountability",
@@ -37,6 +37,13 @@
       "url": "https://www.dabangasudan.org/en/all-news/article/air-strike-kills-at-least-24-civilians-in-north-kordofan-rsf-attack-leaves-nine-dead",
       "published_date": "2026-07-30T18:33:40+00:00",
       "category": "Military"
+    },
+    {
+      "title": "UN warns drone strikes worsen in Sudan",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/eye-on-africa/20260805-un-warns-drone-strikes-worsen-in-sudan",
+      "published_date": "2026-08-05T20:39:15+00:00",
+      "category": "Local Events"
     },
     {
       "title": "White Nile traders strike over rising fees as Port Sudan faces water and power crisis",
