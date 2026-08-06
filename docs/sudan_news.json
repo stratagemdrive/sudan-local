@@ -1,7 +1,7 @@
 {
   "country": "Sudan",
-  "last_updated": "2026-08-05T23:49:53.107985+00:00",
-  "story_count": 9,
+  "last_updated": "2026-08-06T12:51:05.499665+00:00",
+  "story_count": 10,
   "stories": [
     {
       "title": "US Congress weighs landmark Sudan bills to tighten sanctions and accountability",
@@ -9,6 +9,13 @@
       "url": "https://www.dabangasudan.org/en/all-news/article/us-congress-weighs-landmark-sudan-bills-to-tighten-sanctions-and-accountability",
       "published_date": "2026-07-31T14:19:15+00:00",
       "category": "Diplomacy"
+    },
+    {
+      "title": "UN warns drone attacks have become leading cause of civilian death in Sudan",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260806-un-warns-drone-attacks-have-become-leading-cause-of-civilian-death-in-sudan",
+      "published_date": "2026-08-06T09:10:30+00:00",
+      "category": "Military"
     },
     {
       "title": "'World's largest humanitarian crisis Thirty five million Sudanese need humanitarian assistance'",
