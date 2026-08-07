@@ -1,7 +1,7 @@
 {
   "country": "Sudan",
-  "last_updated": "2026-08-06T12:51:05.499665+00:00",
-  "story_count": 10,
+  "last_updated": "2026-08-07T01:39:40.557388+00:00",
+  "story_count": 11,
   "stories": [
     {
       "title": "US Congress weighs landmark Sudan bills to tighten sanctions and accountability",
@@ -39,11 +39,18 @@
       "category": "Military"
     },
     {
-      "title": "Air strike kills at least 24 civilians in North Kordofan, RSF attack leaves nine dead",
+      "title": "Food prices surge in Omdurman as North Darfur food crisis deepens",
       "source": "Dabanga",
-      "url": "https://www.dabangasudan.org/en/all-news/article/air-strike-kills-at-least-24-civilians-in-north-kordofan-rsf-attack-leaves-nine-dead",
-      "published_date": "2026-07-30T18:33:40+00:00",
-      "category": "Military"
+      "url": "https://www.dabangasudan.org/en/all-news/article/food-prices-surge-in-omdurman-as-north-darfur-food-crisis-deepens",
+      "published_date": "2026-08-06T19:12:14+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "South Darfur hospital faces shutdown after last doctor leaves",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/south-darfur-hospital-faces-shutdown-after-last-doctor-leaves",
+      "published_date": "2026-08-06T17:39:08+00:00",
+      "category": "Local Events"
     },
     {
       "title": "UN warns drone strikes worsen in Sudan",
