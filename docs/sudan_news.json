@@ -1,7 +1,7 @@
 {
   "country": "Sudan",
-  "last_updated": "2026-08-09T11:20:51.096416+00:00",
-  "story_count": 10,
+  "last_updated": "2026-08-09T23:21:10.528720+00:00",
+  "story_count": 9,
   "stories": [
     {
       "title": "UN warns drone attacks have become leading cause of civilian death in Sudan",
@@ -64,13 +64,6 @@
       "source": "Dabanga",
       "url": "https://www.dabangasudan.org/en/all-news/article/six-sudanese-police-officers-sentenced-to-death-over-detainees-torture-death",
       "published_date": "2026-08-03T17:24:57+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Darfur faces famine threat as drought and soaring food prices deepen crisis",
-      "source": "Dabanga",
-      "url": "https://www.dabangasudan.org/en/all-news/article/darfur-faces-famine-threat-as-drought-and-soaring-food-prices-deepen-crisis",
-      "published_date": "2026-08-02T16:06:45+00:00",
       "category": "Local Events"
     }
   ]
