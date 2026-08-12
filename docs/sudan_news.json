@@ -1,8 +1,15 @@
 {
   "country": "Sudan",
-  "last_updated": "2026-08-12T11:39:09.380959+00:00",
+  "last_updated": "2026-08-12T23:30:40.827248+00:00",
   "story_count": 4,
   "stories": [
+    {
+      "title": "SAF accused of civilian killings as RSF drones strike three states",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/saf-accused-of-civilian-killings-as-rsf-drones-strike-three-states",
+      "published_date": "2026-08-12T17:31:49+00:00",
+      "category": "Military"
+    },
     {
       "title": "UN warns drone attacks have become leading cause of civilian death in Sudan",
       "source": "France 24",
@@ -22,13 +29,6 @@
       "source": "Dabanga",
       "url": "https://www.dabangasudan.org/en/all-news/article/south-darfur-hospital-faces-shutdown-after-last-doctor-leaves",
       "published_date": "2026-08-06T17:39:08+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "UN warns drone strikes worsen in Sudan",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/eye-on-africa/20260805-un-warns-drone-strikes-worsen-in-sudan",
-      "published_date": "2026-08-05T20:39:15+00:00",
       "category": "Local Events"
     }
   ]
