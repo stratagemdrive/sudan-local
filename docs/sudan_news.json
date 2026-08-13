@@ -1,8 +1,15 @@
 {
   "country": "Sudan",
-  "last_updated": "2026-08-12T23:30:40.827248+00:00",
-  "story_count": 4,
+  "last_updated": "2026-08-13T11:39:43.667576+00:00",
+  "story_count": 5,
   "stories": [
+    {
+      "title": "Broad reaction to Burhan’s call for dialogue inside Sudan and reports of presidential amnesty",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/broad-reaction-to-burhans-call-for-dialogue-inside-sudan-and-reports-of-presidential-amnesty",
+      "published_date": "2026-08-13T08:39:00+00:00",
+      "category": "Military"
+    },
     {
       "title": "SAF accused of civilian killings as RSF drones strike three states",
       "source": "Dabanga",
@@ -11,11 +18,11 @@
       "category": "Military"
     },
     {
-      "title": "UN warns drone attacks have become leading cause of civilian death in Sudan",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260806-un-warns-drone-attacks-have-become-leading-cause-of-civilian-death-in-sudan",
-      "published_date": "2026-08-06T09:10:30+00:00",
-      "category": "Military"
+      "title": "‘Unbearable hardship’ in Sudan — Displaced people in Kordofan eat animal feed to avert starvation",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/unbearable-hardship-in-sudan-displaced-people-in-kordofan-eat-animal-feed-to-avert-starvation",
+      "published_date": "2026-08-13T09:05:00+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Food prices surge in Omdurman as North Darfur food crisis deepens",
