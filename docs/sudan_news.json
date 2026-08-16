@@ -1,8 +1,29 @@
 {
   "country": "Sudan",
-  "last_updated": "2026-08-16T11:11:26.108000+00:00",
-  "story_count": 4,
+  "last_updated": "2026-08-16T23:10:49.087353+00:00",
+  "story_count": 7,
   "stories": [
+    {
+      "title": "Sudan’s El Burhan pledges guarantees, sets out amnesty rules for dialogue",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/sudans-el-burhan-pledges-guarantees-sets-out-amnesty-rules-for-dialogue",
+      "published_date": "2026-08-16T12:04:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Women demand inclusive, safe dialogue to end Sudan war for good",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/women-call-for-inclusive-safe-dialogue-to-end-sudan-war-for-good",
+      "published_date": "2026-08-16T09:08:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Young Sudanese call for ‘inclusive dialogue to address roots of war, put justice and peace first’",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/young-sudanese-call-for-inclusive-dialogue-to-address-roots-of-war-and-put-justice-and-peace-first",
+      "published_date": "2026-08-16T08:26:00+00:00",
+      "category": "Military"
+    },
     {
       "title": "RSF drone attacks in Sudan, Somalia’s drought emergency, and WFP sticks with Palantir: The Cheat Sheet",
       "source": "The New Humanitarian",
