@@ -1,8 +1,22 @@
 {
   "country": "Sudan",
-  "last_updated": "2026-08-18T11:16:28.574531+00:00",
-  "story_count": 7,
+  "last_updated": "2026-08-18T23:12:53.986406+00:00",
+  "story_count": 9,
   "stories": [
+    {
+      "title": "‘SAF shoots down two RSF long-range drones in North Kordofan’",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/saf-shoots-down-two-rsf-long-range-drones-in-north-kordofan",
+      "published_date": "2026-08-18T16:35:18+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Sudan battlefield shifts as RSF intensifies operations in Blue Nile",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/sudan-battlefield-shifts-as-rsf-intensifies-operations-in-blue-nile",
+      "published_date": "2026-08-18T16:13:26+00:00",
+      "category": "Military"
+    },
     {
       "title": "Sudan’s El Burhan pledges guarantees, sets out amnesty rules for dialogue",
       "source": "Dabanga",
