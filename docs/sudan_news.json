@@ -1,8 +1,15 @@
 {
   "country": "Sudan",
-  "last_updated": "2026-08-20T11:18:19.648024+00:00",
-  "story_count": 6,
+  "last_updated": "2026-08-20T23:16:48.669535+00:00",
+  "story_count": 7,
   "stories": [
+    {
+      "title": "IOM: 200k+ displaced across Kordofan as fighting intensifies",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/200k-displaced-across-kordofan-as-fighting-intensifies",
+      "published_date": "2026-08-20T17:35:22+00:00",
+      "category": "Military"
+    },
     {
       "title": "‘SAF shoots down two RSF long-range drones in North Kordofan’",
       "source": "Dabanga",
