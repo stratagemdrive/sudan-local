@@ -1,7 +1,7 @@
 {
   "country": "Sudan",
-  "last_updated": "2026-08-19T23:14:17.878886+00:00",
-  "story_count": 8,
+  "last_updated": "2026-08-20T11:18:19.648024+00:00",
+  "story_count": 6,
   "stories": [
     {
       "title": "‘SAF shoots down two RSF long-range drones in North Kordofan’",
@@ -44,20 +44,6 @@
       "url": "https://www.thenewhumanitarian.org/cheat-sheet/2026/08/14/rsf-drone-attacks-somalias-drought-emergency-and-wfp-sticks-palantir-cheat",
       "published_date": "2026-08-14T14:56:43+00:00",
       "category": "Military"
-    },
-    {
-      "title": "Broad reaction to Burhan’s call for dialogue inside Sudan and reports of presidential amnesty",
-      "source": "Dabanga",
-      "url": "https://www.dabangasudan.org/en/all-news/article/broad-reaction-to-burhans-call-for-dialogue-inside-sudan-and-reports-of-presidential-amnesty",
-      "published_date": "2026-08-13T08:39:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "‘Unbearable hardship’ in Sudan — Displaced people in Kordofan eat animal feed to avert starvation",
-      "source": "Dabanga",
-      "url": "https://www.dabangasudan.org/en/all-news/article/unbearable-hardship-in-sudan-displaced-people-in-kordofan-eat-animal-feed-to-avert-starvation",
-      "published_date": "2026-08-13T09:05:00+00:00",
-      "category": "Local Events"
     }
   ]
 }
