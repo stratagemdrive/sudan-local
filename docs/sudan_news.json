@@ -1,8 +1,22 @@
 {
   "country": "Sudan",
-  "last_updated": "2026-08-20T23:16:48.669535+00:00",
-  "story_count": 7,
+  "last_updated": "2026-08-21T11:17:23.327547+00:00",
+  "story_count": 11,
   "stories": [
+    {
+      "title": "Sudanese women leaders: ‘El Burhan’s dialogue call meaningless without a ceasefire’",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/sudanese-women-leaders-el-burhans-dialogue-call-meaningless-without-a-ceasefire",
+      "published_date": "2026-08-21T10:06:39+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Sudan’s aid workers under fire as volunteers keep humanitarian lifeline alive",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/sudans-aid-workers-under-fire-as-volunteers-keep-humanitarian-lifeline-alive",
+      "published_date": "2026-08-21T08:53:19+00:00",
+      "category": "Military"
+    },
     {
       "title": "IOM: 200k+ displaced across Kordofan as fighting intensifies",
       "source": "Dabanga",
@@ -51,6 +65,20 @@
       "url": "https://www.thenewhumanitarian.org/cheat-sheet/2026/08/14/rsf-drone-attacks-somalias-drought-emergency-and-wfp-sticks-palantir-cheat",
       "published_date": "2026-08-14T14:56:43+00:00",
       "category": "Military"
+    },
+    {
+      "title": "Special forces deployed in restive South Darfur capital Nyala",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/special-forces-deployed-in-restive-south-darfur-capital-nyala",
+      "published_date": "2026-08-21T10:32:29+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘Takaya’ community kitchen closures threaten 50,000 families in Sudan capital",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/takaya-community-kitchen-closures-threaten-50000-families-in-sudan-capital",
+      "published_date": "2026-08-21T09:17:03+00:00",
+      "category": "Local Events"
     }
   ]
 }
