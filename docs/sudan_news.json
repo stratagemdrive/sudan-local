@@ -1,7 +1,7 @@
 {
   "country": "Sudan",
-  "last_updated": "2026-08-24T11:19:57.723245+00:00",
-  "story_count": 7,
+  "last_updated": "2026-08-24T23:14:20.334216+00:00",
+  "story_count": 8,
   "stories": [
     {
       "title": "Sudanese women leaders: ‘El Burhan’s dialogue call meaningless without a ceasefire’",
@@ -9,6 +9,13 @@
       "url": "https://www.dabangasudan.org/en/all-news/article/sudanese-women-leaders-el-burhans-dialogue-call-meaningless-without-a-ceasefire",
       "published_date": "2026-08-21T10:06:39+00:00",
       "category": "Diplomacy"
+    },
+    {
+      "title": "Sudan anti-war forces reject El Burhan dialogue call",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/sudan-anti-war-forces-reject-el-burhan-dialogue-call",
+      "published_date": "2026-08-24T18:42:03+00:00",
+      "category": "Military"
     },
     {
       "title": "Sudan’s aid workers under fire as volunteers keep humanitarian lifeline alive",
