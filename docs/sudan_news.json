@@ -1,14 +1,28 @@
 {
   "country": "Sudan",
-  "last_updated": "2026-08-25T11:18:18.818666+00:00",
-  "story_count": 8,
+  "last_updated": "2026-08-25T23:16:57.533739+00:00",
+  "story_count": 11,
   "stories": [
+    {
+      "title": "Mawlid cancelled in Tigray",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/mawlid-cancelled-in-tigray",
+      "published_date": "2026-08-25T20:45:05+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Sudanese women leaders: ‘El Burhan’s dialogue call meaningless without a ceasefire’",
       "source": "Dabanga",
       "url": "https://www.dabangasudan.org/en/all-news/article/sudanese-women-leaders-el-burhans-dialogue-call-meaningless-without-a-ceasefire",
       "published_date": "2026-08-21T10:06:39+00:00",
       "category": "Diplomacy"
+    },
+    {
+      "title": "Sudan war: a conflict sustained by weapons, fragmentation, and diplomatic inertia",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/sudan-war-a-conflict-sustained-by-weapons-fragmentation-and-diplomatic-inertia",
+      "published_date": "2026-08-25T07:07:00+00:00",
+      "category": "Military"
     },
     {
       "title": "Sudan anti-war forces reject El Burhan dialogue call",
@@ -32,18 +46,25 @@
       "category": "Military"
     },
     {
-      "title": "‘SAF shoots down two RSF long-range drones in North Kordofan’",
+      "title": "Port Sudan detainees launch hunger strike over ‘endless’ trial delays",
       "source": "Dabanga",
-      "url": "https://www.dabangasudan.org/en/all-news/article/saf-shoots-down-two-rsf-long-range-drones-in-north-kordofan",
-      "published_date": "2026-08-18T16:35:18+00:00",
-      "category": "Military"
+      "url": "https://www.dabangasudan.org/en/all-news/article/port-sudan-detainees-launch-hunger-strike-over-endless-trial-delays-2",
+      "published_date": "2026-08-25T11:11:00+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Sudan battlefield shifts as RSF intensifies operations in Blue Nile",
+      "title": "Denmark, UK, France back US proposal to expand Sudan arms embargo – China, Russia oppose",
       "source": "Dabanga",
-      "url": "https://www.dabangasudan.org/en/all-news/article/sudan-battlefield-shifts-as-rsf-intensifies-operations-in-blue-nile",
-      "published_date": "2026-08-18T16:13:26+00:00",
-      "category": "Military"
+      "url": "https://www.dabangasudan.org/en/all-news/article/denmark-uk-france-back-us-proposal-to-expand-sudan-arms-embargo-china-russia-oppose",
+      "published_date": "2026-08-25T10:41:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "US moots expanding Darfur arms embargo to cover drones and all of Sudan",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/us-moots-expanding-darfur-arms-embargo-to-cover-drones-and-all-of-sudan",
+      "published_date": "2026-08-25T08:17:00+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Special forces deployed in restive South Darfur capital Nyala",
