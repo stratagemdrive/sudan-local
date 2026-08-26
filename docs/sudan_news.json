@@ -1,8 +1,15 @@
 {
   "country": "Sudan",
-  "last_updated": "2026-08-25T23:16:57.533739+00:00",
-  "story_count": 11,
+  "last_updated": "2026-08-26T11:20:03.736326+00:00",
+  "story_count": 15,
   "stories": [
+    {
+      "title": "Sudan’s Radical Change Forces’ Alliance: Contact with Quintet and UN envoy does not imply external mandate",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/sudans-radical-change-forces-alliance-contact-with-quintet-and-un-envoy-does-not-imply-external-mandate",
+      "published_date": "2026-08-26T09:57:00+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Mawlid cancelled in Tigray",
       "source": "France 24",
@@ -16,6 +23,13 @@
       "url": "https://www.dabangasudan.org/en/all-news/article/sudanese-women-leaders-el-burhans-dialogue-call-meaningless-without-a-ceasefire",
       "published_date": "2026-08-21T10:06:39+00:00",
       "category": "Diplomacy"
+    },
+    {
+      "title": "NUP deputy leader: Sudan’s anti-war forces must move from declarations to making peace",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/nup-deputy-leader-sudans-anti-war-forces-must-move-from-declarations-to-making-peace",
+      "published_date": "2026-08-26T08:00:00+00:00",
+      "category": "Military"
     },
     {
       "title": "Sudan war: a conflict sustained by weapons, fragmentation, and diplomatic inertia",
@@ -46,11 +60,25 @@
       "category": "Military"
     },
     {
+      "title": "Sudan: Kassala gold traders shut shop amid clashes, illicit parallel market",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/sudan-kassala-gold-traders-shut-shop-amid-clashes-illicit-parallel-market",
+      "published_date": "2026-08-26T10:13:00+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "Port Sudan detainees launch hunger strike over ‘endless’ trial delays",
       "source": "Dabanga",
       "url": "https://www.dabangasudan.org/en/all-news/article/port-sudan-detainees-launch-hunger-strike-over-endless-trial-delays-2",
       "published_date": "2026-08-25T11:11:00+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "South Darfur hospital closure leaves pregnant women dying on road to care",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/south-darfur-hospital-closure-leaves-pregnant-women-dying-on-road-to-care",
+      "published_date": "2026-08-26T08:24:00+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Denmark, UK, France back US proposal to expand Sudan arms embargo – China, Russia oppose",
