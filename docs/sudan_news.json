@@ -1,7 +1,7 @@
 {
   "country": "Sudan",
-  "last_updated": "2026-08-27T04:08:50.658440+00:00",
-  "story_count": 17,
+  "last_updated": "2026-08-27T20:51:40.595739+00:00",
+  "story_count": 22,
   "stories": [
     {
       "title": "UN Security Council and Sudan: Arms embargo exposes gap between international will and action",
@@ -32,6 +32,20 @@
       "category": "Diplomacy"
     },
     {
+      "title": "Nine years on, a Rohingya survivor revisits the massacre that killed her family, and dreams of going home",
+      "source": "The New Humanitarian",
+      "url": "https://www.thenewhumanitarian.org/feature/2026/08/27/nine-years-rohingya-survivor-revisits-massacre-killed-her-family-dreams-return-home",
+      "published_date": "2026-08-27T09:46:44+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Fighting, road closures raise fears of imminent famine in Sudan’s Kordofan",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/fighting-road-closures-raise-fears-of-imminent-famine-in-sudans-kordofan",
+      "published_date": "2026-08-27T09:43:00+00:00",
+      "category": "Military"
+    },
+    {
       "title": "NUP deputy leader: Sudan’s anti-war forces must move from declarations to making peace",
       "source": "Dabanga",
       "url": "https://www.dabangasudan.org/en/all-news/article/nup-deputy-leader-sudans-anti-war-forces-must-move-from-declarations-to-making-peace",
@@ -60,11 +74,11 @@
       "category": "Military"
     },
     {
-      "title": "IOM: 200k+ displaced across Kordofan as fighting intensifies",
+      "title": "Sudan: Kassala gold traders’ strike to continue ‘until street-vendor crisis resolved’",
       "source": "Dabanga",
-      "url": "https://www.dabangasudan.org/en/all-news/article/200k-displaced-across-kordofan-as-fighting-intensifies",
-      "published_date": "2026-08-20T17:35:22+00:00",
-      "category": "Military"
+      "url": "https://www.dabangasudan.org/en/all-news/article/kassala-gold-traders-strike-to-continue-until-street-vendor-crisis-resolved",
+      "published_date": "2026-08-27T11:02:08+00:00",
+      "category": "Economy"
     },
     {
       "title": "WFP warns global conflict is driving Sudan deeper into hunger crisis",
@@ -86,6 +100,27 @@
       "url": "https://www.dabangasudan.org/en/all-news/article/port-sudan-detainees-launch-hunger-strike-over-endless-trial-delays-2",
       "published_date": "2026-08-25T11:11:00+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "Displaced in South Darfur shelters face critical humanitarian conditions",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/displaced-in-south-darfur-shelters-face-critical-humanitarian-conditions",
+      "published_date": "2026-08-27T11:14:47+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Sudan: Verdict due today in Sennar ‘Virgin’ case as appeal court upholds prison term and fine for mother",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/sennar-virgin-case-verdict-due-today-as-appeal-court-upholds-prison-term-and-fine-for-mother",
+      "published_date": "2026-08-27T08:34:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Port Sudan prisoners suspend hunger strike until Sunday",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/port-sudan-prisoners-suspend-hunger-strike-until-sunday",
+      "published_date": "2026-08-27T07:23:00+00:00",
+      "category": "Local Events"
     },
     {
       "title": "South Darfur hospital closure leaves pregnant women dying on road to care",
