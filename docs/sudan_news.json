@@ -1,8 +1,15 @@
 {
   "country": "Sudan",
-  "last_updated": "2026-08-26T11:20:03.736326+00:00",
-  "story_count": 15,
+  "last_updated": "2026-08-27T04:08:50.658440+00:00",
+  "story_count": 17,
   "stories": [
+    {
+      "title": "UN Security Council and Sudan: Arms embargo exposes gap between international will and action",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/un-security-council-and-sudan-arms-embargo-exposes-gap-between-international-will-and-action",
+      "published_date": "2026-08-26T10:24:00+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Sudan’s Radical Change Forces’ Alliance: Contact with Quintet and UN envoy does not imply external mandate",
       "source": "Dabanga",
@@ -58,6 +65,13 @@
       "url": "https://www.dabangasudan.org/en/all-news/article/200k-displaced-across-kordofan-as-fighting-intensifies",
       "published_date": "2026-08-20T17:35:22+00:00",
       "category": "Military"
+    },
+    {
+      "title": "WFP warns global conflict is driving Sudan deeper into hunger crisis",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/wfp-warns-global-conflict-is-driving-sudan-deeper-into-hunger-crisis",
+      "published_date": "2026-08-26T16:49:00+00:00",
+      "category": "Economy"
     },
     {
       "title": "Sudan: Kassala gold traders shut shop amid clashes, illicit parallel market",
