@@ -1,7 +1,7 @@
 {
   "country": "Sudan",
-  "last_updated": "2026-08-28T06:25:55.928470+00:00",
-  "story_count": 22,
+  "last_updated": "2026-08-28T21:16:48.357161+00:00",
+  "story_count": 19,
   "stories": [
     {
       "title": "UN Security Council and Sudan: Arms embargo exposes gap between international will and action",
@@ -25,11 +25,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Sudanese women leaders: ‘El Burhan’s dialogue call meaningless without a ceasefire’",
+      "title": "SAF accused of deadly market strike, fighting intensifies in Kordofan and Blue Nile",
       "source": "Dabanga",
-      "url": "https://www.dabangasudan.org/en/all-news/article/sudanese-women-leaders-el-burhans-dialogue-call-meaningless-without-a-ceasefire",
-      "published_date": "2026-08-21T10:06:39+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dabangasudan.org/en/all-news/article/saf-accused-of-deadly-market-strike-fighting-intensifies-in-kordofan-and-blue-nile",
+      "published_date": "2026-08-28T18:11:43+00:00",
+      "category": "Military"
     },
     {
       "title": "Nine years on, a Rohingya survivor revisits the massacre that killed her family, and dreams of going home",
@@ -64,13 +64,6 @@
       "source": "Dabanga",
       "url": "https://www.dabangasudan.org/en/all-news/article/sudan-anti-war-forces-reject-el-burhan-dialogue-call",
       "published_date": "2026-08-24T18:42:03+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Sudan’s aid workers under fire as volunteers keep humanitarian lifeline alive",
-      "source": "Dabanga",
-      "url": "https://www.dabangasudan.org/en/all-news/article/sudans-aid-workers-under-fire-as-volunteers-keep-humanitarian-lifeline-alive",
-      "published_date": "2026-08-21T08:53:19+00:00",
       "category": "Military"
     },
     {
@@ -141,20 +134,6 @@
       "source": "Dabanga",
       "url": "https://www.dabangasudan.org/en/all-news/article/us-moots-expanding-darfur-arms-embargo-to-cover-drones-and-all-of-sudan",
       "published_date": "2026-08-25T08:17:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Special forces deployed in restive South Darfur capital Nyala",
-      "source": "Dabanga",
-      "url": "https://www.dabangasudan.org/en/all-news/article/special-forces-deployed-in-restive-south-darfur-capital-nyala",
-      "published_date": "2026-08-21T10:32:29+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘Takaya’ community kitchen closures threaten 50,000 families in Sudan capital",
-      "source": "Dabanga",
-      "url": "https://www.dabangasudan.org/en/all-news/article/takaya-community-kitchen-closures-threaten-50000-families-in-sudan-capital",
-      "published_date": "2026-08-21T09:17:03+00:00",
       "category": "Local Events"
     }
   ]
