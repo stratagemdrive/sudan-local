@@ -1,8 +1,15 @@
 {
   "country": "Sudan",
-  "last_updated": "2026-08-30T00:54:47.805369+00:00",
-  "story_count": 19,
+  "last_updated": "2026-08-30T15:06:57.587054+00:00",
+  "story_count": 24,
   "stories": [
+    {
+      "title": "Sudan anti-war forces warn UN envoy: Burhan’s dialogue could entrench division and legitimise ruling authorities",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/sudan-anti-war-forces-warn-un-envoy-burhans-dialogue-could-entrench-division-and-legitimise-ruling-authorities",
+      "published_date": "2026-08-30T09:40:00+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "UN Security Council and Sudan: Arms embargo exposes gap between international will and action",
       "source": "Dabanga",
@@ -23,6 +30,34 @@
       "url": "https://www.france24.com/en/mawlid-cancelled-in-tigray",
       "published_date": "2026-08-25T20:45:05+00:00",
       "category": "Diplomacy"
+    },
+    {
+      "title": "Sudan’s women pay the price as weapons keep flowing — why an arms embargo is crucial to protecting them",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/sudans-women-pay-the-price-as-weapons-keep-flowing-why-an-arms-embargo-is-crucial-to-protecting-them",
+      "published_date": "2026-08-30T11:28:52+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Sudan: Abdelwahid rejects El Burhan’s dialogue as eastern civil forces back anti-war plan",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/sudan-abdelwahid-rejects-burhans-dialogue-as-eastern-civil-forces-back-anti-war-plan",
+      "published_date": "2026-08-30T08:25:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Yale researchers warn of major military build-up at Ethiopian base near Sudan border",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/yale-researchers-warn-of-major-military-build-up-at-ethiopian-base-near-sudan-border",
+      "published_date": "2026-08-30T08:09:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Returnees face severe challenges in Khartoum as Sudan’s capital struggles to recover from war",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/returnees-face-severe-challenges-in-khartoum-as-sudans-capital-struggles-to-recover-from-war",
+      "published_date": "2026-08-30T07:41:00+00:00",
+      "category": "Military"
     },
     {
       "title": "SAF accused of deadly market strike, fighting intensifies in Kordofan and Blue Nile",
