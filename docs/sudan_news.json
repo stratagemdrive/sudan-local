@@ -1,7 +1,7 @@
 {
   "country": "Sudan",
-  "last_updated": "2026-09-01T01:30:56.420364+00:00",
-  "story_count": 23,
+  "last_updated": "2026-09-01T15:19:25.283623+00:00",
+  "story_count": 21,
   "stories": [
     {
       "title": "Sudan anti-war forces warn UN envoy: Burhan’s dialogue could entrench division and legitimise ruling authorities",
@@ -30,6 +30,20 @@
       "url": "https://www.france24.com/en/mawlid-cancelled-in-tigray",
       "published_date": "2026-08-25T20:45:05+00:00",
       "category": "Diplomacy"
+    },
+    {
+      "title": "El Burhan’s dialogue plan faces tough questions from Sudan’s women leaders",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/el-burhans-dialogue-plan-faces-tough-questions-from-sudans-women-leaders",
+      "published_date": "2026-09-01T08:56:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Sudan Youth Parliament warns of ‘deepening de facto partition’",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/sudan-youth-parliament-warns-of-a-deepening-de-facto-partition",
+      "published_date": "2026-09-01T08:34:00+00:00",
+      "category": "Military"
     },
     {
       "title": "Sudan’s women pay the price as weapons keep flowing — why an arms embargo is crucial to protecting them",
@@ -88,13 +102,6 @@
       "category": "Military"
     },
     {
-      "title": "Sudan war: a conflict sustained by weapons, fragmentation, and diplomatic inertia",
-      "source": "Dabanga",
-      "url": "https://www.dabangasudan.org/en/all-news/article/sudan-war-a-conflict-sustained-by-weapons-fragmentation-and-diplomatic-inertia",
-      "published_date": "2026-08-25T07:07:00+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Sudan: Kassala gold traders’ strike to continue ‘until street-vendor crisis resolved’",
       "source": "Dabanga",
       "url": "https://www.dabangasudan.org/en/all-news/article/kassala-gold-traders-strike-to-continue-until-street-vendor-crisis-resolved",
@@ -113,13 +120,6 @@
       "source": "Dabanga",
       "url": "https://www.dabangasudan.org/en/all-news/article/sudan-kassala-gold-traders-shut-shop-amid-clashes-illicit-parallel-market",
       "published_date": "2026-08-26T10:13:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Port Sudan detainees launch hunger strike over ‘endless’ trial delays",
-      "source": "Dabanga",
-      "url": "https://www.dabangasudan.org/en/all-news/article/port-sudan-detainees-launch-hunger-strike-over-endless-trial-delays-2",
-      "published_date": "2026-08-25T11:11:00+00:00",
       "category": "Economy"
     },
     {
@@ -148,20 +148,6 @@
       "source": "Dabanga",
       "url": "https://www.dabangasudan.org/en/all-news/article/south-darfur-hospital-closure-leaves-pregnant-women-dying-on-road-to-care",
       "published_date": "2026-08-26T08:24:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Denmark, UK, France back US proposal to expand Sudan arms embargo – China, Russia oppose",
-      "source": "Dabanga",
-      "url": "https://www.dabangasudan.org/en/all-news/article/denmark-uk-france-back-us-proposal-to-expand-sudan-arms-embargo-china-russia-oppose",
-      "published_date": "2026-08-25T10:41:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "US moots expanding Darfur arms embargo to cover drones and all of Sudan",
-      "source": "Dabanga",
-      "url": "https://www.dabangasudan.org/en/all-news/article/us-moots-expanding-darfur-arms-embargo-to-cover-drones-and-all-of-sudan",
-      "published_date": "2026-08-25T08:17:00+00:00",
       "category": "Local Events"
     }
   ]
