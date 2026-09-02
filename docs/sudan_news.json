@@ -1,6 +1,6 @@
 {
   "country": "Sudan",
-  "last_updated": "2026-09-01T15:19:25.283623+00:00",
+  "last_updated": "2026-09-02T00:40:30.913393+00:00",
   "story_count": 21,
   "stories": [
     {
@@ -22,13 +22,6 @@
       "source": "Dabanga",
       "url": "https://www.dabangasudan.org/en/all-news/article/sudans-radical-change-forces-alliance-contact-with-quintet-and-un-envoy-does-not-imply-external-mandate",
       "published_date": "2026-08-26T09:57:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Mawlid cancelled in Tigray",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/mawlid-cancelled-in-tigray",
-      "published_date": "2026-08-25T20:45:05+00:00",
       "category": "Diplomacy"
     },
     {
@@ -100,6 +93,13 @@
       "url": "https://www.dabangasudan.org/en/all-news/article/nup-deputy-leader-sudans-anti-war-forces-must-move-from-declarations-to-making-peace",
       "published_date": "2026-08-26T08:00:00+00:00",
       "category": "Military"
+    },
+    {
+      "title": "El Gezira farmers divided as delayed rains threaten North Darfur food security",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/el-gezira-farmers-divided-as-delayed-rains-threaten-north-darfur-food-security",
+      "published_date": "2026-09-01T17:12:10+00:00",
+      "category": "Economy"
     },
     {
       "title": "Sudan: Kassala gold traders’ strike to continue ‘until street-vendor crisis resolved’",
