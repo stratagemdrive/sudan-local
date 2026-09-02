@@ -1,7 +1,7 @@
 {
   "country": "Sudan",
-  "last_updated": "2026-09-02T00:40:30.913393+00:00",
-  "story_count": 21,
+  "last_updated": "2026-09-02T14:49:06.121888+00:00",
+  "story_count": 20,
   "stories": [
     {
       "title": "Sudan anti-war forces warn UN envoy: Burhan’s dialogue could entrench division and legitimise ruling authorities",
@@ -11,18 +11,18 @@
       "category": "Diplomacy"
     },
     {
-      "title": "UN Security Council and Sudan: Arms embargo exposes gap between international will and action",
-      "source": "Dabanga",
-      "url": "https://www.dabangasudan.org/en/all-news/article/un-security-council-and-sudan-arms-embargo-exposes-gap-between-international-will-and-action",
-      "published_date": "2026-08-26T10:24:00+00:00",
-      "category": "Diplomacy"
+      "title": "Military buildup seen in Ethiopia near Sudanese border",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260902-military-buildup-seen-in-ethiopia-near-sudanese-border",
+      "published_date": "2026-09-02T10:57:17+00:00",
+      "category": "Military"
     },
     {
-      "title": "Sudan’s Radical Change Forces’ Alliance: Contact with Quintet and UN envoy does not imply external mandate",
+      "title": "El Burhan grants temporary immunity to Sudan dialogue participants",
       "source": "Dabanga",
-      "url": "https://www.dabangasudan.org/en/all-news/article/sudans-radical-change-forces-alliance-contact-with-quintet-and-un-envoy-does-not-imply-external-mandate",
-      "published_date": "2026-08-26T09:57:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dabangasudan.org/en/all-news/article/el-burhan-grants-temporary-immunity-to-sudan-dialogue-participants",
+      "published_date": "2026-09-02T07:57:00+00:00",
+      "category": "Military"
     },
     {
       "title": "El Burhan’s dialogue plan faces tough questions from Sudan’s women leaders",
@@ -88,13 +88,6 @@
       "category": "Military"
     },
     {
-      "title": "NUP deputy leader: Sudan’s anti-war forces must move from declarations to making peace",
-      "source": "Dabanga",
-      "url": "https://www.dabangasudan.org/en/all-news/article/nup-deputy-leader-sudans-anti-war-forces-must-move-from-declarations-to-making-peace",
-      "published_date": "2026-08-26T08:00:00+00:00",
-      "category": "Military"
-    },
-    {
       "title": "El Gezira farmers divided as delayed rains threaten North Darfur food security",
       "source": "Dabanga",
       "url": "https://www.dabangasudan.org/en/all-news/article/el-gezira-farmers-divided-as-delayed-rains-threaten-north-darfur-food-security",
@@ -116,11 +109,18 @@
       "category": "Economy"
     },
     {
-      "title": "Sudan: Kassala gold traders shut shop amid clashes, illicit parallel market",
+      "title": "Displaced people in Sudan’s Darfur and Kordofan face humanitarian and health catastrophe",
       "source": "Dabanga",
-      "url": "https://www.dabangasudan.org/en/all-news/article/sudan-kassala-gold-traders-shut-shop-amid-clashes-illicit-parallel-market",
-      "published_date": "2026-08-26T10:13:00+00:00",
-      "category": "Economy"
+      "url": "https://www.dabangasudan.org/en/all-news/article/displaced-people-in-sudans-darfur-and-kordofan-face-humanitarian-and-health-catastrophe",
+      "published_date": "2026-09-02T09:50:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Sudanese refugees walk 20km for aid in eastern Chad",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/sudanese-refugees-walk-20km-for-aid-in-eastern-chad",
+      "published_date": "2026-09-02T08:24:00+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Displaced in South Darfur shelters face critical humanitarian conditions",
@@ -141,13 +141,6 @@
       "source": "Dabanga",
       "url": "https://www.dabangasudan.org/en/all-news/article/port-sudan-prisoners-suspend-hunger-strike-until-sunday",
       "published_date": "2026-08-27T07:23:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "South Darfur hospital closure leaves pregnant women dying on road to care",
-      "source": "Dabanga",
-      "url": "https://www.dabangasudan.org/en/all-news/article/south-darfur-hospital-closure-leaves-pregnant-women-dying-on-road-to-care",
-      "published_date": "2026-08-26T08:24:00+00:00",
       "category": "Local Events"
     }
   ]
