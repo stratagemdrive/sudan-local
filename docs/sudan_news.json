@@ -1,7 +1,7 @@
 {
   "country": "Sudan",
-  "last_updated": "2026-09-03T00:52:21.214408+00:00",
-  "story_count": 19,
+  "last_updated": "2026-09-03T14:49:05.749505+00:00",
+  "story_count": 13,
   "stories": [
     {
       "title": "Sudan anti-war forces warn UN envoy: Burhan’s dialogue could entrench division and legitimise ruling authorities",
@@ -74,31 +74,10 @@
       "category": "Military"
     },
     {
-      "title": "Nine years on, a Rohingya survivor revisits the massacre that killed her family, and dreams of going home",
-      "source": "The New Humanitarian",
-      "url": "https://www.thenewhumanitarian.org/feature/2026/08/27/nine-years-rohingya-survivor-revisits-massacre-killed-her-family-dreams-return-home",
-      "published_date": "2026-08-27T09:46:44+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Fighting, road closures raise fears of imminent famine in Sudan’s Kordofan",
-      "source": "Dabanga",
-      "url": "https://www.dabangasudan.org/en/all-news/article/fighting-road-closures-raise-fears-of-imminent-famine-in-sudans-kordofan",
-      "published_date": "2026-08-27T09:43:00+00:00",
-      "category": "Military"
-    },
-    {
       "title": "El Gezira farmers divided as delayed rains threaten North Darfur food security",
       "source": "Dabanga",
       "url": "https://www.dabangasudan.org/en/all-news/article/el-gezira-farmers-divided-as-delayed-rains-threaten-north-darfur-food-security",
       "published_date": "2026-09-01T17:12:10+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Sudan: Kassala gold traders’ strike to continue ‘until street-vendor crisis resolved’",
-      "source": "Dabanga",
-      "url": "https://www.dabangasudan.org/en/all-news/article/kassala-gold-traders-strike-to-continue-until-street-vendor-crisis-resolved",
-      "published_date": "2026-08-27T11:02:08+00:00",
       "category": "Economy"
     },
     {
@@ -113,27 +92,6 @@
       "source": "Dabanga",
       "url": "https://www.dabangasudan.org/en/all-news/article/sudanese-refugees-walk-20km-for-aid-in-eastern-chad",
       "published_date": "2026-09-02T08:24:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Displaced in South Darfur shelters face critical humanitarian conditions",
-      "source": "Dabanga",
-      "url": "https://www.dabangasudan.org/en/all-news/article/displaced-in-south-darfur-shelters-face-critical-humanitarian-conditions",
-      "published_date": "2026-08-27T11:14:47+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sudan: Verdict due today in Sennar ‘Virgin’ case as appeal court upholds prison term and fine for mother",
-      "source": "Dabanga",
-      "url": "https://www.dabangasudan.org/en/all-news/article/sennar-virgin-case-verdict-due-today-as-appeal-court-upholds-prison-term-and-fine-for-mother",
-      "published_date": "2026-08-27T08:34:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Port Sudan prisoners suspend hunger strike until Sunday",
-      "source": "Dabanga",
-      "url": "https://www.dabangasudan.org/en/all-news/article/port-sudan-prisoners-suspend-hunger-strike-until-sunday",
-      "published_date": "2026-08-27T07:23:00+00:00",
       "category": "Local Events"
     }
   ]
