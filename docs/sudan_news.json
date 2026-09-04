@@ -1,8 +1,15 @@
 {
   "country": "Sudan",
-  "last_updated": "2026-09-03T14:49:05.749505+00:00",
-  "story_count": 13,
+  "last_updated": "2026-09-04T00:32:11.486523+00:00",
+  "story_count": 16,
   "stories": [
+    {
+      "title": "Sudanese anti-war forces reject AU backing for El Burhan dialogue",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/sudanese-anti-war-forces-reject-au-backing-for-el-burhan-dialogue",
+      "published_date": "2026-09-03T20:39:50+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Sudan anti-war forces warn UN envoy: Burhan’s dialogue could entrench division and legitimise ruling authorities",
       "source": "Dabanga",
@@ -74,11 +81,25 @@
       "category": "Military"
     },
     {
+      "title": "Air strike destroys WFP food aid trucks in Sudan’s Kordofan",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/air-strike-destroys-wfp-food-aid-trucks-in-sudans-kordofan",
+      "published_date": "2026-09-03T08:46:00+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "El Gezira farmers divided as delayed rains threaten North Darfur food security",
       "source": "Dabanga",
       "url": "https://www.dabangasudan.org/en/all-news/article/el-gezira-farmers-divided-as-delayed-rains-threaten-north-darfur-food-security",
       "published_date": "2026-09-01T17:12:10+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "10 dead as WHO flags Sudan’s West Kordofan ‘latest cholera outbreak hotspot’",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/10-dead-as-who-flags-sudans-west-kordofan-latest-cholera-outbreak-hotspot",
+      "published_date": "2026-09-03T09:00:00+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Displaced people in Sudan’s Darfur and Kordofan face humanitarian and health catastrophe",
