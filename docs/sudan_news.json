@@ -1,7 +1,7 @@
 {
   "country": "Sudan",
-  "last_updated": "2026-09-04T14:37:48.564520+00:00",
-  "story_count": 16,
+  "last_updated": "2026-09-05T00:28:33.600037+00:00",
+  "story_count": 17,
   "stories": [
     {
       "title": "Sudanese anti-war forces reject AU backing for El Burhan dialogue",
@@ -16,6 +16,13 @@
       "url": "https://www.dabangasudan.org/en/all-news/article/sudan-anti-war-forces-warn-un-envoy-burhans-dialogue-could-entrench-division-and-legitimise-ruling-authorities",
       "published_date": "2026-08-30T09:40:00+00:00",
       "category": "Diplomacy"
+    },
+    {
+      "title": "Uber withdraws from Nigeria",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/uber-withdraws-from-nigeria",
+      "published_date": "2026-09-04T20:39:08+00:00",
+      "category": "Military"
     },
     {
       "title": "Military buildup seen in Ethiopia near Sudanese border",
@@ -74,11 +81,11 @@
       "category": "Military"
     },
     {
-      "title": "SAF accused of deadly market strike, fighting intensifies in Kordofan and Blue Nile",
+      "title": "Climate pressures and displacement deepen Sudan’s rural challenges",
       "source": "Dabanga",
-      "url": "https://www.dabangasudan.org/en/all-news/article/saf-accused-of-deadly-market-strike-fighting-intensifies-in-kordofan-and-blue-nile",
-      "published_date": "2026-08-28T18:11:43+00:00",
-      "category": "Military"
+      "url": "https://www.dabangasudan.org/en/all-news/article/climate-pressures-and-displacement-deepen-sudans-rural-challenges",
+      "published_date": "2026-09-04T17:54:46+00:00",
+      "category": "Energy"
     },
     {
       "title": "Air strike destroys WFP food aid trucks in Sudan’s Kordofan",
