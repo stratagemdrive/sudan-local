@@ -1,7 +1,7 @@
 {
   "country": "Sudan",
-  "last_updated": "2026-09-06T00:23:19.872626+00:00",
-  "story_count": 18,
+  "last_updated": "2026-09-06T13:51:00.464865+00:00",
+  "story_count": 15,
   "stories": [
     {
       "title": "Sudanese anti-war forces reject AU backing for El Burhan dialogue",
@@ -11,11 +11,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Sudan anti-war forces warn UN envoy: Burhan’s dialogue could entrench division and legitimise ruling authorities",
+      "title": "Int’l coalition condemns attack on WFP aid convoy in Kordofan, Sudan",
       "source": "Dabanga",
-      "url": "https://www.dabangasudan.org/en/all-news/article/sudan-anti-war-forces-warn-un-envoy-burhans-dialogue-could-entrench-division-and-legitimise-ruling-authorities",
-      "published_date": "2026-08-30T09:40:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dabangasudan.org/en/all-news/article/intl-coalition-condemns-attack-on-wfp-aid-convoy-in-south-kordofan",
+      "published_date": "2026-09-06T09:38:00+00:00",
+      "category": "Military"
     },
     {
       "title": "UN experts urge Sudan-wide arms embargo",
@@ -60,39 +60,18 @@
       "category": "Military"
     },
     {
-      "title": "Sudan’s women pay the price as weapons keep flowing — why an arms embargo is crucial to protecting them",
-      "source": "Dabanga",
-      "url": "https://www.dabangasudan.org/en/all-news/article/sudans-women-pay-the-price-as-weapons-keep-flowing-why-an-arms-embargo-is-crucial-to-protecting-them",
-      "published_date": "2026-08-30T11:28:52+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Sudan: Abdelwahid rejects El Burhan’s dialogue as eastern civil forces back anti-war plan",
-      "source": "Dabanga",
-      "url": "https://www.dabangasudan.org/en/all-news/article/sudan-abdelwahid-rejects-burhans-dialogue-as-eastern-civil-forces-back-anti-war-plan",
-      "published_date": "2026-08-30T08:25:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Yale researchers warn of major military build-up at Ethiopian base near Sudan border",
-      "source": "Dabanga",
-      "url": "https://www.dabangasudan.org/en/all-news/article/yale-researchers-warn-of-major-military-build-up-at-ethiopian-base-near-sudan-border",
-      "published_date": "2026-08-30T08:09:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Returnees face severe challenges in Khartoum as Sudan’s capital struggles to recover from war",
-      "source": "Dabanga",
-      "url": "https://www.dabangasudan.org/en/all-news/article/returnees-face-severe-challenges-in-khartoum-as-sudans-capital-struggles-to-recover-from-war",
-      "published_date": "2026-08-30T07:41:00+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Climate pressures and displacement deepen Sudan’s rural challenges",
       "source": "Dabanga",
       "url": "https://www.dabangasudan.org/en/all-news/article/climate-pressures-and-displacement-deepen-sudans-rural-challenges",
       "published_date": "2026-09-04T17:54:46+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Communist Party: ‘Sudan’s war economy deepens the economic abyss’",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/communist-party-sudans-war-economy-deepens-the-economic-abyss",
+      "published_date": "2026-09-06T08:50:00+00:00",
+      "category": "Economy"
     },
     {
       "title": "Air strike destroys WFP food aid trucks in Sudan’s Kordofan",
