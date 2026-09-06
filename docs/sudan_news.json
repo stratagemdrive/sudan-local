@@ -1,7 +1,7 @@
 {
   "country": "Sudan",
-  "last_updated": "2026-09-05T13:36:52.978971+00:00",
-  "story_count": 17,
+  "last_updated": "2026-09-06T00:23:19.872626+00:00",
+  "story_count": 18,
   "stories": [
     {
       "title": "Sudanese anti-war forces reject AU backing for El Burhan dialogue",
@@ -16,6 +16,13 @@
       "url": "https://www.dabangasudan.org/en/all-news/article/sudan-anti-war-forces-warn-un-envoy-burhans-dialogue-could-entrench-division-and-legitimise-ruling-authorities",
       "published_date": "2026-08-30T09:40:00+00:00",
       "category": "Diplomacy"
+    },
+    {
+      "title": "UN experts urge Sudan-wide arms embargo",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260905-un-experts-urge-sudan-wide-arms-embargo",
+      "published_date": "2026-09-05T15:16:39+00:00",
+      "category": "Military"
     },
     {
       "title": "Uber withdraws from Nigeria",
