@@ -1,14 +1,28 @@
 {
   "country": "Sudan",
-  "last_updated": "2026-09-07T00:30:36.377195+00:00",
-  "story_count": 15,
+  "last_updated": "2026-09-07T16:12:45.675457+00:00",
+  "story_count": 17,
   "stories": [
+    {
+      "title": "UN envoy presses Sudan leader on truce and prisoner exchange",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/un-envoy-presses-sudan-leader-on-truce-and-prisoner-exchange",
+      "published_date": "2026-09-07T07:52:00+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Sudanese anti-war forces reject AU backing for El Burhan dialogue",
       "source": "Dabanga",
       "url": "https://www.dabangasudan.org/en/all-news/article/sudanese-anti-war-forces-reject-au-backing-for-el-burhan-dialogue",
       "published_date": "2026-09-03T20:39:50+00:00",
       "category": "Diplomacy"
+    },
+    {
+      "title": "RSF releases four journalists and lawyer after months in detention in North Darfur",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/rsf-releases-four-journalists-and-lawyer-after-months-in-detention-in-north-darfur",
+      "published_date": "2026-09-07T10:30:00+00:00",
+      "category": "Military"
     },
     {
       "title": "Int’l coalition condemns attack on WFP aid convoy in Kordofan, Sudan",
