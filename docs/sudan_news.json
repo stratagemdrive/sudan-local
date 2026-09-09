@@ -1,7 +1,7 @@
 {
   "country": "Sudan",
-  "last_updated": "2026-09-09T00:52:39.254718+00:00",
-  "story_count": 22,
+  "last_updated": "2026-09-09T14:55:31.756843+00:00",
+  "story_count": 18,
   "stories": [
     {
       "title": "Quintet makes first Sudan visit for political talks",
@@ -74,20 +74,6 @@
       "category": "Military"
     },
     {
-      "title": "Military buildup seen in Ethiopia near Sudanese border",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260902-military-buildup-seen-in-ethiopia-near-sudanese-border",
-      "published_date": "2026-09-02T10:57:17+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "El Burhan grants temporary immunity to Sudan dialogue participants",
-      "source": "Dabanga",
-      "url": "https://www.dabangasudan.org/en/all-news/article/el-burhan-grants-temporary-immunity-to-sudan-dialogue-participants",
-      "published_date": "2026-09-02T07:57:00+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Climate pressures and displacement deepen Sudan’s rural challenges",
       "source": "Dabanga",
       "url": "https://www.dabangasudan.org/en/all-news/article/climate-pressures-and-displacement-deepen-sudans-rural-challenges",
@@ -141,20 +127,6 @@
       "source": "Dabanga",
       "url": "https://www.dabangasudan.org/en/all-news/article/10-dead-as-who-flags-sudans-west-kordofan-latest-cholera-outbreak-hotspot",
       "published_date": "2026-09-03T09:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Displaced people in Sudan’s Darfur and Kordofan face humanitarian and health catastrophe",
-      "source": "Dabanga",
-      "url": "https://www.dabangasudan.org/en/all-news/article/displaced-people-in-sudans-darfur-and-kordofan-face-humanitarian-and-health-catastrophe",
-      "published_date": "2026-09-02T09:50:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sudanese refugees walk 20km for aid in eastern Chad",
-      "source": "Dabanga",
-      "url": "https://www.dabangasudan.org/en/all-news/article/sudanese-refugees-walk-20km-for-aid-in-eastern-chad",
-      "published_date": "2026-09-02T08:24:00+00:00",
       "category": "Local Events"
     }
   ]
