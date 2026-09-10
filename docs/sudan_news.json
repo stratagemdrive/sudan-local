@@ -1,8 +1,15 @@
 {
   "country": "Sudan",
-  "last_updated": "2026-09-10T00:43:09.363985+00:00",
-  "story_count": 23,
+  "last_updated": "2026-09-10T14:41:57.299245+00:00",
+  "story_count": 24,
   "stories": [
+    {
+      "title": "Sudan Quintet holds Khartoum talks on war and political process",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/sudan-quintet-holds-khartoum-talks-on-war-and-political-process",
+      "published_date": "2026-09-10T14:22:33+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Aid cuts force clinic closures across Sudan",
       "source": "France 24",
@@ -116,11 +123,18 @@
       "category": "Economy"
     },
     {
-      "title": "Air strike destroys WFP food aid trucks in Sudan’s Kordofan",
+      "title": "16 cholera deaths reported in West Kordofan, Darfur vaccination drive begins",
       "source": "Dabanga",
-      "url": "https://www.dabangasudan.org/en/all-news/article/air-strike-destroys-wfp-food-aid-trucks-in-sudans-kordofan",
-      "published_date": "2026-09-03T08:46:00+00:00",
-      "category": "Economy"
+      "url": "https://www.dabangasudan.org/en/all-news/article/16-cholera-deaths-reported-in-west-kordofan-darfur-vaccination-drive-begins",
+      "published_date": "2026-09-10T13:47:20+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Bankak outages disrupt Sudan’s digital payments and markets",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/bankak-outages-disrupt-sudans-digital-payments-and-markets",
+      "published_date": "2026-09-10T13:22:52+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Riot, arson at North Darfur’s Kalma camp after youth slain",
@@ -155,13 +169,6 @@
       "source": "Dabanga",
       "url": "https://www.dabangasudan.org/en/all-news/article/un-human-rights-council-urged-to-widen-sudan-arms-embargo-and-extend-fact-finding-mission",
       "published_date": "2026-09-08T08:04:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "10 dead as WHO flags Sudan’s West Kordofan ‘latest cholera outbreak hotspot’",
-      "source": "Dabanga",
-      "url": "https://www.dabangasudan.org/en/all-news/article/10-dead-as-who-flags-sudans-west-kordofan-latest-cholera-outbreak-hotspot",
-      "published_date": "2026-09-03T09:00:00+00:00",
       "category": "Local Events"
     }
   ]
