@@ -1,8 +1,15 @@
 {
   "country": "Sudan",
-  "last_updated": "2026-09-09T14:55:31.756843+00:00",
-  "story_count": 18,
+  "last_updated": "2026-09-10T00:43:09.363985+00:00",
+  "story_count": 23,
   "stories": [
+    {
+      "title": "Aid cuts force clinic closures across Sudan",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/aid-cuts-force-clinic-closures-across-sudan",
+      "published_date": "2026-09-09T20:32:55+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Quintet makes first Sudan visit for political talks",
       "source": "Dabanga",
@@ -23,6 +30,20 @@
       "url": "https://www.dabangasudan.org/en/all-news/article/sudanese-anti-war-forces-reject-au-backing-for-el-burhan-dialogue",
       "published_date": "2026-09-03T20:39:50+00:00",
       "category": "Diplomacy"
+    },
+    {
+      "title": "Cairo Declaration forces reject El Burhan national dialogue, call for negotiated end to Sudan war",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/cairo-declaration-forces-reject-el-burhan-national-dialogue-call-for-negotiated-end-to-sudan-war",
+      "published_date": "2026-09-09T14:24:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "UN Deputy High Commissioner for Human Rights: ‘Int’l pressure had temporary positive effect in North Kordofan",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/un-deputy-high-commissioner-for-human-rights-intl-pressure-had-temporary-positive-effect-in-north-kordofan",
+      "published_date": "2026-09-09T08:22:00+00:00",
+      "category": "Military"
     },
     {
       "title": "RSF-aligned gov’t rejects UN fact-finding report as biased",
@@ -81,6 +102,13 @@
       "category": "Energy"
     },
     {
+      "title": "MSF: Sudanese clinics close amid aid cuts, leaving millions with shrinking access to healthcare",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/msf-sudanese-clinics-close-amid-aid-cuts-leaving-millions-with-shrinking-access-to-healthcare",
+      "published_date": "2026-09-09T09:40:00+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "Communist Party: ‘Sudan’s war economy deepens the economic abyss’",
       "source": "Dabanga",
       "url": "https://www.dabangasudan.org/en/all-news/article/communist-party-sudans-war-economy-deepens-the-economic-abyss",
@@ -93,6 +121,13 @@
       "url": "https://www.dabangasudan.org/en/all-news/article/air-strike-destroys-wfp-food-aid-trucks-in-sudans-kordofan",
       "published_date": "2026-09-03T08:46:00+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "Riot, arson at North Darfur’s Kalma camp after youth slain",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/riot-arson-at-north-darfurs-kalma-camp-after-man-slain",
+      "published_date": "2026-09-09T11:54:00+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Drought threatens Sudan’s agricultural season as food fears grow",
