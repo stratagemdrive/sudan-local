@@ -1,6 +1,6 @@
 {
   "country": "Sudan",
-  "last_updated": "2026-09-10T14:41:57.299245+00:00",
+  "last_updated": "2026-09-11T00:41:03.109020+00:00",
   "story_count": 24,
   "stories": [
     {
@@ -29,13 +29,6 @@
       "source": "Dabanga",
       "url": "https://www.dabangasudan.org/en/all-news/article/un-envoy-presses-sudan-leader-on-truce-and-prisoner-exchange",
       "published_date": "2026-09-07T07:52:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Sudanese anti-war forces reject AU backing for El Burhan dialogue",
-      "source": "Dabanga",
-      "url": "https://www.dabangasudan.org/en/all-news/article/sudanese-anti-war-forces-reject-au-backing-for-el-burhan-dialogue",
-      "published_date": "2026-09-03T20:39:50+00:00",
       "category": "Diplomacy"
     },
     {
@@ -121,6 +114,13 @@
       "url": "https://www.dabangasudan.org/en/all-news/article/communist-party-sudans-war-economy-deepens-the-economic-abyss",
       "published_date": "2026-09-06T08:50:00+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "Sudan’s civil society groups reject El Burhan’s mooted dialogue as ‘political cover’",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/sudans-civil-society-groups-rejects-el-burhans-mooted-dialogue-as-political-cover",
+      "published_date": "2026-09-10T20:57:55+00:00",
+      "category": "Local Events"
     },
     {
       "title": "16 cholera deaths reported in West Kordofan, Darfur vaccination drive begins",
