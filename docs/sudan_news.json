@@ -1,7 +1,7 @@
 {
   "country": "Sudan",
-  "last_updated": "2026-09-14T00:32:28.039550+00:00",
-  "story_count": 24,
+  "last_updated": "2026-09-14T16:42:13.111426+00:00",
+  "story_count": 25,
   "stories": [
     {
       "title": "Sudan Quintet holds Khartoum talks on war and political process",
@@ -25,11 +25,18 @@
       "category": "Diplomacy"
     },
     {
-      "title": "UN envoy presses Sudan leader on truce and prisoner exchange",
+      "title": "Death sentences for women during Sudan’s war ‘profound failure of justice’",
       "source": "Dabanga",
-      "url": "https://www.dabangasudan.org/en/all-news/article/un-envoy-presses-sudan-leader-on-truce-and-prisoner-exchange",
-      "published_date": "2026-09-07T07:52:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dabangasudan.org/en/all-news/article/death-sentences-for-women-during-sudans-war-profound-failure-of-justice",
+      "published_date": "2026-09-14T15:30:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Sudan war: Explosions heard across Blue Nile capital Ed Damazin as drones strafe city",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/sudan-war-explosions-heard-across-blue-nile-capital-ed-damazin-as-drones-strafe-city",
+      "published_date": "2026-09-14T08:37:00+00:00",
+      "category": "Military"
     },
     {
       "title": "El Burhan says ‘US arms embargo proposal will fail at UN’",
@@ -81,13 +88,6 @@
       "category": "Military"
     },
     {
-      "title": "RSF releases four journalists and lawyer after months in detention in North Darfur",
-      "source": "Dabanga",
-      "url": "https://www.dabangasudan.org/en/all-news/article/rsf-releases-four-journalists-and-lawyer-after-months-in-detention-in-north-darfur",
-      "published_date": "2026-09-07T10:30:00+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Fuel prices rise as shortages deepen across Sudan",
       "source": "Dabanga",
       "url": "https://www.dabangasudan.org/en/all-news/article/fuel-prices-rise-as-shortages-deepen-across-sudan",
@@ -114,6 +114,13 @@
       "url": "https://www.dabangasudan.org/en/all-news/article/msf-sudanese-clinics-close-amid-aid-cuts-leaving-millions-with-shrinking-access-to-healthcare",
       "published_date": "2026-09-09T09:40:00+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "North Darfur: Humanitarian crisis deepens in Tawila amid fresh wave of displacement",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/north-darfur-humanitarian-crisis-deepens-in-tawila-amid-fresh-wave-of-displacement",
+      "published_date": "2026-09-14T10:03:00+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Sudan’s civil society groups reject El Burhan’s mooted dialogue as ‘political cover’",
