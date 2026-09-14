@@ -1,7 +1,7 @@
 {
   "country": "Sudan",
-  "last_updated": "2026-09-13T14:44:24.327176+00:00",
-  "story_count": 23,
+  "last_updated": "2026-09-14T00:32:28.039550+00:00",
+  "story_count": 24,
   "stories": [
     {
       "title": "Sudan Quintet holds Khartoum talks on war and political process",
@@ -93,6 +93,13 @@
       "url": "https://www.dabangasudan.org/en/all-news/article/fuel-prices-rise-as-shortages-deepen-across-sudan",
       "published_date": "2026-09-13T14:02:22+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Sudan public remain frustrated by Bankak app glitches despite update",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/sudan-public-remain-frustrated-by-bankak-app-glitches-despite-update",
+      "published_date": "2026-09-13T16:14:00+00:00",
+      "category": "Economy"
     },
     {
       "title": "Switzerland joins EU sanctions on Sudan gold trade",
