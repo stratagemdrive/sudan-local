@@ -1,7 +1,7 @@
 {
   "country": "Sudan",
-  "last_updated": "2026-09-14T16:42:13.111426+00:00",
-  "story_count": 25,
+  "last_updated": "2026-09-15T01:04:24.579770+00:00",
+  "story_count": 26,
   "stories": [
     {
       "title": "Sudan Quintet holds Khartoum talks on war and political process",
@@ -93,6 +93,13 @@
       "url": "https://www.dabangasudan.org/en/all-news/article/fuel-prices-rise-as-shortages-deepen-across-sudan",
       "published_date": "2026-09-13T14:02:22+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "WFP director warns Sudan aid cuts could intensify world’s worst hunger crisis",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/wfp-director-warns-sudan-aid-cuts-could-intensify-worlds-worst-hunger-crisis",
+      "published_date": "2026-09-14T17:57:20+00:00",
+      "category": "Economy"
     },
     {
       "title": "Sudan public remain frustrated by Bankak app glitches despite update",
