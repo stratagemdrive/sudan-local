@@ -1,7 +1,7 @@
 {
   "country": "Sudan",
-  "last_updated": "2026-09-15T01:04:24.579770+00:00",
-  "story_count": 26,
+  "last_updated": "2026-09-15T15:20:36.922012+00:00",
+  "story_count": 22,
   "stories": [
     {
       "title": "Sudan Quintet holds Khartoum talks on war and political process",
@@ -18,10 +18,10 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Quintet makes first Sudan visit for political talks",
-      "source": "Dabanga",
-      "url": "https://www.dabangasudan.org/en/all-news/article/quintet-makes-first-sudan-visit-for-political-talks",
-      "published_date": "2026-09-08T11:00:26+00:00",
+      "title": "Aid cuts force clinic closures across Sudan",
+      "source": "France 24",
+      "url": "http://www.france24.com/en/aid-cuts-force-clinic-closures-across-sudan",
+      "published_date": "2026-09-09T20:32:55+00:00",
       "category": "Diplomacy"
     },
     {
@@ -71,20 +71,6 @@
       "source": "Dabanga",
       "url": "https://www.dabangasudan.org/en/all-news/article/rsf-aligned-govt-rejects-un-fact-finding-report-as-biased",
       "published_date": "2026-09-08T18:51:03+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "General Coordination for Displaced People warns of deepening food insecurity in Sudan",
-      "source": "Dabanga",
-      "url": "https://www.dabangasudan.org/en/all-news/article/general-coordination-for-displaced-people-warns-of-deepening-food-insecurity-in-sudan",
-      "published_date": "2026-09-08T09:14:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "University of Khartoum counts cost of Sudan war as 71% of academics remain abroad, infrastructure destroyed",
-      "source": "Dabanga",
-      "url": "https://www.dabangasudan.org/en/all-news/article/university-of-khartoum-counts-cost-of-sudan-war-as-71-of-academics-remain-abroad-infrastructure-destroyed",
-      "published_date": "2026-09-08T07:22:00+00:00",
       "category": "Military"
     },
     {
@@ -169,20 +155,6 @@
       "source": "Dabanga",
       "url": "https://www.dabangasudan.org/en/all-news/article/icc-hears-calls-for-reparations-for-ali-kushayb-victims-in-darfur",
       "published_date": "2026-09-08T15:58:49+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "North Kordofan capital faces thirst and soaring prices amid accusations of official neglect",
-      "source": "Dabanga",
-      "url": "https://www.dabangasudan.org/en/all-news/article/nor-kordofan-capital-faces-thirst-and-soaring-prices-amid-accusations-of-official-neglect",
-      "published_date": "2026-09-08T09:29:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "UN Human Rights Council urged to widen Sudan arms embargo and extend fact-finding mission",
-      "source": "Dabanga",
-      "url": "https://www.dabangasudan.org/en/all-news/article/un-human-rights-council-urged-to-widen-sudan-arms-embargo-and-extend-fact-finding-mission",
-      "published_date": "2026-09-08T08:04:00+00:00",
       "category": "Local Events"
     }
   ]
