@@ -1,7 +1,7 @@
 {
   "country": "Sudan",
-  "last_updated": "2026-09-16T00:53:44.096046+00:00",
-  "story_count": 22,
+  "last_updated": "2026-09-16T15:12:49.292192+00:00",
+  "story_count": 20,
   "stories": [
     {
       "title": "Sudan Quintet holds Khartoum talks on war and political process",
@@ -23,6 +23,13 @@
       "url": "http://www.france24.com/en/aid-cuts-force-clinic-closures-across-sudan",
       "published_date": "2026-09-09T20:32:55+00:00",
       "category": "Diplomacy"
+    },
+    {
+      "title": "At least 82 killed in gold mine collapse in remote area of Sudan, paramilitary RSF say",
+      "source": "France 24",
+      "url": "http://www.france24.com/en/africa/20260916-sudan-gold-mine-collapse-kills-at-least-67-people",
+      "published_date": "2026-09-16T11:54:54+00:00",
+      "category": "Military"
     },
     {
       "title": "South Darfur to offer people displaced to Nyala ‘voluntary return’ to North Darfur",
@@ -67,20 +74,6 @@
       "category": "Military"
     },
     {
-      "title": "Cairo Declaration forces reject El Burhan national dialogue, call for negotiated end to Sudan war",
-      "source": "Dabanga",
-      "url": "https://www.dabangasudan.org/en/all-news/article/cairo-declaration-forces-reject-el-burhan-national-dialogue-call-for-negotiated-end-to-sudan-war",
-      "published_date": "2026-09-09T14:24:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "UN Deputy High Commissioner for Human Rights: ‘Int’l pressure had temporary positive effect in North Kordofan",
-      "source": "Dabanga",
-      "url": "https://www.dabangasudan.org/en/all-news/article/un-deputy-high-commissioner-for-human-rights-intl-pressure-had-temporary-positive-effect-in-north-kordofan",
-      "published_date": "2026-09-09T08:22:00+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Fuel prices rise as shortages deepen across Sudan",
       "source": "Dabanga",
       "url": "https://www.dabangasudan.org/en/all-news/article/fuel-prices-rise-as-shortages-deepen-across-sudan",
@@ -109,11 +102,11 @@
       "category": "Economy"
     },
     {
-      "title": "MSF: Sudanese clinics close amid aid cuts, leaving millions with shrinking access to healthcare",
+      "title": "Malaria rises in Khartoum as measles outbreak hits South Darfur",
       "source": "Dabanga",
-      "url": "https://www.dabangasudan.org/en/all-news/article/msf-sudanese-clinics-close-amid-aid-cuts-leaving-millions-with-shrinking-access-to-healthcare",
-      "published_date": "2026-09-09T09:40:00+00:00",
-      "category": "Economy"
+      "url": "https://www.dabangasudan.org/en/all-news/article/malaria-rises-in-khartoum-as-measles-outbreak-hits-south-darfur",
+      "published_date": "2026-09-16T15:00:46+00:00",
+      "category": "Local Events"
     },
     {
       "title": "South Darfur’s Kalma camp faces food crisis as rains and crops fail",
@@ -148,13 +141,6 @@
       "source": "Dabanga",
       "url": "https://www.dabangasudan.org/en/all-news/article/bankak-outages-disrupt-sudans-digital-payments-and-markets",
       "published_date": "2026-09-10T13:22:52+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Riot, arson at North Darfur’s Kalma camp after youth slain",
-      "source": "Dabanga",
-      "url": "https://www.dabangasudan.org/en/all-news/article/riot-arson-at-north-darfurs-kalma-camp-after-man-slain",
-      "published_date": "2026-09-09T11:54:00+00:00",
       "category": "Local Events"
     }
   ]
