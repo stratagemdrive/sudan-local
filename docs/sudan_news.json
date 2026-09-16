@@ -1,6 +1,6 @@
 {
   "country": "Sudan",
-  "last_updated": "2026-09-15T15:20:36.922012+00:00",
+  "last_updated": "2026-09-16T00:53:44.096046+00:00",
   "story_count": 22,
   "stories": [
     {
@@ -23,6 +23,20 @@
       "url": "http://www.france24.com/en/aid-cuts-force-clinic-closures-across-sudan",
       "published_date": "2026-09-09T20:32:55+00:00",
       "category": "Diplomacy"
+    },
+    {
+      "title": "South Darfur to offer people displaced to Nyala ‘voluntary return’ to North Darfur",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/south-darfur-to-offer-people-displaced-to-nyala-voluntary-return-to-north-darfur",
+      "published_date": "2026-09-15T15:18:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Expert: ‘60% of Sudan’s forests lost since 1990’",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/expert-60-of-sudans-forests-lost-since-1990",
+      "published_date": "2026-09-15T10:30:00+00:00",
+      "category": "Military"
     },
     {
       "title": "Death sentences for women during Sudan’s war ‘profound failure of justice’",
@@ -67,13 +81,6 @@
       "category": "Military"
     },
     {
-      "title": "RSF-aligned gov’t rejects UN fact-finding report as biased",
-      "source": "Dabanga",
-      "url": "https://www.dabangasudan.org/en/all-news/article/rsf-aligned-govt-rejects-un-fact-finding-report-as-biased",
-      "published_date": "2026-09-08T18:51:03+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Fuel prices rise as shortages deepen across Sudan",
       "source": "Dabanga",
       "url": "https://www.dabangasudan.org/en/all-news/article/fuel-prices-rise-as-shortages-deepen-across-sudan",
@@ -109,6 +116,13 @@
       "category": "Economy"
     },
     {
+      "title": "South Darfur’s Kalma camp faces food crisis as rains and crops fail",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/south-darfurs-kalma-camp-faces-food-crisis-as-rains-and-crops-fail",
+      "published_date": "2026-09-15T11:01:00+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "North Darfur: Humanitarian crisis deepens in Tawila amid fresh wave of displacement",
       "source": "Dabanga",
       "url": "https://www.dabangasudan.org/en/all-news/article/north-darfur-humanitarian-crisis-deepens-in-tawila-amid-fresh-wave-of-displacement",
@@ -141,20 +155,6 @@
       "source": "Dabanga",
       "url": "https://www.dabangasudan.org/en/all-news/article/riot-arson-at-north-darfurs-kalma-camp-after-man-slain",
       "published_date": "2026-09-09T11:54:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Drought threatens Sudan’s agricultural season as food fears grow",
-      "source": "Dabanga",
-      "url": "https://www.dabangasudan.org/en/all-news/article/drought-threatens-sudans-agricultural-season-as-food-fears-grow",
-      "published_date": "2026-09-08T18:31:34+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "ICC hears calls for reparations for Ali Kushayb victims in Darfur",
-      "source": "Dabanga",
-      "url": "https://www.dabangasudan.org/en/all-news/article/icc-hears-calls-for-reparations-for-ali-kushayb-victims-in-darfur",
-      "published_date": "2026-09-08T15:58:49+00:00",
       "category": "Local Events"
     }
   ]
