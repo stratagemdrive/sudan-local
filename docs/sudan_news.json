@@ -1,15 +1,8 @@
 {
   "country": "Sudan",
-  "last_updated": "2026-09-17T00:57:48.784259+00:00",
+  "last_updated": "2026-09-17T15:22:18.482467+00:00",
   "story_count": 18,
   "stories": [
-    {
-      "title": "Sudan Quintet holds Khartoum talks on war and political process",
-      "source": "Dabanga",
-      "url": "https://www.dabangasudan.org/en/all-news/article/sudan-quintet-holds-khartoum-talks-on-war-and-political-process",
-      "published_date": "2026-09-10T14:22:33+00:00",
-      "category": "Diplomacy"
-    },
     {
       "title": "At least 82 killed in gold mine collapse in remote area of Sudan, paramilitary RSF say",
       "source": "France 24",
@@ -67,6 +60,20 @@
       "category": "Energy"
     },
     {
+      "title": "Sudanese Pound collapse sees shops close amid soaring prices",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/sudanese-pound-collapse-sees-shops-close-amid-soaring-prices",
+      "published_date": "2026-09-17T11:05:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Sudanese Pound plunges despite government measures",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/sudanese-pound-plunges-despite-government-measures",
+      "published_date": "2026-09-17T08:00:00+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "WFP director warns Sudan aid cuts could intensify world’s worst hunger crisis",
       "source": "Dabanga",
       "url": "https://www.dabangasudan.org/en/all-news/article/wfp-director-warns-sudan-aid-cuts-could-intensify-worlds-worst-hunger-crisis",
@@ -86,6 +93,13 @@
       "url": "https://www.dabangasudan.org/en/all-news/article/switzerland-joins-eu-sanctions-on-sudan-gold-trade",
       "published_date": "2026-09-11T13:37:51+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "Sudan Council of Churches to hold national prayer for peace in Khartoum on Saturday",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/sudan-council-of-churches-to-hold-national-prayer-for-peace-in-khartoum-on-saturday",
+      "published_date": "2026-09-17T10:00:00+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Malaria rises in Khartoum as measles outbreak hits South Darfur",
@@ -113,20 +127,6 @@
       "source": "Dabanga",
       "url": "https://www.dabangasudan.org/en/all-news/article/sudans-civil-society-groups-rejects-el-burhans-mooted-dialogue-as-political-cover",
       "published_date": "2026-09-10T20:57:55+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "16 cholera deaths reported in West Kordofan, Darfur vaccination drive begins",
-      "source": "Dabanga",
-      "url": "https://www.dabangasudan.org/en/all-news/article/16-cholera-deaths-reported-in-west-kordofan-darfur-vaccination-drive-begins",
-      "published_date": "2026-09-10T13:47:20+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bankak outages disrupt Sudan’s digital payments and markets",
-      "source": "Dabanga",
-      "url": "https://www.dabangasudan.org/en/all-news/article/bankak-outages-disrupt-sudans-digital-payments-and-markets",
-      "published_date": "2026-09-10T13:22:52+00:00",
       "category": "Local Events"
     }
   ]
