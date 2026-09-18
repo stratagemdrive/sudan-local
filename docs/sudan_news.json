@@ -1,12 +1,40 @@
 {
   "country": "Sudan",
-  "last_updated": "2026-09-17T15:22:18.482467+00:00",
-  "story_count": 18,
+  "last_updated": "2026-09-18T00:53:57.041091+00:00",
+  "story_count": 23,
   "stories": [
+    {
+      "title": "UN chief calls for accountability for states fuelling Sudan’s war",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/un-chief-calls-for-accountability-for-states-fuelling-sudans-war",
+      "published_date": "2026-09-17T16:49:33+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Death toll tops 80 in West Kordofan mine disaster as rescue effort falters",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/death-toll-tops-80-in-west-kordofan-mine-disaster-as-rescue-effort-falters",
+      "published_date": "2026-09-17T14:46:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Darfur, Kordofan markets shrug off Sudanese Pound’s fall as ‘trade picks up’",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/darfur-kordofan-markets-shrug-off-sudanese-pounds-fall-as-trade-picks-up",
+      "published_date": "2026-09-17T12:26:00+00:00",
+      "category": "Military"
+    },
     {
       "title": "At least 82 killed in gold mine collapse in remote area of Sudan, paramilitary RSF say",
       "source": "France 24",
       "url": "http://www.france24.com/en/africa/20260916-sudan-gold-mine-collapse-kills-at-least-67-people",
+      "published_date": "2026-09-16T11:54:54+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "At least 82 killed in gold mine collapse in remote area of Sudan, paramilitary RSF say",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/africa/20260916-sudan-gold-mine-collapse-kills-at-least-67-people",
       "published_date": "2026-09-16T11:54:54+00:00",
       "category": "Military"
     },
@@ -58,6 +86,20 @@
       "url": "https://www.dabangasudan.org/en/all-news/article/fuel-prices-rise-as-shortages-deepen-across-sudan",
       "published_date": "2026-09-13T14:02:22+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Urgent report underlines Sudan famine risk as food insecurity worsens",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/urgent-report-underlines-sudan-famine-risk-as-food-insecurity-worsens",
+      "published_date": "2026-09-17T19:11:31+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Sudan’s Finance Minister pins Pound’s fall on growing demand for US Dollars",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/sudans-finance-minister-pins-pounds-fall-on-growing-demand-for-us-dollars",
+      "published_date": "2026-09-17T15:10:00+00:00",
+      "category": "Economy"
     },
     {
       "title": "Sudanese Pound collapse sees shops close amid soaring prices",
@@ -120,13 +162,6 @@
       "source": "Dabanga",
       "url": "https://www.dabangasudan.org/en/all-news/article/north-darfur-humanitarian-crisis-deepens-in-tawila-amid-fresh-wave-of-displacement",
       "published_date": "2026-09-14T10:03:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sudan’s civil society groups reject El Burhan’s mooted dialogue as ‘political cover’",
-      "source": "Dabanga",
-      "url": "https://www.dabangasudan.org/en/all-news/article/sudans-civil-society-groups-rejects-el-burhans-mooted-dialogue-as-political-cover",
-      "published_date": "2026-09-10T20:57:55+00:00",
       "category": "Local Events"
     }
   ]
