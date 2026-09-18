@@ -1,8 +1,15 @@
 {
   "country": "Sudan",
-  "last_updated": "2026-09-18T00:53:57.041091+00:00",
-  "story_count": 23,
+  "last_updated": "2026-09-18T14:42:12.851386+00:00",
+  "story_count": 22,
   "stories": [
+    {
+      "title": "At least 26 killed, 82 injured in Sudan-South Sudan border violence",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/at-least-26-killed-82-injured-in-sudan-south-sudan-border-violence",
+      "published_date": "2026-09-18T14:04:37+00:00",
+      "category": "Military"
+    },
     {
       "title": "UN chief calls for accountability for states fuelling Sudan’s war",
       "source": "Dabanga",
@@ -74,13 +81,6 @@
       "category": "Military"
     },
     {
-      "title": "UK condemns “settler terrorists”, Sudan’s chemical weapons exposed, and Yemen’s war escalates: The Cheat Sheet",
-      "source": "The New Humanitarian",
-      "url": "https://www.thenewhumanitarian.org/news/2026/09/11/uk-condemns-settler-terrorists-sudan-chemical-weapons-yemen-war-cheat-sheet",
-      "published_date": "2026-09-11T14:23:02+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Fuel prices rise as shortages deepen across Sudan",
       "source": "Dabanga",
       "url": "https://www.dabangasudan.org/en/all-news/article/fuel-prices-rise-as-shortages-deepen-across-sudan",
@@ -127,13 +127,6 @@
       "source": "Dabanga",
       "url": "https://www.dabangasudan.org/en/all-news/article/sudan-public-remain-frustrated-by-bankak-app-glitches-despite-update",
       "published_date": "2026-09-13T16:14:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Switzerland joins EU sanctions on Sudan gold trade",
-      "source": "Dabanga",
-      "url": "https://www.dabangasudan.org/en/all-news/article/switzerland-joins-eu-sanctions-on-sudan-gold-trade",
-      "published_date": "2026-09-11T13:37:51+00:00",
       "category": "Economy"
     },
     {
