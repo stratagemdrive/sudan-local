@@ -1,6 +1,6 @@
 {
   "country": "Sudan",
-  "last_updated": "2026-09-18T14:42:12.851386+00:00",
+  "last_updated": "2026-09-19T00:47:50.365485+00:00",
   "story_count": 22,
   "stories": [
     {
@@ -74,13 +74,6 @@
       "category": "Military"
     },
     {
-      "title": "El Burhan says ‘US arms embargo proposal will fail at UN’",
-      "source": "Dabanga",
-      "url": "https://www.dabangasudan.org/en/all-news/article/el-burhan-says-us-arms-embargo-proposal-will-fail-at-un",
-      "published_date": "2026-09-11T14:48:57+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Fuel prices rise as shortages deepen across Sudan",
       "source": "Dabanga",
       "url": "https://www.dabangasudan.org/en/all-news/article/fuel-prices-rise-as-shortages-deepen-across-sudan",
@@ -128,6 +121,13 @@
       "url": "https://www.dabangasudan.org/en/all-news/article/sudan-public-remain-frustrated-by-bankak-app-glitches-despite-update",
       "published_date": "2026-09-13T16:14:00+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "Election trouble in South Sudan, the UN’s leadership hunt, and a new global risk map: The Cheat Sheet",
+      "source": "The New Humanitarian",
+      "url": "https://www.thenewhumanitarian.org/news/2026/09/18/election-south-sudan-uns-leadership-new-global-risk-map-cheat-sheet",
+      "published_date": "2026-09-18T17:13:17+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Sudan Council of Churches to hold national prayer for peace in Khartoum on Saturday",
