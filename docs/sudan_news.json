@@ -1,8 +1,15 @@
 {
   "country": "Sudan",
-  "last_updated": "2026-09-21T00:39:54.598747+00:00",
+  "last_updated": "2026-09-21T16:42:43.722148+00:00",
   "story_count": 23,
   "stories": [
+    {
+      "title": "Civilians flee North Kordofan as fighting escalates",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/civilians-flee-north-kordofan-as-fighting-escalates",
+      "published_date": "2026-09-21T14:35:36+00:00",
+      "category": "Military"
+    },
     {
       "title": "El-Sisi and CIA chief discuss Sudan war",
       "source": "Dabanga",
@@ -74,18 +81,18 @@
       "category": "Military"
     },
     {
-      "title": "Death sentences for women during Sudan’s war ‘profound failure of justice’",
+      "title": "Weaker demand eases US Dollar rate to SDG 7,400 on parallel market",
       "source": "Dabanga",
-      "url": "https://www.dabangasudan.org/en/all-news/article/death-sentences-for-women-during-sudans-war-profound-failure-of-justice",
-      "published_date": "2026-09-14T15:30:00+00:00",
-      "category": "Military"
+      "url": "https://www.dabangasudan.org/en/all-news/article/weaker-demand-eases-us-dollar-rate-to-sdg-7400-on-parallel-market",
+      "published_date": "2026-09-21T14:23:00+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Sudan war: Explosions heard across Blue Nile capital Ed Damazin as drones strafe city",
+      "title": "Bank of Sudan’s banking sector reform strategy faces range of challenges, led by digital transformation",
       "source": "Dabanga",
-      "url": "https://www.dabangasudan.org/en/all-news/article/sudan-war-explosions-heard-across-blue-nile-capital-ed-damazin-as-drones-strafe-city",
-      "published_date": "2026-09-14T08:37:00+00:00",
-      "category": "Military"
+      "url": "https://www.dabangasudan.org/en/all-news/article/bank-of-sudans-banking-sector-reform-strategy-faces-range-of-challenges-led-by-digital-transformation",
+      "published_date": "2026-09-21T10:00:00+00:00",
+      "category": "Economy"
     },
     {
       "title": "Justice Africa Sudan: ‘Warring parties using starvation a weapon of war’",
@@ -155,13 +162,6 @@
       "source": "Dabanga",
       "url": "https://www.dabangasudan.org/en/all-news/article/south-darfurs-kalma-camp-faces-food-crisis-as-rains-and-crops-fail",
       "published_date": "2026-09-15T11:01:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "North Darfur: Humanitarian crisis deepens in Tawila amid fresh wave of displacement",
-      "source": "Dabanga",
-      "url": "https://www.dabangasudan.org/en/all-news/article/north-darfur-humanitarian-crisis-deepens-in-tawila-amid-fresh-wave-of-displacement",
-      "published_date": "2026-09-14T10:03:00+00:00",
       "category": "Local Events"
     }
   ]
