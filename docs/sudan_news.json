@@ -1,8 +1,22 @@
 {
   "country": "Sudan",
-  "last_updated": "2026-09-20T14:23:20.698424+00:00",
-  "story_count": 21,
+  "last_updated": "2026-09-21T00:39:54.598747+00:00",
+  "story_count": 23,
   "stories": [
+    {
+      "title": "El-Sisi and CIA chief discuss Sudan war",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/el-sisi-and-cia-chief-discuss-sudan-war",
+      "published_date": "2026-09-20T16:58:47+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Sudan: Six killed, dozens injured in Red Sea mine collapse",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/sudan-six-killed-dozens-injured-in-red-sea-mine-collapse",
+      "published_date": "2026-09-20T11:33:00+00:00",
+      "category": "Military"
+    },
     {
       "title": "At least 26 killed, 82 injured in Sudan-South Sudan border violence",
       "source": "Dabanga",
@@ -74,6 +88,13 @@
       "category": "Military"
     },
     {
+      "title": "Justice Africa Sudan: ‘Warring parties using starvation a weapon of war’",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/justice-africa-sudan-warring-parties-using-starvation-a-weapon-of-war",
+      "published_date": "2026-09-20T08:34:00+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "Urgent report underlines Sudan famine risk as food insecurity worsens",
       "source": "Dabanga",
       "url": "https://www.dabangasudan.org/en/all-news/article/urgent-report-underlines-sudan-famine-risk-as-food-insecurity-worsens",
@@ -106,13 +127,6 @@
       "source": "Dabanga",
       "url": "https://www.dabangasudan.org/en/all-news/article/wfp-director-warns-sudan-aid-cuts-could-intensify-worlds-worst-hunger-crisis",
       "published_date": "2026-09-14T17:57:20+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Sudan public remain frustrated by Bankak app glitches despite update",
-      "source": "Dabanga",
-      "url": "https://www.dabangasudan.org/en/all-news/article/sudan-public-remain-frustrated-by-bankak-app-glitches-despite-update",
-      "published_date": "2026-09-13T16:14:00+00:00",
       "category": "Economy"
     },
     {
