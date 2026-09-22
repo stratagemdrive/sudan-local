@@ -1,6 +1,6 @@
 {
   "country": "Sudan",
-  "last_updated": "2026-09-21T16:42:43.722148+00:00",
+  "last_updated": "2026-09-22T01:21:26.799871+00:00",
   "story_count": 23,
   "stories": [
     {
@@ -8,6 +8,13 @@
       "source": "Dabanga",
       "url": "https://www.dabangasudan.org/en/all-news/article/civilians-flee-north-kordofan-as-fighting-escalates",
       "published_date": "2026-09-21T14:35:36+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "On Int’l Day of Peace, calls from eastern Chad and Darfur to end Sudan’s war",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/on-intl-day-of-peace-calls-from-eastern-chad-and-darfur-to-end-sudans-war",
+      "published_date": "2026-09-21T11:00:00+00:00",
       "category": "Military"
     },
     {
@@ -127,13 +134,6 @@
       "source": "Dabanga",
       "url": "https://www.dabangasudan.org/en/all-news/article/sudanese-pound-plunges-despite-government-measures",
       "published_date": "2026-09-17T08:00:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "WFP director warns Sudan aid cuts could intensify world’s worst hunger crisis",
-      "source": "Dabanga",
-      "url": "https://www.dabangasudan.org/en/all-news/article/wfp-director-warns-sudan-aid-cuts-could-intensify-worlds-worst-hunger-crisis",
-      "published_date": "2026-09-14T17:57:20+00:00",
       "category": "Economy"
     },
     {
