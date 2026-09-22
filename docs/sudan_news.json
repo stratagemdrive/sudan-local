@@ -1,8 +1,36 @@
 {
   "country": "Sudan",
-  "last_updated": "2026-09-22T01:21:26.799871+00:00",
-  "story_count": 23,
+  "last_updated": "2026-09-22T15:16:42.069062+00:00",
+  "story_count": 25,
   "stories": [
+    {
+      "title": "US-Egypt-Sudan meeting in New York discusses peace efforts",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/us-egypt-sudan-meeting-in-new-york-discusses-peace-efforts",
+      "published_date": "2026-09-22T15:16:21+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Somoud anti-war forces call on UN Security Council for immediate truce in Sudan",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/anti-war-civilian-forces-call-on-un-security-council-for-immediate-truce-in-sudan",
+      "published_date": "2026-09-22T08:41:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "World leaders gather at UN amid wars, AI fears and global divisions",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/americas/20260922-world-leaders-gather-at-un-amid-wars-ai-fears-and-global-divisions",
+      "published_date": "2026-09-22T03:49:53+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "South Sudan’s Green Book law brings harsh justice, but little lasting peace",
+      "source": "The New Humanitarian",
+      "url": "https://www.thenewhumanitarian.org/analysis/2026/09/22/south-sudans-green-book-law-brings-harsh-justice-little-lasting-peace",
+      "published_date": "2026-09-22T11:54:56+00:00",
+      "category": "Military"
+    },
     {
       "title": "Civilians flee North Kordofan as fighting escalates",
       "source": "Dabanga",
@@ -81,13 +109,6 @@
       "category": "Military"
     },
     {
-      "title": "Expert: ‘60% of Sudan’s forests lost since 1990’",
-      "source": "Dabanga",
-      "url": "https://www.dabangasudan.org/en/all-news/article/expert-60-of-sudans-forests-lost-since-1990",
-      "published_date": "2026-09-15T10:30:00+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Weaker demand eases US Dollar rate to SDG 7,400 on parallel market",
       "source": "Dabanga",
       "url": "https://www.dabangasudan.org/en/all-news/article/weaker-demand-eases-us-dollar-rate-to-sdg-7400-on-parallel-market",
@@ -155,13 +176,6 @@
       "source": "Dabanga",
       "url": "https://www.dabangasudan.org/en/all-news/article/malaria-rises-in-khartoum-as-measles-outbreak-hits-south-darfur",
       "published_date": "2026-09-16T15:00:46+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "South Darfur’s Kalma camp faces food crisis as rains and crops fail",
-      "source": "Dabanga",
-      "url": "https://www.dabangasudan.org/en/all-news/article/south-darfurs-kalma-camp-faces-food-crisis-as-rains-and-crops-fail",
-      "published_date": "2026-09-15T11:01:00+00:00",
       "category": "Local Events"
     }
   ]
