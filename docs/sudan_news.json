@@ -1,7 +1,7 @@
 {
   "country": "Sudan",
-  "last_updated": "2026-09-23T01:03:54.003465+00:00",
-  "story_count": 25,
+  "last_updated": "2026-09-23T15:13:56.122669+00:00",
+  "story_count": 22,
   "stories": [
     {
       "title": "US refusing to give Sudan's de facto leader visa for UN",
@@ -95,20 +95,6 @@
       "category": "Military"
     },
     {
-      "title": "At least 82 killed in gold mine collapse in remote area of Sudan, paramilitary RSF say",
-      "source": "France 24",
-      "url": "http://www.france24.com/en/africa/20260916-sudan-gold-mine-collapse-kills-at-least-67-people",
-      "published_date": "2026-09-16T11:54:54+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "At least 82 killed in gold mine collapse in remote area of Sudan, paramilitary RSF say",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/africa/20260916-sudan-gold-mine-collapse-kills-at-least-67-people",
-      "published_date": "2026-09-16T11:54:54+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Weaker demand eases US Dollar rate to SDG 7,400 on parallel market",
       "source": "Dabanga",
       "url": "https://www.dabangasudan.org/en/all-news/article/weaker-demand-eases-us-dollar-rate-to-sdg-7400-on-parallel-market",
@@ -169,13 +155,6 @@
       "source": "Dabanga",
       "url": "https://www.dabangasudan.org/en/all-news/article/sudan-council-of-churches-to-hold-national-prayer-for-peace-in-khartoum-on-saturday",
       "published_date": "2026-09-17T10:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Malaria rises in Khartoum as measles outbreak hits South Darfur",
-      "source": "Dabanga",
-      "url": "https://www.dabangasudan.org/en/all-news/article/malaria-rises-in-khartoum-as-measles-outbreak-hits-south-darfur",
-      "published_date": "2026-09-16T15:00:46+00:00",
       "category": "Local Events"
     }
   ]
