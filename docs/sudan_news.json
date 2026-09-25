@@ -1,8 +1,15 @@
 {
   "country": "Sudan",
-  "last_updated": "2026-09-25T01:00:59.045173+00:00",
-  "story_count": 16,
+  "last_updated": "2026-09-25T15:40:56.005820+00:00",
+  "story_count": 18,
   "stories": [
+    {
+      "title": "Each side feels it 'could get a decisive military victory' in Sudan, Trump's Africa envoy says",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/t%C3%AAte-%C3%A0-t%C3%AAte/20260925-each-side-feels-it-could-get-a-decisive-military-victory-in-sudan-trump-s-africa-envoy-says",
+      "published_date": "2026-09-25T12:54:12+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "US refusing to give Sudan's de facto leader visa for UN",
       "source": "France 24",
@@ -30,6 +37,13 @@
       "url": "https://www.france24.com/en/americas/20260922-world-leaders-gather-at-un-amid-wars-ai-fears-and-global-divisions",
       "published_date": "2026-09-22T03:49:53+00:00",
       "category": "Diplomacy"
+    },
+    {
+      "title": "Ethiopia civil war fears, UNGA highlights, and Yemen safeguarding failures: The Cheat Sheet",
+      "source": "The New Humanitarian",
+      "url": "https://www.thenewhumanitarian.org/news/2026/09/25/ethiopia-civil-war-fears-unga-yemen-safeguarding-failures-cheat-sheet",
+      "published_date": "2026-09-25T14:13:35+00:00",
+      "category": "Military"
     },
     {
       "title": "Nuba Christian and Muslim leaders call for end to Sudan war",
@@ -74,11 +88,11 @@
       "category": "Military"
     },
     {
-      "title": "At least 26 killed, 82 injured in Sudan-South Sudan border violence",
+      "title": "Gold exporters accuse influential actors of draining Sudan’s gold wealth",
       "source": "Dabanga",
-      "url": "https://www.dabangasudan.org/en/all-news/article/at-least-26-killed-82-injured-in-sudan-south-sudan-border-violence",
-      "published_date": "2026-09-18T14:04:37+00:00",
-      "category": "Military"
+      "url": "https://www.dabangasudan.org/en/all-news/article/gold-exporters-accuse-influential-actors-of-draining-sudans-gold-wealth",
+      "published_date": "2026-09-25T14:56:29+00:00",
+      "category": "Economy"
     },
     {
       "title": "US and Sudan trade statements over legitimacy and peace efforts",
