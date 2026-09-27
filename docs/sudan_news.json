@@ -1,7 +1,7 @@
 {
   "country": "Sudan",
-  "last_updated": "2026-09-27T01:01:22.875124+00:00",
-  "story_count": 17,
+  "last_updated": "2026-09-27T15:27:48.127633+00:00",
+  "story_count": 16,
   "stories": [
     {
       "title": "Each side feels it 'could get a decisive military victory' in Sudan, Trump's Africa envoy says",
@@ -37,6 +37,13 @@
       "url": "https://www.france24.com/en/americas/20260922-world-leaders-gather-at-un-amid-wars-ai-fears-and-global-divisions",
       "published_date": "2026-09-22T03:49:53+00:00",
       "category": "Diplomacy"
+    },
+    {
+      "title": "RSF drones strike El Gezira fuel depot as both sides report shootdowns",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/rsf-drones-strike-el-gezira-fuel-depot-as-both-sides-report-shootdowns",
+      "published_date": "2026-09-27T13:22:49+00:00",
+      "category": "Military"
     },
     {
       "title": "Ethiopia civil war fears, UNGA highlights, and Yemen safeguarding failures: The Cheat Sheet",
@@ -81,13 +88,6 @@
       "category": "Military"
     },
     {
-      "title": "Sudan: Six killed, dozens injured in Red Sea mine collapse",
-      "source": "Dabanga",
-      "url": "https://www.dabangasudan.org/en/all-news/article/sudan-six-killed-dozens-injured-in-red-sea-mine-collapse",
-      "published_date": "2026-09-20T11:33:00+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Gold exporters accuse influential actors of draining Sudan’s gold wealth",
       "source": "Dabanga",
       "url": "https://www.dabangasudan.org/en/all-news/article/gold-exporters-accuse-influential-actors-of-draining-sudans-gold-wealth",
@@ -113,13 +113,6 @@
       "source": "Dabanga",
       "url": "https://www.dabangasudan.org/en/all-news/article/bank-of-sudans-banking-sector-reform-strategy-faces-range-of-challenges-led-by-digital-transformation",
       "published_date": "2026-09-21T10:00:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Justice Africa Sudan: ‘Warring parties using starvation a weapon of war’",
-      "source": "Dabanga",
-      "url": "https://www.dabangasudan.org/en/all-news/article/justice-africa-sudan-warring-parties-using-starvation-a-weapon-of-war",
-      "published_date": "2026-09-20T08:34:00+00:00",
       "category": "Economy"
     }
   ]
