@@ -1,6 +1,6 @@
 {
   "country": "Sudan",
-  "last_updated": "2026-09-27T15:27:48.127633+00:00",
+  "last_updated": "2026-09-28T01:19:01.951814+00:00",
   "story_count": 16,
   "stories": [
     {
@@ -37,6 +37,13 @@
       "url": "https://www.france24.com/en/americas/20260922-world-leaders-gather-at-un-amid-wars-ai-fears-and-global-divisions",
       "published_date": "2026-09-22T03:49:53+00:00",
       "category": "Diplomacy"
+    },
+    {
+      "title": "Ethiopia accuses Eritrea, Sudan of backing Tigray rebels amid clashes",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/africa/20260927-ethiopia-accuses-eritrea-sudan-backing-tigray-rebels",
+      "published_date": "2026-09-27T23:27:29+00:00",
+      "category": "Military"
     },
     {
       "title": "RSF drones strike El Gezira fuel depot as both sides report shootdowns",
@@ -78,13 +85,6 @@
       "source": "Dabanga",
       "url": "https://www.dabangasudan.org/en/all-news/article/on-intl-day-of-peace-calls-from-eastern-chad-and-darfur-to-end-sudans-war",
       "published_date": "2026-09-21T11:00:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "El-Sisi and CIA chief discuss Sudan war",
-      "source": "Dabanga",
-      "url": "https://www.dabangasudan.org/en/all-news/article/el-sisi-and-cia-chief-discuss-sudan-war",
-      "published_date": "2026-09-20T16:58:47+00:00",
       "category": "Military"
     },
     {
