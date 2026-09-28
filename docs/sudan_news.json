@@ -1,7 +1,7 @@
 {
   "country": "Sudan",
-  "last_updated": "2026-09-28T01:19:01.951814+00:00",
-  "story_count": 16,
+  "last_updated": "2026-09-28T18:18:44.578601+00:00",
+  "story_count": 12,
   "stories": [
     {
       "title": "Each side feels it 'could get a decisive military victory' in Sudan, Trump's Africa envoy says",
@@ -74,20 +74,6 @@
       "category": "Military"
     },
     {
-      "title": "Civilians flee North Kordofan as fighting escalates",
-      "source": "Dabanga",
-      "url": "https://www.dabangasudan.org/en/all-news/article/civilians-flee-north-kordofan-as-fighting-escalates",
-      "published_date": "2026-09-21T14:35:36+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "On Int’l Day of Peace, calls from eastern Chad and Darfur to end Sudan’s war",
-      "source": "Dabanga",
-      "url": "https://www.dabangasudan.org/en/all-news/article/on-intl-day-of-peace-calls-from-eastern-chad-and-darfur-to-end-sudans-war",
-      "published_date": "2026-09-21T11:00:00+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Gold exporters accuse influential actors of draining Sudan’s gold wealth",
       "source": "Dabanga",
       "url": "https://www.dabangasudan.org/en/all-news/article/gold-exporters-accuse-influential-actors-of-draining-sudans-gold-wealth",
@@ -99,20 +85,6 @@
       "source": "Dabanga",
       "url": "https://www.dabangasudan.org/en/all-news/article/us-and-sudan-trade-statements-over-legitimacy-and-peace-efforts",
       "published_date": "2026-09-24T18:18:16+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Weaker demand eases US Dollar rate to SDG 7,400 on parallel market",
-      "source": "Dabanga",
-      "url": "https://www.dabangasudan.org/en/all-news/article/weaker-demand-eases-us-dollar-rate-to-sdg-7400-on-parallel-market",
-      "published_date": "2026-09-21T14:23:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Bank of Sudan’s banking sector reform strategy faces range of challenges, led by digital transformation",
-      "source": "Dabanga",
-      "url": "https://www.dabangasudan.org/en/all-news/article/bank-of-sudans-banking-sector-reform-strategy-faces-range-of-challenges-led-by-digital-transformation",
-      "published_date": "2026-09-21T10:00:00+00:00",
       "category": "Economy"
     }
   ]
