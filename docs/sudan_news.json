@@ -1,20 +1,20 @@
 {
   "country": "Sudan",
-  "last_updated": "2026-09-29T16:41:47.182686+00:00",
-  "story_count": 8,
+  "last_updated": "2026-09-30T01:44:41.800345+00:00",
+  "story_count": 10,
   "stories": [
+    {
+      "title": "Sudan foreign minister attacks external intervention at UN",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/sudan-foreign-minister-attacks-external-intervention-at-un",
+      "published_date": "2026-09-29T17:17:09+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Each side feels it 'could get a decisive military victory' in Sudan, Trump's Africa envoy says",
       "source": "France 24",
       "url": "https://www.france24.com/en/tv-shows/t%C3%AAte-%C3%A0-t%C3%AAte/20260925-each-side-feels-it-could-get-a-decisive-military-victory-in-sudan-trump-s-africa-envoy-says",
       "published_date": "2026-09-25T12:54:12+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "US refusing to give Sudan's de facto leader visa for UN",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/us-refusing-to-give-sudan-s-de-facto-leader-visa-for-un",
-      "published_date": "2026-09-22T20:13:30+00:00",
       "category": "Diplomacy"
     },
     {
@@ -58,6 +58,20 @@
       "url": "https://www.dabangasudan.org/en/all-news/article/us-and-sudan-trade-statements-over-legitimacy-and-peace-efforts",
       "published_date": "2026-09-24T18:18:16+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "Centre for Humanitarian Change: Darfur faces deepening humanitarian crisis as rains fail",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/centre-for-humanitarian-change-darfur-faces-deepening-humanitarian-crisis-as-rains-fail",
+      "published_date": "2026-09-29T17:46:35+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Abyei market reopens after deadly Sudan-South Sudan border violence",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/abyei-market-reopens-after-deadly-sudan-south-sudan-border-violence",
+      "published_date": "2026-09-29T17:33:18+00:00",
+      "category": "Local Events"
     }
   ]
 }
