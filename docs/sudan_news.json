@@ -1,7 +1,7 @@
 {
   "country": "Sudan",
-  "last_updated": "2026-09-30T16:35:31.844851+00:00",
-  "story_count": 10,
+  "last_updated": "2026-10-01T01:42:11.267204+00:00",
+  "story_count": 11,
   "stories": [
     {
       "title": "Sudan foreign minister attacks external intervention at UN",
@@ -16,6 +16,13 @@
       "url": "https://www.france24.com/en/tv-shows/t%C3%AAte-%C3%A0-t%C3%AAte/20260925-each-side-feels-it-could-get-a-decisive-military-victory-in-sudan-trump-s-africa-envoy-says",
       "published_date": "2026-09-25T12:54:12+00:00",
       "category": "Diplomacy"
+    },
+    {
+      "title": "Ethiopia back to civil war? Horn of Africa fears spillover effect of renewed fighting",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/the-debate/20260930-ethiopia-back-to-civil-war-horn-of-africa-fears-spillover-effect-of-renewed-fighting",
+      "published_date": "2026-09-30T19:04:20+00:00",
+      "category": "Military"
     },
     {
       "title": "Ethiopia accuses Eritrea, Sudan of backing Tigray rebels amid clashes",
