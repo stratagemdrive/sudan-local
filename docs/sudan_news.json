@@ -1,7 +1,7 @@
 {
   "country": "Sudan",
-  "last_updated": "2026-10-01T01:42:11.267204+00:00",
-  "story_count": 11,
+  "last_updated": "2026-10-01T17:11:45.817388+00:00",
+  "story_count": 12,
   "stories": [
     {
       "title": "Sudan foreign minister attacks external intervention at UN",
@@ -46,13 +46,6 @@
       "category": "Military"
     },
     {
-      "title": "Nuba Christian and Muslim leaders call for end to Sudan war",
-      "source": "Dabanga",
-      "url": "https://www.dabangasudan.org/en/all-news/article/nuba-christian-and-muslim-leaders-call-for-end-to-sudan-war",
-      "published_date": "2026-09-24T16:33:39+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Gold exporters accuse influential actors of draining Sudan’s gold wealth",
       "source": "Dabanga",
       "url": "https://www.dabangasudan.org/en/all-news/article/gold-exporters-accuse-influential-actors-of-draining-sudans-gold-wealth",
@@ -65,6 +58,20 @@
       "url": "https://www.dabangasudan.org/en/all-news/article/us-and-sudan-trade-statements-over-legitimacy-and-peace-efforts",
       "published_date": "2026-09-24T18:18:16+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "Hunger, malnutrition and fuel shortages compound Sudan’s humanitarian crisis",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/hunger-malnutrition-and-fuel-shortages-compound-sudans-humanitarian-crisis",
+      "published_date": "2026-10-01T16:14:20+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Women’s groups report widespread sexual violence and detention across Sudan",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/womens-groups-report-widespread-sexual-violence-and-detention-across-sudan",
+      "published_date": "2026-10-01T14:53:24+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Centre for Humanitarian Change: Darfur faces deepening humanitarian crisis as rains fail",
