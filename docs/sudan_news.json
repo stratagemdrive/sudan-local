@@ -1,20 +1,13 @@
 {
   "country": "Sudan",
-  "last_updated": "2026-10-02T01:52:59.057684+00:00",
-  "story_count": 11,
+  "last_updated": "2026-10-02T16:25:38.223387+00:00",
+  "story_count": 9,
   "stories": [
     {
       "title": "Sudan foreign minister attacks external intervention at UN",
       "source": "Dabanga",
       "url": "https://www.dabangasudan.org/en/all-news/article/sudan-foreign-minister-attacks-external-intervention-at-un",
       "published_date": "2026-09-29T17:17:09+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Each side feels it 'could get a decisive military victory' in Sudan, Trump's Africa envoy says",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/t%C3%AAte-%C3%A0-t%C3%AAte/20260925-each-side-feels-it-could-get-a-decisive-military-victory-in-sudan-trump-s-africa-envoy-says",
-      "published_date": "2026-09-25T12:54:12+00:00",
       "category": "Diplomacy"
     },
     {
@@ -39,18 +32,11 @@
       "category": "Military"
     },
     {
-      "title": "Ethiopia civil war fears, UNGA highlights, and Yemen safeguarding failures: The Cheat Sheet",
-      "source": "The New Humanitarian",
-      "url": "https://www.thenewhumanitarian.org/news/2026/09/25/ethiopia-civil-war-fears-unga-yemen-safeguarding-failures-cheat-sheet",
-      "published_date": "2026-09-25T14:13:35+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Gold exporters accuse influential actors of draining Sudan’s gold wealth",
+      "title": "‘Drone strike on El Obeid shelter kills boy, wounds 12 children’",
       "source": "Dabanga",
-      "url": "https://www.dabangasudan.org/en/all-news/article/gold-exporters-accuse-influential-actors-of-draining-sudans-gold-wealth",
-      "published_date": "2026-09-25T14:56:29+00:00",
-      "category": "Economy"
+      "url": "https://www.dabangasudan.org/en/all-news/article/drone-strike-on-el-obeid-shelter-kills-boy-wounds-12-children",
+      "published_date": "2026-10-02T14:54:24+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Hunger, malnutrition and fuel shortages compound Sudan’s humanitarian crisis",
