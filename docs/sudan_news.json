@@ -1,7 +1,7 @@
 {
   "country": "Sudan",
-  "last_updated": "2026-10-04T15:34:25.670688+00:00",
-  "story_count": 8,
+  "last_updated": "2026-10-05T01:24:55.795019+00:00",
+  "story_count": 14,
   "stories": [
     {
       "title": "Sudan foreign minister attacks external intervention at UN",
@@ -11,6 +11,34 @@
       "category": "Diplomacy"
     },
     {
+      "title": "Sudan Doctors Network: Four civilians killed in RSF drone attacks on South Kordofan",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/sudan-doctors-network-four-civilians-killed-in-rsf-drone-attacks-on-south-kordofan",
+      "published_date": "2026-10-04T12:19:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Hailstorms destroy 3,750 farms in South Darfur",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/hailstorms-destroy-3750-farms-in-south-darfur",
+      "published_date": "2026-10-04T12:05:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Sudan war: fighting on Ethiopian border, drone attacks on Ed Damazin",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/sudan-war-fighting-on-ethiopian-border-drone-attacks-on-ed-damazin",
+      "published_date": "2026-10-04T11:00:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ethiopian federal forces control Tigray capital as regional rivals meet in Egypt",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/africa/20261004-ethiopian-federal-forces-control-tigray-capital-as-regional-rivals-meet-in-egypt",
+      "published_date": "2026-10-04T10:22:43+00:00",
+      "category": "Military"
+    },
+    {
       "title": "Ethiopia back to civil war? Horn of Africa fears spillover effect of renewed fighting",
       "source": "France 24",
       "url": "https://www.france24.com/en/tv-shows/the-debate/20260930-ethiopia-back-to-civil-war-horn-of-africa-fears-spillover-effect-of-renewed-fighting",
@@ -18,11 +46,25 @@
       "category": "Military"
     },
     {
-      "title": "Ethiopia accuses Eritrea, Sudan of backing Tigray rebels amid clashes",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/africa/20260927-ethiopia-accuses-eritrea-sudan-backing-tigray-rebels",
-      "published_date": "2026-09-27T23:27:29+00:00",
-      "category": "Military"
+      "title": "مسؤول: الدعم السريع تحتجز (32) شاحنة مساعدات في شمال دارفور",
+      "source": "Sudan Tribune",
+      "url": "https://sudantribune.net/article/319610",
+      "published_date": "2026-10-04T16:06:37+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Sudan: Driver killed as UN WFP aid trucks strafed in South Kordofan",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/sudan-driver-killed-as-un-wfp-aid-trucks-strafed-in-south-kordofan",
+      "published_date": "2026-10-04T12:49:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "North Darfur: Aid needs mount as 1,400 displaced reach Tawila in five days",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/north-darfur-aid-needs-mount-as-1400-displaced-reach-tawila-in-five-days",
+      "published_date": "2026-10-04T18:24:20+00:00",
+      "category": "Local Events"
     },
     {
       "title": "‘Drone strike on El Obeid shelter kills boy, wounds 12 children’",
