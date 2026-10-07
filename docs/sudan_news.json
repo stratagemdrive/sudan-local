@@ -1,8 +1,29 @@
 {
   "country": "Sudan",
-  "last_updated": "2026-10-07T01:54:11.835775+00:00",
-  "story_count": 14,
+  "last_updated": "2026-10-07T17:36:30.970274+00:00",
+  "story_count": 17,
   "stories": [
+    {
+      "title": "Sudan war: Four women killed in drone strikes on Ed Damazin, Blue Nile",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/sudan-war-four-women-killed-in-drone-strikes-on-ed-damazin-blue-nile",
+      "published_date": "2026-10-07T13:38:05+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "World Teachers’ Day: Sudanese educators call for housing and better support",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/world-teachers-day-sudanese-educators-call-for-housing-and-better-support",
+      "published_date": "2026-10-07T10:40:51+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Sudan war: Child among four slain by North Kordofan gunfire, rights monitor says",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/sudan-war-child-among-four-slain-by-north-kordofan-gunfire-rights-monitor-says",
+      "published_date": "2026-10-07T10:30:00+00:00",
+      "category": "Military"
+    },
     {
       "title": "The only place left is the moon: A Sudanese journey through a world of closed borders",
       "source": "The New Humanitarian",
