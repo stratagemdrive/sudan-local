@@ -1,7 +1,7 @@
 {
   "country": "Sudan",
-  "last_updated": "2026-10-08T02:22:09.018985+00:00",
-  "story_count": 16,
+  "last_updated": "2026-10-08T17:39:29.528298+00:00",
+  "story_count": 15,
   "stories": [
     {
       "title": "Sudan war: Four women killed in drone strikes on Ed Damazin, Blue Nile",
@@ -88,6 +88,13 @@
       "category": "Economy"
     },
     {
+      "title": "WHO warns ‘critical’ health needs in Darfur far exceed available resources",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/who-warns-critical-health-needs-in-darfur-far-exceed-available-resources",
+      "published_date": "2026-10-08T08:48:00+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "North Darfur: Aid needs mount as 1,400 displaced reach Tawila in five days",
       "source": "Dabanga",
       "url": "https://www.dabangasudan.org/en/all-news/article/north-darfur-aid-needs-mount-as-1400-displaced-reach-tawila-in-five-days",
@@ -99,20 +106,6 @@
       "source": "Dabanga",
       "url": "https://www.dabangasudan.org/en/all-news/article/drone-strike-on-el-obeid-shelter-kills-boy-wounds-12-children",
       "published_date": "2026-10-02T14:54:24+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hunger, malnutrition and fuel shortages compound Sudan’s humanitarian crisis",
-      "source": "Dabanga",
-      "url": "https://www.dabangasudan.org/en/all-news/article/hunger-malnutrition-and-fuel-shortages-compound-sudans-humanitarian-crisis",
-      "published_date": "2026-10-01T16:14:20+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Women’s groups report widespread sexual violence and detention across Sudan",
-      "source": "Dabanga",
-      "url": "https://www.dabangasudan.org/en/all-news/article/womens-groups-report-widespread-sexual-violence-and-detention-across-sudan",
-      "published_date": "2026-10-01T14:53:24+00:00",
       "category": "Local Events"
     }
   ]
