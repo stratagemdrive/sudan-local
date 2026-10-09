@@ -1,8 +1,15 @@
 {
   "country": "Sudan",
-  "last_updated": "2026-10-09T02:39:38.560926+00:00",
+  "last_updated": "2026-10-09T17:14:51.295582+00:00",
   "story_count": 16,
   "stories": [
+    {
+      "title": "Drone strikes and deadly explosions kill scores of civilians across Sudan",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/drone-strikes-and-deadly-explosions-kill-scores-of-civilians-across-sudan",
+      "published_date": "2026-10-09T16:49:50+00:00",
+      "category": "Military"
+    },
     {
       "title": "Sudan war: Four women killed in drone strikes on Ed Damazin, Blue Nile",
       "source": "Dabanga",
@@ -106,13 +113,6 @@
       "source": "Dabanga",
       "url": "https://www.dabangasudan.org/en/all-news/article/north-darfur-aid-needs-mount-as-1400-displaced-reach-tawila-in-five-days",
       "published_date": "2026-10-04T18:24:20+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘Drone strike on El Obeid shelter kills boy, wounds 12 children’",
-      "source": "Dabanga",
-      "url": "https://www.dabangasudan.org/en/all-news/article/drone-strike-on-el-obeid-shelter-kills-boy-wounds-12-children",
-      "published_date": "2026-10-02T14:54:24+00:00",
       "category": "Local Events"
     }
   ]
