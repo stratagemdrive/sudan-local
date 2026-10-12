@@ -1,8 +1,22 @@
 {
   "country": "Sudan",
-  "last_updated": "2026-10-12T01:55:07.780945+00:00",
-  "story_count": 9,
+  "last_updated": "2026-10-12T20:03:14.902814+00:00",
+  "story_count": 13,
   "stories": [
+    {
+      "title": "Sudanese anti-war forces present peace roadmap to regional and international mediators",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/sudanese-anti-war-forces-present-peace-roadmap-to-regional-and-international-mediators",
+      "published_date": "2026-10-12T17:26:19+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "El Burhan orders investigation into deaths of Sudanese miners near Egyptian border",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/el-burhan-orders-investigation-into-deaths-of-sudanese-miners-near-egyptian-border",
+      "published_date": "2026-10-12T17:21:52+00:00",
+      "category": "Military"
+    },
     {
       "title": "Airstrikes kill dozens of gold miners on Egypt-Sudan border, rights group says",
       "source": "France 24",
@@ -58,6 +72,20 @@
       "url": "https://www.dabangasudan.org/en/all-news/article/sudan-aid-convoy-attack-draws-widespread-condemnation",
       "published_date": "2026-10-06T07:27:00+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "Sudanese refugee killed as fire destroys shelters in eastern Chad",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/sudanese-refugee-killed-as-fire-destroys-shelters-in-eastern-chad",
+      "published_date": "2026-10-12T17:31:55+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Malnutrition deaths reach 1,852 in areas controlled by SLM-AW",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/malnutrition-deaths-reach-1852-in-areas-controlled-by-slm-aw",
+      "published_date": "2026-10-12T17:29:17+00:00",
+      "category": "Local Events"
     },
     {
       "title": "WHO warns ‘critical’ health needs in Darfur far exceed available resources",
