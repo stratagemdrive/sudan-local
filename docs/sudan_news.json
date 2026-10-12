@@ -1,8 +1,15 @@
 {
   "country": "Sudan",
-  "last_updated": "2026-10-11T16:27:35.514674+00:00",
-  "story_count": 10,
+  "last_updated": "2026-10-12T01:55:07.780945+00:00",
+  "story_count": 9,
   "stories": [
+    {
+      "title": "Airstrikes kill dozens of gold miners on Egypt-Sudan border, rights group says",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/africa/20261012-egypt-sudan-border-airstrikes-gold-miners-killed",
+      "published_date": "2026-10-12T01:28:27+00:00",
+      "category": "Military"
+    },
     {
       "title": "Drone strikes and deadly explosions kill scores of civilians across Sudan",
       "source": "Dabanga",
@@ -39,13 +46,6 @@
       "category": "Military"
     },
     {
-      "title": "Amnesty researcher: ‘Sudan’s children face recruitment, sexual violence, and lasting trauma’",
-      "source": "Dabanga",
-      "url": "https://www.dabangasudan.org/en/all-news/article/amnesty-researcher-sudans-children-face-recruitment-sexual-violence-and-lasting-trauma",
-      "published_date": "2026-10-05T01:49:32+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Rising food prices and poor rains fuel fears of hunger crisis in Darfur",
       "source": "Dabanga",
       "url": "https://www.dabangasudan.org/en/all-news/article/rising-food-prices-and-poor-rains-fuel-fears-of-hunger-crisis-in-darfur",
@@ -64,13 +64,6 @@
       "source": "Dabanga",
       "url": "https://www.dabangasudan.org/en/all-news/article/who-warns-critical-health-needs-in-darfur-far-exceed-available-resources",
       "published_date": "2026-10-08T08:48:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "North Darfur: Aid needs mount as 1,400 displaced reach Tawila in five days",
-      "source": "Dabanga",
-      "url": "https://www.dabangasudan.org/en/all-news/article/north-darfur-aid-needs-mount-as-1400-displaced-reach-tawila-in-five-days",
-      "published_date": "2026-10-04T18:24:20+00:00",
       "category": "Local Events"
     }
   ]
