@@ -1,8 +1,22 @@
 {
   "country": "Sudan",
-  "last_updated": "2026-10-13T03:16:30.310051+00:00",
+  "last_updated": "2026-10-13T17:51:45.426141+00:00",
   "story_count": 13,
   "stories": [
+    {
+      "title": "Two Egyptians killed in Khartoum as Sudan probes deadly strikes on miners by Egyptian forces",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/two-egyptians-killed-in-khartoum-as-sudan-probes-deadly-strikes-on-miners-by-egyptian-forces",
+      "published_date": "2026-10-13T17:43:37+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "As South Sudan plans for elections, a town counts the cost of war",
+      "source": "The New Humanitarian",
+      "url": "https://www.thenewhumanitarian.org/news-feature/2026/10/13/south-sudan-plans-elections-town-counts-cost-war",
+      "published_date": "2026-10-13T09:16:03+00:00",
+      "category": "Military"
+    },
     {
       "title": "Sudanese anti-war forces present peace roadmap to regional and international mediators",
       "source": "Dabanga",
@@ -53,24 +67,10 @@
       "category": "Military"
     },
     {
-      "title": "The only place left is the moon: A Sudanese journey through a world of closed borders",
-      "source": "The New Humanitarian",
-      "url": "https://www.thenewhumanitarian.org/opinion/first-person/2026/10/06/only-place-left-moon-sudanese-journey-through-world-closed-borders",
-      "published_date": "2026-10-06T11:53:28+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Rising food prices and poor rains fuel fears of hunger crisis in Darfur",
       "source": "Dabanga",
       "url": "https://www.dabangasudan.org/en/all-news/article/rising-food-prices-and-poor-rains-fuel-fears-of-hunger-crisis-in-darfur",
       "published_date": "2026-10-08T17:55:17+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Sudan WFP aid convoy attack draws widespread condemnation",
-      "source": "Dabanga",
-      "url": "https://www.dabangasudan.org/en/all-news/article/sudan-aid-convoy-attack-draws-widespread-condemnation",
-      "published_date": "2026-10-06T07:27:00+00:00",
       "category": "Economy"
     },
     {
