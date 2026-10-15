@@ -1,14 +1,28 @@
 {
   "country": "Sudan",
-  "last_updated": "2026-10-15T01:06:20.481423+00:00",
-  "story_count": 11,
+  "last_updated": "2026-10-15T15:24:33.441536+00:00",
+  "story_count": 13,
   "stories": [
+    {
+      "title": "UN and Switzerland plan Sudan peace talks as US lawmaker proposes resource partnership",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/un-and-switzerland-plan-sudan-peace-talks-as-us-lawmaker-proposes-resource-partnership",
+      "published_date": "2026-10-15T15:24:18+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "STPT: ‘Sudan’s warring parties bypass sanctions through business networks’",
       "source": "Dabanga",
       "url": "https://www.dabangasudan.org/en/all-news/article/stpt-sudans-warring-parties-bypass-sanctions-through-business-networks",
       "published_date": "2026-10-13T18:19:17+00:00",
       "category": "Diplomacy"
+    },
+    {
+      "title": "Drone attack kills two in North Darfur as Red Crescent volunteer killed in Blue Nile",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/drone-attack-kills-two-in-north-darfur-as-red-crescent-volunteer-killed-in-blue-nile",
+      "published_date": "2026-10-15T15:18:06+00:00",
+      "category": "Military"
     },
     {
       "title": "Two Egyptians killed in Khartoum as Sudan probes deadly strikes on miners by Egyptian forces",
@@ -60,6 +74,13 @@
       "category": "Economy"
     },
     {
+      "title": "Minawi urges restraint as fallout from deadly Sudan-Egypt border strikes widens",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/minawi-urges-restraint-as-fallout-from-deadly-sudan-egypt-border-strikes-widens",
+      "published_date": "2026-10-15T15:13:35+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Sudanese refugee killed as fire destroys shelters in eastern Chad",
       "source": "Dabanga",
       "url": "https://www.dabangasudan.org/en/all-news/article/sudanese-refugee-killed-as-fire-destroys-shelters-in-eastern-chad",
@@ -71,13 +92,6 @@
       "source": "Dabanga",
       "url": "https://www.dabangasudan.org/en/all-news/article/malnutrition-deaths-reach-1852-in-areas-controlled-by-slm-aw",
       "published_date": "2026-10-12T17:29:17+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "WHO warns ‘critical’ health needs in Darfur far exceed available resources",
-      "source": "Dabanga",
-      "url": "https://www.dabangasudan.org/en/all-news/article/who-warns-critical-health-needs-in-darfur-far-exceed-available-resources",
-      "published_date": "2026-10-08T08:48:00+00:00",
       "category": "Local Events"
     }
   ]
