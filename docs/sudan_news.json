@@ -1,7 +1,7 @@
 {
   "country": "Sudan",
-  "last_updated": "2026-10-16T15:04:14.036471+00:00",
-  "story_count": 12,
+  "last_updated": "2026-10-17T00:53:59.883595+00:00",
+  "story_count": 13,
   "stories": [
     {
       "title": "UN and Switzerland plan Sudan peace talks as US lawmaker proposes resource partnership",
@@ -16,6 +16,13 @@
       "url": "https://www.dabangasudan.org/en/all-news/article/stpt-sudans-warring-parties-bypass-sanctions-through-business-networks",
       "published_date": "2026-10-13T18:19:17+00:00",
       "category": "Diplomacy"
+    },
+    {
+      "title": "Red Cross maintains ‘confidential dialogue’ with Sudan conflict parties to visit detainees",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/red-cross-maintains-confidential-dialogue-with-sudan-conflict-parties-to-visit-detainees",
+      "published_date": "2026-10-16T17:25:01+00:00",
+      "category": "Military"
     },
     {
       "title": "Drone attack kills two in North Darfur as Red Crescent volunteer killed in Blue Nile",
@@ -60,11 +67,11 @@
       "category": "Military"
     },
     {
-      "title": "Drone strikes and deadly explosions kill scores of civilians across Sudan",
+      "title": "Blue Nile initiative condemns arbitrary arrests targeting civilians over alleged family ties",
       "source": "Dabanga",
-      "url": "https://www.dabangasudan.org/en/all-news/article/drone-strikes-and-deadly-explosions-kill-scores-of-civilians-across-sudan",
-      "published_date": "2026-10-09T16:49:50+00:00",
-      "category": "Military"
+      "url": "https://www.dabangasudan.org/en/all-news/article/blue-nile-initiative-condemns-arbitrary-arrests-targeting-civilians-over-alleged-family-ties",
+      "published_date": "2026-10-16T17:36:14+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Minawi urges restraint as fallout from deadly Sudan-Egypt border strikes widens",
