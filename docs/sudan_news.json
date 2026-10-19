@@ -1,7 +1,7 @@
 {
   "country": "Sudan",
-  "last_updated": "2026-10-18T14:12:22.041085+00:00",
-  "story_count": 13,
+  "last_updated": "2026-10-19T00:36:48.987288+00:00",
+  "story_count": 14,
   "stories": [
     {
       "title": "UN and Switzerland plan Sudan peace talks as US lawmaker proposes resource partnership",
@@ -16,6 +16,13 @@
       "url": "https://www.dabangasudan.org/en/all-news/article/stpt-sudans-warring-parties-bypass-sanctions-through-business-networks",
       "published_date": "2026-10-13T18:19:17+00:00",
       "category": "Diplomacy"
+    },
+    {
+      "title": "Drone strikes kill civilians in Darfur and Kordofan as attacks target eastern Sudan",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/drone-strikes-kill-civilians-in-darfur-and-kordofan-as-attacks-target-eastern-sudan",
+      "published_date": "2026-10-18T18:03:52+00:00",
+      "category": "Military"
     },
     {
       "title": "Red Cross maintains ‘confidential dialogue’ with Sudan conflict parties to visit detainees",
