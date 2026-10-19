@@ -1,6 +1,6 @@
 {
   "country": "Sudan",
-  "last_updated": "2026-10-19T00:36:48.987288+00:00",
+  "last_updated": "2026-10-19T17:15:53.754619+00:00",
   "story_count": 14,
   "stories": [
     {
@@ -16,6 +16,13 @@
       "url": "https://www.dabangasudan.org/en/all-news/article/stpt-sudans-warring-parties-bypass-sanctions-through-business-networks",
       "published_date": "2026-10-13T18:19:17+00:00",
       "category": "Diplomacy"
+    },
+    {
+      "title": "Drone attacks kill scores in Sudan's West Kordofan state and capital Khartoum",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/africa/20261019-drone-attack-near-southern-sudan-market-kills-scores",
+      "published_date": "2026-10-19T14:00:04+00:00",
+      "category": "Military"
     },
     {
       "title": "Drone strikes kill civilians in Darfur and Kordofan as attacks target eastern Sudan",
@@ -64,13 +71,6 @@
       "source": "Dabanga",
       "url": "https://www.dabangasudan.org/en/all-news/article/el-burhan-orders-investigation-into-deaths-of-sudanese-miners-near-egyptian-border",
       "published_date": "2026-10-12T17:21:52+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Airstrikes kill dozens of gold miners on Egypt-Sudan border, rights group says",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/africa/20261012-egypt-sudan-border-airstrikes-gold-miners-killed",
-      "published_date": "2026-10-12T01:28:27+00:00",
       "category": "Military"
     },
     {
