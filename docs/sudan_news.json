@@ -1,7 +1,7 @@
 {
   "country": "Sudan",
-  "last_updated": "2026-10-19T17:15:53.754619+00:00",
-  "story_count": 14,
+  "last_updated": "2026-10-20T01:21:39.342799+00:00",
+  "story_count": 10,
   "stories": [
     {
       "title": "UN and Switzerland plan Sudan peace talks as US lawmaker proposes resource partnership",
@@ -60,20 +60,6 @@
       "category": "Military"
     },
     {
-      "title": "Sudanese anti-war forces present peace roadmap to regional and international mediators",
-      "source": "Dabanga",
-      "url": "https://www.dabangasudan.org/en/all-news/article/sudanese-anti-war-forces-present-peace-roadmap-to-regional-and-international-mediators",
-      "published_date": "2026-10-12T17:26:19+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "El Burhan orders investigation into deaths of Sudanese miners near Egyptian border",
-      "source": "Dabanga",
-      "url": "https://www.dabangasudan.org/en/all-news/article/el-burhan-orders-investigation-into-deaths-of-sudanese-miners-near-egyptian-border",
-      "published_date": "2026-10-12T17:21:52+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Blue Nile initiative condemns arbitrary arrests targeting civilians over alleged family ties",
       "source": "Dabanga",
       "url": "https://www.dabangasudan.org/en/all-news/article/blue-nile-initiative-condemns-arbitrary-arrests-targeting-civilians-over-alleged-family-ties",
@@ -85,20 +71,6 @@
       "source": "Dabanga",
       "url": "https://www.dabangasudan.org/en/all-news/article/minawi-urges-restraint-as-fallout-from-deadly-sudan-egypt-border-strikes-widens",
       "published_date": "2026-10-15T15:13:35+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sudanese refugee killed as fire destroys shelters in eastern Chad",
-      "source": "Dabanga",
-      "url": "https://www.dabangasudan.org/en/all-news/article/sudanese-refugee-killed-as-fire-destroys-shelters-in-eastern-chad",
-      "published_date": "2026-10-12T17:31:55+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Malnutrition deaths reach 1,852 in areas controlled by SLM-AW",
-      "source": "Dabanga",
-      "url": "https://www.dabangasudan.org/en/all-news/article/malnutrition-deaths-reach-1852-in-areas-controlled-by-slm-aw",
-      "published_date": "2026-10-12T17:29:17+00:00",
       "category": "Local Events"
     }
   ]
