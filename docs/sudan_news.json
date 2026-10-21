@@ -1,7 +1,7 @@
 {
   "country": "Sudan",
-  "last_updated": "2026-10-21T01:08:25.944910+00:00",
-  "story_count": 12,
+  "last_updated": "2026-10-21T15:45:01.583852+00:00",
+  "story_count": 13,
   "stories": [
     {
       "title": "UN condemns deadly drone strikes on Sudan civilians",
@@ -16,6 +16,13 @@
       "url": "https://www.dabangasudan.org/en/all-news/article/un-and-switzerland-plan-sudan-peace-talks-as-us-lawmaker-proposes-resource-partnership",
       "published_date": "2026-10-15T15:24:18+00:00",
       "category": "Diplomacy"
+    },
+    {
+      "title": "Sudan war: ‘Many still missing’ as Abyei market drone strike toll rises",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/sudan-war-many-still-missing-as-abyei-market-drone-strike-toll-rises",
+      "published_date": "2026-10-21T08:00:00+00:00",
+      "category": "Military"
     },
     {
       "title": "More than 150 killed in Sudan drone strike on disputed Abyei border region",
