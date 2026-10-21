@@ -1,7 +1,7 @@
 {
   "country": "Sudan",
-  "last_updated": "2026-10-20T15:28:57.445757+00:00",
-  "story_count": 13,
+  "last_updated": "2026-10-21T01:08:25.944910+00:00",
+  "story_count": 12,
   "stories": [
     {
       "title": "UN condemns deadly drone strikes on Sudan civilians",
@@ -18,11 +18,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "STPT: ‘Sudan’s warring parties bypass sanctions through business networks’",
-      "source": "Dabanga",
-      "url": "https://www.dabangasudan.org/en/all-news/article/stpt-sudans-warring-parties-bypass-sanctions-through-business-networks",
-      "published_date": "2026-10-13T18:19:17+00:00",
-      "category": "Diplomacy"
+      "title": "More than 150 killed in Sudan drone strike on disputed Abyei border region",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/africa/20261020-more-than-150-killed-sudan-drone-strike-disputed-abyei-border-region",
+      "published_date": "2026-10-20T16:24:47+00:00",
+      "category": "Military"
     },
     {
       "title": "Drone attacks kill scores in Sudan's West Kordofan state and capital Khartoum",
@@ -50,13 +50,6 @@
       "source": "Dabanga",
       "url": "https://www.dabangasudan.org/en/all-news/article/drone-attack-kills-two-in-north-darfur-as-red-crescent-volunteer-killed-in-blue-nile",
       "published_date": "2026-10-15T15:18:06+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Two Egyptians killed in Khartoum as Sudan probes deadly strikes on miners by Egyptian forces",
-      "source": "Dabanga",
-      "url": "https://www.dabangasudan.org/en/all-news/article/two-egyptians-killed-in-khartoum-as-sudan-probes-deadly-strikes-on-miners-by-egyptian-forces",
-      "published_date": "2026-10-13T17:43:37+00:00",
       "category": "Military"
     },
     {
