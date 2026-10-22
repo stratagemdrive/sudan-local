@@ -1,20 +1,20 @@
 {
   "country": "Sudan",
-  "last_updated": "2026-10-22T01:05:28.061334+00:00",
-  "story_count": 16,
+  "last_updated": "2026-10-22T15:44:20.899770+00:00",
+  "story_count": 14,
   "stories": [
+    {
+      "title": "Sudan's war escalates as UN warns of wider regional crisis",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/eye-on-africa/20261021-sudan-s-war-escalates-as-un-warns-of-wider-regional-crisis",
+      "published_date": "2026-10-21T22:41:43+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "UN condemns deadly drone strikes on Sudan civilians",
       "source": "Dabanga",
       "url": "https://www.dabangasudan.org/en/all-news/article/un-condemns-deadly-drone-strikes-on-sudan-civilians",
       "published_date": "2026-10-20T14:00:17+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "UN and Switzerland plan Sudan peace talks as US lawmaker proposes resource partnership",
-      "source": "Dabanga",
-      "url": "https://www.dabangasudan.org/en/all-news/article/un-and-switzerland-plan-sudan-peace-talks-as-us-lawmaker-proposes-resource-partnership",
-      "published_date": "2026-10-15T15:24:18+00:00",
       "category": "Diplomacy"
     },
     {
@@ -67,13 +67,6 @@
       "category": "Military"
     },
     {
-      "title": "Drone attack kills two in North Darfur as Red Crescent volunteer killed in Blue Nile",
-      "source": "Dabanga",
-      "url": "https://www.dabangasudan.org/en/all-news/article/drone-attack-kills-two-in-north-darfur-as-red-crescent-volunteer-killed-in-blue-nile",
-      "published_date": "2026-10-15T15:18:06+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Khartoum airport under drone fire as safety concerns mount",
       "source": "Dabanga",
       "url": "https://www.dabangasudan.org/en/all-news/article/khartoum-airport-under-drone-fire-as-safety-concerns-mount",
@@ -106,13 +99,6 @@
       "source": "Dabanga",
       "url": "https://www.dabangasudan.org/en/all-news/article/blue-nile-initiative-condemns-arbitrary-arrests-targeting-civilians-over-alleged-family-ties",
       "published_date": "2026-10-16T17:36:14+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Minawi urges restraint as fallout from deadly Sudan-Egypt border strikes widens",
-      "source": "Dabanga",
-      "url": "https://www.dabangasudan.org/en/all-news/article/minawi-urges-restraint-as-fallout-from-deadly-sudan-egypt-border-strikes-widens",
-      "published_date": "2026-10-15T15:13:35+00:00",
       "category": "Local Events"
     }
   ]
