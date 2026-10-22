@@ -1,7 +1,7 @@
 {
   "country": "Sudan",
-  "last_updated": "2026-10-21T15:45:01.583852+00:00",
-  "story_count": 13,
+  "last_updated": "2026-10-22T01:05:28.061334+00:00",
+  "story_count": 16,
   "stories": [
     {
       "title": "UN condemns deadly drone strikes on Sudan civilians",
@@ -16,6 +16,20 @@
       "url": "https://www.dabangasudan.org/en/all-news/article/un-and-switzerland-plan-sudan-peace-talks-as-us-lawmaker-proposes-resource-partnership",
       "published_date": "2026-10-15T15:24:18+00:00",
       "category": "Diplomacy"
+    },
+    {
+      "title": "'Neither the Sudanese military, nor the RSF take any acknowledgement of human life in this war'",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/neither-the-sudanese-military-nor-the-rsf-take-any-acknowledgement-of-human-life-in-this-war",
+      "published_date": "2026-10-21T19:28:21+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Sudan Founding Alliance ‘Tasees’ claims 21 civilians killed in West Kordofan airstrikes",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/sudan-founding-alliance-tasees-claims-21-civilians-killed-in-west-kordofan-airstrikes",
+      "published_date": "2026-10-21T17:51:33+00:00",
+      "category": "Military"
     },
     {
       "title": "Sudan war: ‘Many still missing’ as Abyei market drone strike toll rises",
@@ -58,6 +72,13 @@
       "url": "https://www.dabangasudan.org/en/all-news/article/drone-attack-kills-two-in-north-darfur-as-red-crescent-volunteer-killed-in-blue-nile",
       "published_date": "2026-10-15T15:18:06+00:00",
       "category": "Military"
+    },
+    {
+      "title": "Khartoum airport under drone fire as safety concerns mount",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/khartoum-airport-under-drone-fire-as-safety-concerns-mount",
+      "published_date": "2026-10-21T09:00:00+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Severe bread shortage hits Sudan capital as flour supplies dwindle",
