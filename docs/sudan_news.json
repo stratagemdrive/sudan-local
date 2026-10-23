@@ -1,8 +1,22 @@
 {
   "country": "Sudan",
-  "last_updated": "2026-10-22T15:44:20.899770+00:00",
-  "story_count": 14,
+  "last_updated": "2026-10-23T01:06:21.471693+00:00",
+  "story_count": 19,
   "stories": [
+    {
+      "title": "Emirati diplomat could become next UN chief despite human rights concerns",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/americas/20261022-emirati-diplomat-could-become-next-un-chief-despite-human-rights-concerns-uae-sudan-un-secretary-general-lana-nusseibeh",
+      "published_date": "2026-10-22T21:18:37+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "African Union condemns deadly drone strikes in Sudan, Abyei",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/african-union-condemns-deadly-drone-strikes-in-sudan-abyei",
+      "published_date": "2026-10-22T19:48:00+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Sudan's war escalates as UN warns of wider regional crisis",
       "source": "France 24",
@@ -65,6 +79,27 @@
       "url": "https://www.dabangasudan.org/en/all-news/article/red-cross-maintains-confidential-dialogue-with-sudan-conflict-parties-to-visit-detainees",
       "published_date": "2026-10-16T17:25:01+00:00",
       "category": "Military"
+    },
+    {
+      "title": "Sudan lifts ban on 46 imports as inflation rises and Dollar hits SDG 10,300",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/sudan-lifts-ban-on-46-imports-as-inflation-rises-and-dollar-hits-sdg-10300",
+      "published_date": "2026-10-22T18:29:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Sudan hunger crisis deepens as aid cuts collide with crop failure in Darfur",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/sudan-hunger-crisis-deepens-as-aid-cuts-collide-with-crop-failure-in-darfur",
+      "published_date": "2026-10-22T17:17:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Sudanese rights group warns of torture fears after arrests in Blue Nile",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/sudanese-rights-group-warns-of-torture-fears-after-arrests-in-blue-nile",
+      "published_date": "2026-10-22T08:53:00+00:00",
+      "category": "Economy"
     },
     {
       "title": "Khartoum airport under drone fire as safety concerns mount",
