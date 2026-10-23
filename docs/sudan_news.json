@@ -1,7 +1,7 @@
 {
   "country": "Sudan",
-  "last_updated": "2026-10-23T01:06:21.471693+00:00",
-  "story_count": 19,
+  "last_updated": "2026-10-23T15:32:28.000605+00:00",
+  "story_count": 20,
   "stories": [
     {
       "title": "Emirati diplomat could become next UN chief despite human rights concerns",
@@ -30,6 +30,13 @@
       "url": "https://www.dabangasudan.org/en/all-news/article/un-condemns-deadly-drone-strikes-on-sudan-civilians",
       "published_date": "2026-10-20T14:00:17+00:00",
       "category": "Diplomacy"
+    },
+    {
+      "title": "El Fasher’s dark anniversary, a worsening siege in Yemen, and protests in Paris: The Cheat Sheet",
+      "source": "The New Humanitarian",
+      "url": "https://www.thenewhumanitarian.org/news/2026/10/23/el-fashers-siege-yemen-protests-paris-cheat-sheet",
+      "published_date": "2026-10-23T15:24:58+00:00",
+      "category": "Military"
     },
     {
       "title": "'Neither the Sudanese military, nor the RSF take any acknowledgement of human life in this war'",
