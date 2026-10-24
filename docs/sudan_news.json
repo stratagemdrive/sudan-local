@@ -1,7 +1,7 @@
 {
   "country": "Sudan",
-  "last_updated": "2026-10-23T15:32:28.000605+00:00",
-  "story_count": 20,
+  "last_updated": "2026-10-24T01:14:41.597112+00:00",
+  "story_count": 18,
   "stories": [
     {
       "title": "Emirati diplomat could become next UN chief despite human rights concerns",
@@ -81,13 +81,6 @@
       "category": "Military"
     },
     {
-      "title": "Red Cross maintains ‘confidential dialogue’ with Sudan conflict parties to visit detainees",
-      "source": "Dabanga",
-      "url": "https://www.dabangasudan.org/en/all-news/article/red-cross-maintains-confidential-dialogue-with-sudan-conflict-parties-to-visit-detainees",
-      "published_date": "2026-10-16T17:25:01+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Sudan lifts ban on 46 imports as inflation rises and Dollar hits SDG 10,300",
       "source": "Dabanga",
       "url": "https://www.dabangasudan.org/en/all-news/article/sudan-lifts-ban-on-46-imports-as-inflation-rises-and-dollar-hits-sdg-10300",
@@ -134,13 +127,6 @@
       "source": "Dabanga",
       "url": "https://www.dabangasudan.org/en/all-news/article/sudan-war-drones-rain-death-on-khartoum-darfur-kordofan-blue-nile",
       "published_date": "2026-10-20T11:23:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Blue Nile initiative condemns arbitrary arrests targeting civilians over alleged family ties",
-      "source": "Dabanga",
-      "url": "https://www.dabangasudan.org/en/all-news/article/blue-nile-initiative-condemns-arbitrary-arrests-targeting-civilians-over-alleged-family-ties",
-      "published_date": "2026-10-16T17:36:14+00:00",
       "category": "Local Events"
     }
   ]
