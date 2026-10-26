@@ -1,6 +1,6 @@
 {
   "country": "Sudan",
-  "last_updated": "2026-10-26T00:52:06.255877+00:00",
+  "last_updated": "2026-10-26T17:03:51.796311+00:00",
   "story_count": 23,
   "stories": [
     {
@@ -37,6 +37,13 @@
       "url": "https://www.dabangasudan.org/en/all-news/article/un-condemns-deadly-drone-strikes-on-sudan-civilians",
       "published_date": "2026-10-20T14:00:17+00:00",
       "category": "Diplomacy"
+    },
+    {
+      "title": "Remembering El Fasher, the city I knew and the atrocities that changed it",
+      "source": "The New Humanitarian",
+      "url": "https://www.thenewhumanitarian.org/opinion/first-person/2026/10/26/remembering-el-fasher-the-city-i-knew-atrocities-changed-it",
+      "published_date": "2026-10-26T14:11:24+00:00",
+      "category": "Military"
     },
     {
       "title": "UN human rights chief: ‘Sudan drone strikes killed 306 in three weeks’",
@@ -85,13 +92,6 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/africa/20261020-more-than-150-killed-sudan-drone-strike-disputed-abyei-border-region",
       "published_date": "2026-10-20T16:24:47+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Drone attacks kill scores in Sudan's West Kordofan state and capital Khartoum",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/africa/20261019-drone-attack-near-southern-sudan-market-kills-scores",
-      "published_date": "2026-10-19T14:00:04+00:00",
       "category": "Military"
     },
     {
