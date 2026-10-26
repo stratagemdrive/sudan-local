@@ -1,8 +1,15 @@
 {
   "country": "Sudan",
-  "last_updated": "2026-10-25T14:41:33.386221+00:00",
-  "story_count": 18,
+  "last_updated": "2026-10-26T00:52:06.255877+00:00",
+  "story_count": 23,
   "stories": [
+    {
+      "title": "Rights activist: Ceasefire top priority for Sudan’s women",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/rights-activist-ceasefire-top-priority-for-sudans-women",
+      "published_date": "2026-10-25T16:15:00+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Emirati diplomat could become next UN chief despite human rights concerns",
       "source": "France 24",
@@ -30,6 +37,20 @@
       "url": "https://www.dabangasudan.org/en/all-news/article/un-condemns-deadly-drone-strikes-on-sudan-civilians",
       "published_date": "2026-10-20T14:00:17+00:00",
       "category": "Diplomacy"
+    },
+    {
+      "title": "UN human rights chief: ‘Sudan drone strikes killed 306 in three weeks’",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/un-human-rights-chief-sudan-drone-strikes-killed-306-in-three-weeks",
+      "published_date": "2026-10-25T13:44:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Intensive int’l and UN efforts to end Sudan war",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/intensive-intl-and-un-efforts-to-end-sudan-war",
+      "published_date": "2026-10-25T11:30:00+00:00",
+      "category": "Military"
     },
     {
       "title": "El Fasher’s dark anniversary, a worsening siege in Yemen, and protests in Paris: The Cheat Sheet",
@@ -74,11 +95,11 @@
       "category": "Military"
     },
     {
-      "title": "Drone strikes kill civilians in Darfur and Kordofan as attacks target eastern Sudan",
+      "title": "UK-led warning: famine risk is rising in Sudan as 19.5 million face acute hunger",
       "source": "Dabanga",
-      "url": "https://www.dabangasudan.org/en/all-news/article/drone-strikes-kill-civilians-in-darfur-and-kordofan-as-attacks-target-eastern-sudan",
-      "published_date": "2026-10-18T18:03:52+00:00",
-      "category": "Military"
+      "url": "https://www.dabangasudan.org/en/all-news/article/uk-led-warning-famine-risk-is-rising-in-sudan-as-19-5-million-face-acute-hunger",
+      "published_date": "2026-10-25T09:45:00+00:00",
+      "category": "Economy"
     },
     {
       "title": "Sudan lifts ban on 46 imports as inflation rises and Dollar hits SDG 10,300",
@@ -100,6 +121,20 @@
       "url": "https://www.dabangasudan.org/en/all-news/article/sudanese-rights-group-warns-of-torture-fears-after-arrests-in-blue-nile",
       "published_date": "2026-10-22T08:53:00+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "Sudanese journalist detained for sharing online report",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/sudanese-journalist-detained-for-sharing-online-report",
+      "published_date": "2026-10-25T15:03:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Rising flour costs deepen bread crisis in Sudan’s Blue Nile state",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/rising-flour-costs-deepen-bread-crisis-in-sudans-blue-nile-state",
+      "published_date": "2026-10-25T10:23:00+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Khartoum airport under drone fire as safety concerns mount",
