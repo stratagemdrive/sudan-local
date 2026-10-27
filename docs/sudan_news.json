@@ -1,7 +1,7 @@
 {
   "country": "Sudan",
-  "last_updated": "2026-10-26T17:03:51.796311+00:00",
-  "story_count": 23,
+  "last_updated": "2026-10-27T01:43:38.892669+00:00",
+  "story_count": 26,
   "stories": [
     {
       "title": "Rights activist: Ceasefire top priority for Sudan’s women",
@@ -37,6 +37,27 @@
       "url": "https://www.dabangasudan.org/en/all-news/article/un-condemns-deadly-drone-strikes-on-sudan-civilians",
       "published_date": "2026-10-20T14:00:17+00:00",
       "category": "Diplomacy"
+    },
+    {
+      "title": "The fall of El-Fasher, one year on",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/the-fall-of-el-fasher-one-year-on",
+      "published_date": "2026-10-26T21:26:52+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "UK sanctions Sudan commanders and pledges £15 million in aid",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/uk-sanctions-sudan-commanders-and-pledges-15-million-in-aid",
+      "published_date": "2026-10-26T17:58:54+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "‘Atrocities persist in El Fasher one year after RSF takeover’",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/atrocities-persist-in-el-fasher-one-year-after-rsf-takeover",
+      "published_date": "2026-10-26T17:40:44+00:00",
+      "category": "Military"
     },
     {
       "title": "Remembering El Fasher, the city I knew and the atrocities that changed it",
