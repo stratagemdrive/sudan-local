@@ -1,7 +1,7 @@
 {
   "country": "Sudan",
-  "last_updated": "2026-10-27T01:43:38.892669+00:00",
-  "story_count": 26,
+  "last_updated": "2026-10-27T16:06:44.589106+00:00",
+  "story_count": 25,
   "stories": [
     {
       "title": "Rights activist: Ceasefire top priority for Sudan’s women",
@@ -32,11 +32,25 @@
       "category": "Diplomacy"
     },
     {
-      "title": "UN condemns deadly drone strikes on Sudan civilians",
+      "title": "Drone strikes ‘kill 100+’ in South Darfur market as Sudan power stations targeted",
       "source": "Dabanga",
-      "url": "https://www.dabangasudan.org/en/all-news/article/un-condemns-deadly-drone-strikes-on-sudan-civilians",
-      "published_date": "2026-10-20T14:00:17+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dabangasudan.org/en/all-news/article/drone-strikes-kill-100-in-south-darfur-market-as-sudan-power-stations-targeted",
+      "published_date": "2026-10-27T14:29:43+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Sudan: One year after the fall of El-Fasher",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20261027-sudan-one-year-after-the-fall-of-el-fasher",
+      "published_date": "2026-10-27T11:46:35+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Chad hosts hundreds of thousands of Sudanese refugees as regional humanitarian crisis extends",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20261027-chad-hosts-hundreds-of-thousands-of-sudanese-refugees-as-regional-humanitarian-crisis-extends",
+      "published_date": "2026-10-27T11:13:55+00:00",
+      "category": "Military"
     },
     {
       "title": "The fall of El-Fasher, one year on",
@@ -162,27 +176,6 @@
       "source": "Dabanga",
       "url": "https://www.dabangasudan.org/en/all-news/article/khartoum-airport-under-drone-fire-as-safety-concerns-mount",
       "published_date": "2026-10-21T09:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Severe bread shortage hits Sudan capital as flour supplies dwindle",
-      "source": "Dabanga",
-      "url": "https://www.dabangasudan.org/en/all-news/article/severe-bread-shortage-hits-sudan-capital-as-flour-supplies-dwindle",
-      "published_date": "2026-10-20T14:23:08+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sudanese refugees in Gorom camp, South Sudan, struggle for water, medicines, security",
-      "source": "Dabanga",
-      "url": "https://www.dabangasudan.org/en/all-news/article/sudanese-refugees-in-gorom-camp-south-sudan-struggle-for-water-medicines-security",
-      "published_date": "2026-10-20T12:07:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sudan war: Drones rain death on Khartoum, Darfur, Kordofan, Blue Nile",
-      "source": "Dabanga",
-      "url": "https://www.dabangasudan.org/en/all-news/article/sudan-war-drones-rain-death-on-khartoum-darfur-kordofan-blue-nile",
-      "published_date": "2026-10-20T11:23:00+00:00",
       "category": "Local Events"
     }
   ]
