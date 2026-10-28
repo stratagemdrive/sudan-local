@@ -1,7 +1,7 @@
 {
   "country": "Sudan",
-  "last_updated": "2026-10-27T16:06:44.589106+00:00",
-  "story_count": 25,
+  "last_updated": "2026-10-28T01:55:22.141271+00:00",
+  "story_count": 26,
   "stories": [
     {
       "title": "Rights activist: Ceasefire top priority for Sudan’s women",
@@ -30,6 +30,13 @@
       "url": "https://www.france24.com/en/tv-shows/eye-on-africa/20261021-sudan-s-war-escalates-as-un-warns-of-wider-regional-crisis",
       "published_date": "2026-10-21T22:41:43+00:00",
       "category": "Diplomacy"
+    },
+    {
+      "title": "El Fasher massacre one year on: Sudanese human rights groups demand truth about crimes, attrocities at fall of seige",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/el-fasher-one-year-on-sudanese-human-rights-groups-demand-truth-about-crimes-attrocities-at-fall-of-seige",
+      "published_date": "2026-10-27T17:50:50+00:00",
+      "category": "Military"
     },
     {
       "title": "Drone strikes ‘kill 100+’ in South Darfur market as Sudan power stations targeted",
@@ -123,13 +130,6 @@
       "category": "Military"
     },
     {
-      "title": "More than 150 killed in Sudan drone strike on disputed Abyei border region",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/africa/20261020-more-than-150-killed-sudan-drone-strike-disputed-abyei-border-region",
-      "published_date": "2026-10-20T16:24:47+00:00",
-      "category": "Military"
-    },
-    {
       "title": "UK-led warning: famine risk is rising in Sudan as 19.5 million face acute hunger",
       "source": "Dabanga",
       "url": "https://www.dabangasudan.org/en/all-news/article/uk-led-warning-famine-risk-is-rising-in-sudan-as-19-5-million-face-acute-hunger",
@@ -156,6 +156,13 @@
       "url": "https://www.dabangasudan.org/en/all-news/article/sudanese-rights-group-warns-of-torture-fears-after-arrests-in-blue-nile",
       "published_date": "2026-10-22T08:53:00+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "Eight million children out of school in Sudan — teachers warn of looming education catastrophe",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/eight-million-children-out-of-school-in-sudan-teachers-warn-of-looming-education-catastrophe",
+      "published_date": "2026-10-27T18:20:39+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Sudanese journalist detained for sharing online report",
