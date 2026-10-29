@@ -1,7 +1,7 @@
 {
   "country": "Sudan",
-  "last_updated": "2026-10-29T02:00:20.080521+00:00",
-  "story_count": 25,
+  "last_updated": "2026-10-29T17:12:10.292524+00:00",
+  "story_count": 28,
   "stories": [
     {
       "title": "Rights activist: Ceasefire top priority for Sudan’s women",
@@ -23,6 +23,20 @@
       "url": "https://www.dabangasudan.org/en/all-news/article/african-union-condemns-deadly-drone-strikes-in-sudan-abyei",
       "published_date": "2026-10-22T19:48:00+00:00",
       "category": "Diplomacy"
+    },
+    {
+      "title": "Sudan accuses Ethiopia of launching 162 drone attacks from its territory",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/sudan-accuses-ethiopia-of-launching-162-drone-attacks-from-its-territory",
+      "published_date": "2026-10-29T15:29:25+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Sudan war: Yale report reveals El Fasher’s devastation a year after RSF takeover",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/sudan-war-yale-report-reveals-el-fashers-devastation-a-year-after-rsf-takeover",
+      "published_date": "2026-10-29T09:25:00+00:00",
+      "category": "Military"
     },
     {
       "title": "Sudan: China deploys anti-drone systems in Abyei after deadly attack",
@@ -123,6 +137,13 @@
       "category": "Military"
     },
     {
+      "title": "Experts question IMF growth forecasts for Sudan amid economic devastation",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/experts-question-imf-growth-forecasts-for-sudan-amid-economic-devastation",
+      "published_date": "2026-10-28T21:41:00+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "UK-led warning: famine risk is rising in Sudan as 19.5 million face acute hunger",
       "source": "Dabanga",
       "url": "https://www.dabangasudan.org/en/all-news/article/uk-led-warning-famine-risk-is-rising-in-sudan-as-19-5-million-face-acute-hunger",
@@ -144,11 +165,11 @@
       "category": "Economy"
     },
     {
-      "title": "Sudanese rights group warns of torture fears after arrests in Blue Nile",
+      "title": "MSF calls for stronger security measures to protect its work in Central Darfur",
       "source": "Dabanga",
-      "url": "https://www.dabangasudan.org/en/all-news/article/sudanese-rights-group-warns-of-torture-fears-after-arrests-in-blue-nile",
-      "published_date": "2026-10-22T08:53:00+00:00",
-      "category": "Economy"
+      "url": "https://www.dabangasudan.org/en/all-news/article/msf-calls-for-stronger-security-measures-to-protect-its-work-in-central-darfur",
+      "published_date": "2026-10-29T15:55:34+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Sudan war: Intense fighting in Blue Nile drives fresh displacement",
