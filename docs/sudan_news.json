@@ -1,7 +1,7 @@
 {
   "country": "Sudan",
-  "last_updated": "2026-10-28T16:53:57.478449+00:00",
-  "story_count": 26,
+  "last_updated": "2026-10-29T02:00:20.080521+00:00",
+  "story_count": 25,
   "stories": [
     {
       "title": "Rights activist: Ceasefire top priority for Sudan’s women",
@@ -25,11 +25,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Sudan's war escalates as UN warns of wider regional crisis",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/eye-on-africa/20261021-sudan-s-war-escalates-as-un-warns-of-wider-regional-crisis",
-      "published_date": "2026-10-21T22:41:43+00:00",
-      "category": "Diplomacy"
+      "title": "Sudan: China deploys anti-drone systems in Abyei after deadly attack",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/sudan-china-deploys-anti-drone-systems-in-abtei-after-deadly-attack",
+      "published_date": "2026-10-28T15:08:00+00:00",
+      "category": "Military"
     },
     {
       "title": "Tasees places South Darfur market strike toll at 188 — MSF receives 36 bodies in Nyala",
@@ -123,20 +123,6 @@
       "category": "Military"
     },
     {
-      "title": "'Neither the Sudanese military, nor the RSF take any acknowledgement of human life in this war'",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/neither-the-sudanese-military-nor-the-rsf-take-any-acknowledgement-of-human-life-in-this-war",
-      "published_date": "2026-10-21T19:28:21+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Sudan Founding Alliance ‘Tasees’ claims 21 civilians killed in West Kordofan airstrikes",
-      "source": "Dabanga",
-      "url": "https://www.dabangasudan.org/en/all-news/article/sudan-founding-alliance-tasees-claims-21-civilians-killed-in-west-kordofan-airstrikes",
-      "published_date": "2026-10-21T17:51:33+00:00",
-      "category": "Military"
-    },
-    {
       "title": "UK-led warning: famine risk is rising in Sudan as 19.5 million face acute hunger",
       "source": "Dabanga",
       "url": "https://www.dabangasudan.org/en/all-news/article/uk-led-warning-famine-risk-is-rising-in-sudan-as-19-5-million-face-acute-hunger",
@@ -163,6 +149,13 @@
       "url": "https://www.dabangasudan.org/en/all-news/article/sudanese-rights-group-warns-of-torture-fears-after-arrests-in-blue-nile",
       "published_date": "2026-10-22T08:53:00+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "Sudan war: Intense fighting in Blue Nile drives fresh displacement",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/sudan-war-intense-fighting-in-blue-nile-drives-fresh-displacement",
+      "published_date": "2026-10-28T14:30:00+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Eight million children out of school in Sudan — teachers warn of looming education catastrophe",
