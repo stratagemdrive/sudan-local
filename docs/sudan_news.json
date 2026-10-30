@@ -1,7 +1,7 @@
 {
   "country": "Sudan",
-  "last_updated": "2026-10-29T17:12:10.292524+00:00",
-  "story_count": 28,
+  "last_updated": "2026-10-30T02:16:04.742349+00:00",
+  "story_count": 25,
   "stories": [
     {
       "title": "Rights activist: Ceasefire top priority for Sudan’s women",
@@ -11,18 +11,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Emirati diplomat could become next UN chief despite human rights concerns",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/americas/20261022-emirati-diplomat-could-become-next-un-chief-despite-human-rights-concerns-uae-sudan-un-secretary-general-lana-nusseibeh",
-      "published_date": "2026-10-22T21:18:37+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "African Union condemns deadly drone strikes in Sudan, Abyei",
+      "title": "War’s scars and hope for healing: Sudanese stories through the art of Amani Azhari",
       "source": "Dabanga",
-      "url": "https://www.dabangasudan.org/en/all-news/article/african-union-condemns-deadly-drone-strikes-in-sudan-abyei",
-      "published_date": "2026-10-22T19:48:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dabangasudan.org/en/all-news/article/wars-scars-and-hope-for-healing-sudanese-stories-through-the-art-of-amani-azhari",
+      "published_date": "2026-10-29T20:51:53+00:00",
+      "category": "Military"
     },
     {
       "title": "Sudan accuses Ethiopia of launching 162 drone attacks from its territory",
@@ -148,20 +141,6 @@
       "source": "Dabanga",
       "url": "https://www.dabangasudan.org/en/all-news/article/uk-led-warning-famine-risk-is-rising-in-sudan-as-19-5-million-face-acute-hunger",
       "published_date": "2026-10-25T09:45:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Sudan lifts ban on 46 imports as inflation rises and Dollar hits SDG 10,300",
-      "source": "Dabanga",
-      "url": "https://www.dabangasudan.org/en/all-news/article/sudan-lifts-ban-on-46-imports-as-inflation-rises-and-dollar-hits-sdg-10300",
-      "published_date": "2026-10-22T18:29:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Sudan hunger crisis deepens as aid cuts collide with crop failure in Darfur",
-      "source": "Dabanga",
-      "url": "https://www.dabangasudan.org/en/all-news/article/sudan-hunger-crisis-deepens-as-aid-cuts-collide-with-crop-failure-in-darfur",
-      "published_date": "2026-10-22T17:17:00+00:00",
       "category": "Economy"
     },
     {
