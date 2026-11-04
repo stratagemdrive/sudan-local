@@ -1,8 +1,29 @@
 {
   "country": "Sudan",
-  "last_updated": "2026-11-04T02:49:24.437917+00:00",
-  "story_count": 11,
+  "last_updated": "2026-11-04T18:19:44.696078+00:00",
+  "story_count": 12,
   "stories": [
+    {
+      "title": "Drone attacks kill civilians and cripple Sudan’s power infrastructure, UN warns of growing humanitarian toll",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/drone-attacks-kill-civilians-and-cripple-sudans-power-infrastructure-un-warns-of-growing-humanitarian-toll",
+      "published_date": "2026-11-04T15:00:20+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "North Kordofan struggles under Sudan war’s economic fallout",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/north-kordofan-struggles-under-sudan-wars-economic-fallout",
+      "published_date": "2026-11-04T14:14:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Sudanese Arab refugees face hostility and distrust after fleeing to Chad",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20261104-sudanese-arab-refugees-face-hostility-and-distrust-after-fleeing-to-chad",
+      "published_date": "2026-11-04T10:18:55+00:00",
+      "category": "Military"
+    },
     {
       "title": "Sudan gov’t accuses Ethiopia of backing RSF drone attacks, analysts question UN complaint",
       "source": "Dabanga",
@@ -39,27 +60,6 @@
       "category": "Military"
     },
     {
-      "title": "Sudan: China deploys anti-drone systems in Abyei after deadly attack",
-      "source": "Dabanga",
-      "url": "https://www.dabangasudan.org/en/all-news/article/sudan-china-deploys-anti-drone-systems-in-abtei-after-deadly-attack",
-      "published_date": "2026-10-28T15:08:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Tasees places South Darfur market strike toll at 188 — MSF receives 36 bodies in Nyala",
-      "source": "Dabanga",
-      "url": "https://www.dabangasudan.org/en/all-news/article/tasees-places-south-darfur-market-strike-toll-at-188-msf-receives-36-bodies-in-nyala",
-      "published_date": "2026-10-28T10:52:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Rights groups oppose UAE’s Lana Nusseibeh for UN chief over Sudan claims",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/americas/20261028-lana-nusseibeh-un-chief-uae-sudan-rights-groups",
-      "published_date": "2026-10-28T02:56:59+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Experts question IMF growth forecasts for Sudan amid economic devastation",
       "source": "Dabanga",
       "url": "https://www.dabangasudan.org/en/all-news/article/experts-question-imf-growth-forecasts-for-sudan-amid-economic-devastation",
@@ -67,17 +67,24 @@
       "category": "Economy"
     },
     {
+      "title": "Four-day blackout disrupts hospital services, livelihoods in Sudan’s White Nile state",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/four-day-blackout-disrupts-hospital-services-livelihoods-in-sudans-white-nile-state",
+      "published_date": "2026-11-04T13:58:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Sudan: army personnel accused of controlling parallel fuel market in Wad Madani amid soaring prices",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/sudan-army-personnel-accused-of-controlling-parallel-fuel-market-in-wad-madani-amid-soaring-prices",
+      "published_date": "2026-11-04T12:36:00+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "MSF calls for stronger security measures to protect its work in Central Darfur",
       "source": "Dabanga",
       "url": "https://www.dabangasudan.org/en/all-news/article/msf-calls-for-stronger-security-measures-to-protect-its-work-in-central-darfur",
       "published_date": "2026-10-29T15:55:34+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sudan war: Intense fighting in Blue Nile drives fresh displacement",
-      "source": "Dabanga",
-      "url": "https://www.dabangasudan.org/en/all-news/article/sudan-war-intense-fighting-in-blue-nile-drives-fresh-displacement",
-      "published_date": "2026-10-28T14:30:00+00:00",
       "category": "Local Events"
     }
   ]
