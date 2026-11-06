@@ -1,8 +1,15 @@
 {
   "country": "Sudan",
-  "last_updated": "2026-11-06T02:57:52.695122+00:00",
-  "story_count": 8,
+  "last_updated": "2026-11-06T17:44:34.519188+00:00",
+  "story_count": 9,
   "stories": [
+    {
+      "title": "Australia sanctions El Burhan and Hemedti over Sudan war and human rights abuses",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/australia-sanctions-el-burhan-and-hemedti-over-sudan-war-and-human-rights-abuses",
+      "published_date": "2026-11-06T15:41:30+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Sudan accuses Ethiopia of allowing RSF drone launches from its territory",
       "source": "France 24",
