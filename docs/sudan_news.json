@@ -1,7 +1,7 @@
 {
   "country": "Sudan",
-  "last_updated": "2026-11-08T16:52:01.098167+00:00",
-  "story_count": 9,
+  "last_updated": "2026-11-09T02:13:38.982001+00:00",
+  "story_count": 10,
   "stories": [
     {
       "title": "Australia sanctions El Burhan and Hemedti over Sudan war and human rights abuses",
@@ -51,6 +51,13 @@
       "url": "https://www.dabangasudan.org/en/all-news/article/sudanese-journalists-syndicate-documents-673-violations-and-calls-for-end-to-impunity",
       "published_date": "2026-11-02T12:13:00+00:00",
       "category": "Military"
+    },
+    {
+      "title": "Sudan fuel shortages damage crops in El Gezira as food prices soar, bakeries strike in North Kordofan",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/sudan-fuel-shortages-damage-crops-in-el-gezira-as-food-prices-soar-bakeries-strike-in-north-kordofan",
+      "published_date": "2026-11-08T18:13:00+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Four-day blackout disrupts hospital services, livelihoods in Sudan’s White Nile state",
