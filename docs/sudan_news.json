@@ -1,6 +1,6 @@
 {
   "country": "Sudan",
-  "last_updated": "2026-11-09T02:13:38.982001+00:00",
+  "last_updated": "2026-11-09T21:12:07.061067+00:00",
   "story_count": 10,
   "stories": [
     {
@@ -9,6 +9,13 @@
       "url": "https://www.dabangasudan.org/en/all-news/article/australia-sanctions-el-burhan-and-hemedti-over-sudan-war-and-human-rights-abuses",
       "published_date": "2026-11-06T15:41:30+00:00",
       "category": "Diplomacy"
+    },
+    {
+      "title": "PCP Sec-Gen Ali El Haj: ‘Sudan’s army has exceeded its remit – war now part of dissolved NCP agenda’",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/ali-el-haj-sudans-army-has-exceeded-its-professional-remit-war-now-part-of-dissolved-ncp-agenda",
+      "published_date": "2026-11-09T09:00:00+00:00",
+      "category": "Military"
     },
     {
       "title": "Sudan accuses Ethiopia of allowing RSF drone launches from its territory",
@@ -39,18 +46,11 @@
       "category": "Military"
     },
     {
-      "title": "Sudan gov’t accuses Ethiopia of backing RSF drone attacks, analysts question UN complaint",
+      "title": "Mother of rape victim faces fresh prosecution days before release from prison",
       "source": "Dabanga",
-      "url": "https://www.dabangasudan.org/en/all-news/article/sudan-govt-accuses-ethiopia-of-backing-rsf-drone-attacks-analysts-question-un-complaint",
-      "published_date": "2026-11-02T17:17:16+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Sudanese Journalists’ Syndicate documents 673 violations and calls for end to impunity",
-      "source": "Dabanga",
-      "url": "https://www.dabangasudan.org/en/all-news/article/sudanese-journalists-syndicate-documents-673-violations-and-calls-for-end-to-impunity",
-      "published_date": "2026-11-02T12:13:00+00:00",
-      "category": "Military"
+      "url": "https://www.dabangasudan.org/en/all-news/article/mother-of-rape-victim-faces-fresh-prosecution-days-before-release-from-prison",
+      "published_date": "2026-11-09T16:25:12+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Sudan fuel shortages damage crops in El Gezira as food prices soar, bakeries strike in North Kordofan",
