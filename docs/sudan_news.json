@@ -1,7 +1,7 @@
 {
   "country": "Sudan",
-  "last_updated": "2026-11-10T04:25:11.669411+00:00",
-  "story_count": 10,
+  "last_updated": "2026-11-10T18:22:34.164235+00:00",
+  "story_count": 13,
   "stories": [
     {
       "title": "Australia sanctions El Burhan and Hemedti over Sudan war and human rights abuses",
@@ -9,6 +9,13 @@
       "url": "https://www.dabangasudan.org/en/all-news/article/australia-sanctions-el-burhan-and-hemedti-over-sudan-war-and-human-rights-abuses",
       "published_date": "2026-11-06T15:41:30+00:00",
       "category": "Diplomacy"
+    },
+    {
+      "title": "South Darfur civilians face ‘dire conditions, suffering beyond endurance’",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/south-darfur-civilians-face-dire-conditions-suffering-beyond-endurance",
+      "published_date": "2026-11-10T13:58:14+00:00",
+      "category": "Military"
     },
     {
       "title": "PCP Sec-Gen Ali El Haj: ‘Sudan’s army has exceeded its remit – war now part of dissolved NCP agenda’",
@@ -44,6 +51,20 @@
       "url": "https://www.france24.com/en/video/20261104-sudanese-arab-refugees-face-hostility-and-distrust-after-fleeing-to-chad",
       "published_date": "2026-11-04T10:18:55+00:00",
       "category": "Military"
+    },
+    {
+      "title": "Two-week power blackout after drone attack sees prices in Sudan’s White Nile state soar",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/two-week-power-blackout-after-drone-attack-sees-prices-in-sudans-white-nile-state-soar",
+      "published_date": "2026-11-10T09:23:00+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Darfur faces looming famine as emergency rooms report crop failure — Justice Africa Sudan calls for immediate ceasefire, humanitarian access",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/darfur-faces-looming-famine-as-emergency-rooms-report-crop-failure-justice-africa-sudan-calls-for-immediate-ceasefire-humanitarian-access",
+      "published_date": "2026-11-10T10:03:00+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Mother of rape victim faces fresh prosecution days before release from prison",
