@@ -1,7 +1,7 @@
 {
   "country": "Sudan",
-  "last_updated": "2026-11-11T02:23:46.068260+00:00",
-  "story_count": 13,
+  "last_updated": "2026-11-11T18:13:36.012756+00:00",
+  "story_count": 11,
   "stories": [
     {
       "title": "Australia sanctions El Burhan and Hemedti over Sudan war and human rights abuses",
@@ -9,6 +9,13 @@
       "url": "https://www.dabangasudan.org/en/all-news/article/australia-sanctions-el-burhan-and-hemedti-over-sudan-war-and-human-rights-abuses",
       "published_date": "2026-11-06T15:41:30+00:00",
       "category": "Diplomacy"
+    },
+    {
+      "title": "OCHA reports 71 aid workers killed in Sudan in 2025 as humanitarian funding crisis deepens",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/ocha-reports-71-aid-workers-killed-in-sudan-as-humanitarian-funding-crisis-deepens",
+      "published_date": "2026-11-11T12:17:00+00:00",
+      "category": "Military"
     },
     {
       "title": "South Darfur civilians face ‘dire conditions, suffering beyond endurance’",
@@ -32,32 +39,25 @@
       "category": "Military"
     },
     {
-      "title": "Drone attacks kill civilians and cripple Sudan’s power infrastructure, UN warns of growing humanitarian toll",
-      "source": "Dabanga",
-      "url": "https://www.dabangasudan.org/en/all-news/article/drone-attacks-kill-civilians-and-cripple-sudans-power-infrastructure-un-warns-of-growing-humanitarian-toll",
-      "published_date": "2026-11-04T15:00:20+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "North Kordofan struggles under Sudan war’s economic fallout",
-      "source": "Dabanga",
-      "url": "https://www.dabangasudan.org/en/all-news/article/north-kordofan-struggles-under-sudan-wars-economic-fallout",
-      "published_date": "2026-11-04T14:14:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Sudanese Arab refugees face hostility and distrust after fleeing to Chad",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20261104-sudanese-arab-refugees-face-hostility-and-distrust-after-fleeing-to-chad",
-      "published_date": "2026-11-04T10:18:55+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Two-week power blackout after drone attack sees prices in Sudan’s White Nile state soar",
       "source": "Dabanga",
       "url": "https://www.dabangasudan.org/en/all-news/article/two-week-power-blackout-after-drone-attack-sees-prices-in-sudans-white-nile-state-soar",
       "published_date": "2026-11-10T09:23:00+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Sudan’s gold export earnings soar, but the money is not reaching the poor",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/sudans-gold-export-earnings-soar-but-the-money-is-not-reaching-the-poor",
+      "published_date": "2026-11-11T14:00:32+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "UN: One in three Sudanese households have lost their livelihoods",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/un-one-in-three-sudanese-households-have-lost-their-livelihoods",
+      "published_date": "2026-11-11T09:53:00+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Darfur faces looming famine as emergency rooms report crop failure — Justice Africa Sudan calls for immediate ceasefire, humanitarian access",
@@ -78,20 +78,6 @@
       "source": "Dabanga",
       "url": "https://www.dabangasudan.org/en/all-news/article/sudan-fuel-shortages-damage-crops-in-el-gezira-as-food-prices-soar-bakeries-strike-in-north-kordofan",
       "published_date": "2026-11-08T18:13:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Four-day blackout disrupts hospital services, livelihoods in Sudan’s White Nile state",
-      "source": "Dabanga",
-      "url": "https://www.dabangasudan.org/en/all-news/article/four-day-blackout-disrupts-hospital-services-livelihoods-in-sudans-white-nile-state",
-      "published_date": "2026-11-04T13:58:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sudan: army personnel accused of controlling parallel fuel market in Wad Madani amid soaring prices",
-      "source": "Dabanga",
-      "url": "https://www.dabangasudan.org/en/all-news/article/sudan-army-personnel-accused-of-controlling-parallel-fuel-market-in-wad-madani-amid-soaring-prices",
-      "published_date": "2026-11-04T12:36:00+00:00",
       "category": "Local Events"
     }
   ]
