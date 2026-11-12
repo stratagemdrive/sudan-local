@@ -1,7 +1,7 @@
 {
   "country": "Sudan",
-  "last_updated": "2026-11-12T03:29:35.598718+00:00",
-  "story_count": 11,
+  "last_updated": "2026-11-12T18:39:55.023334+00:00",
+  "story_count": 13,
   "stories": [
     {
       "title": "Australia sanctions El Burhan and Hemedti over Sudan war and human rights abuses",
@@ -9,6 +9,13 @@
       "url": "https://www.dabangasudan.org/en/all-news/article/australia-sanctions-el-burhan-and-hemedti-over-sudan-war-and-human-rights-abuses",
       "published_date": "2026-11-06T15:41:30+00:00",
       "category": "Diplomacy"
+    },
+    {
+      "title": "Sudan traders ‘missing millions’ as hackers target Bankak app",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/sudan-traders-missing-millions-as-hackers-target-bankak-app",
+      "published_date": "2026-11-12T13:31:03+00:00",
+      "category": "Military"
     },
     {
       "title": "OCHA reports 71 aid workers killed in Sudan in 2025 as humanitarian funding crisis deepens",
@@ -32,13 +39,6 @@
       "category": "Military"
     },
     {
-      "title": "Sudan accuses Ethiopia of allowing RSF drone launches from its territory",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20261105-sudan-accuses-ethiopia-of-allowing-rsf-drone-launches-from-its-territory",
-      "published_date": "2026-11-05T10:42:55+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Two-week power blackout after drone attack sees prices in Sudan’s White Nile state soar",
       "source": "Dabanga",
       "url": "https://www.dabangasudan.org/en/all-news/article/two-week-power-blackout-after-drone-attack-sees-prices-in-sudans-white-nile-state-soar",
@@ -51,6 +51,20 @@
       "url": "https://www.dabangasudan.org/en/all-news/article/sudans-gold-export-earnings-soar-but-the-money-is-not-reaching-the-poor",
       "published_date": "2026-11-11T14:00:32+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "Sudanese refugees in eastern Chad call for justice, lament slow ICC proceedings",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/sudanese-refugees-in-eastern-chad-call-for-justice-lament-slow-icc-proceedings",
+      "published_date": "2026-11-12T10:38:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Soaring prices, water shortages deepen hardship in Port Sudan",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/soaring-prices-water-shortages-deepen-hardship-in-port-sudan",
+      "published_date": "2026-11-12T09:00:00+00:00",
+      "category": "Local Events"
     },
     {
       "title": "UN: One in three Sudanese households have lost their livelihoods",
