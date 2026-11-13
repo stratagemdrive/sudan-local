@@ -1,15 +1,8 @@
 {
   "country": "Sudan",
-  "last_updated": "2026-11-13T03:01:54.557795+00:00",
-  "story_count": 13,
+  "last_updated": "2026-11-13T18:19:20.796722+00:00",
+  "story_count": 14,
   "stories": [
-    {
-      "title": "Australia sanctions El Burhan and Hemedti over Sudan war and human rights abuses",
-      "source": "Dabanga",
-      "url": "https://www.dabangasudan.org/en/all-news/article/australia-sanctions-el-burhan-and-hemedti-over-sudan-war-and-human-rights-abuses",
-      "published_date": "2026-11-06T15:41:30+00:00",
-      "category": "Diplomacy"
-    },
     {
       "title": "Sudan traders ‘missing millions’ as hackers target Bankak app",
       "source": "Dabanga",
@@ -51,6 +44,20 @@
       "url": "https://www.dabangasudan.org/en/all-news/article/sudans-gold-export-earnings-soar-but-the-money-is-not-reaching-the-poor",
       "published_date": "2026-11-11T14:00:32+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "Storm leaves Sudanese refugee families without shelter in Uganda",
+      "source": "Dabanga",
+      "url": "https://www.dabangasudan.org/en/all-news/article/storm-leaves-sudanese-refugee-families-without-shelter-in-uganda",
+      "published_date": "2026-11-13T16:53:31+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "UN refugee chief Barham Salih slams 'shameful' war in Sudan, urges 'political solution'",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/t%C3%AAte-%C3%A0-t%C3%AAte/20261113-un-refugee-chief-barham-salih-slams-shameful-war-in-sudan-urges-political-solution",
+      "published_date": "2026-11-13T15:56:30+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Sudanese refugees in eastern Chad call for justice, lament slow ICC proceedings",
